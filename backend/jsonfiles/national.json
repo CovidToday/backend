@@ -1171,24 +1171,24 @@
 			"totalrecovered": "123848"
 		},
 		{
-			"dailyconfirmed": "8385",
+			"dailyconfirmed": "8444",
 			"dailydeceased": "266",
-			"dailyrecovered": "5240",
+			"dailyrecovered": "5247",
 			"date": "08 June ",
-			"totalconfirmed": "265870",
+			"totalconfirmed": "265929",
 			"totaldeceased": "7472",
-			"totalrecovered": "129088"
+			"totalrecovered": "129095"
 		}
 	],
 	"statewise": [
 		{
-			"active": "129286",
-			"confirmed": "265869",
+			"active": "129345",
+			"confirmed": "265928",
 			"deaths": "7473",
-			"deltaconfirmed": "8385",
+			"deltaconfirmed": "8444",
 			"deltadeaths": "266",
-			"deltarecovered": "5240",
-			"lastupdatedtime": "09/06/2020 01:04:46",
+			"deltarecovered": "5247",
+			"lastupdatedtime": "09/06/2020 01:43:51",
 			"migratedother": "15",
 			"recovered": "129095",
 			"state": "Total",
@@ -1271,7 +1271,7 @@
 			"deaths": "246",
 			"deltaconfirmed": "277",
 			"deltadeaths": "6",
-			"deltarecovered": "356",
+			"deltarecovered": "363",
 			"lastupdatedtime": "09/06/2020 01:04:48",
 			"migratedother": "0",
 			"recovered": "8117",
@@ -1420,13 +1420,13 @@
 			"statenotes": "Two non-covid deaths reported in state dashboard are included in the deceased count"
 		},
 		{
-			"active": "1985",
-			"confirmed": "2777",
+			"active": "2044",
+			"confirmed": "2836",
 			"deaths": "4",
-			"deltaconfirmed": "95",
+			"deltaconfirmed": "154",
 			"deltadeaths": "0",
 			"deltarecovered": "148",
-			"lastupdatedtime": "08/06/2020 23:04:49",
+			"lastupdatedtime": "09/06/2020 01:44:02",
 			"migratedother": "3",
 			"recovered": "785",
 			"state": "Assam",
