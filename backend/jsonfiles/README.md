@@ -79,4 +79,10 @@ baseline bias
 | india_mobility_indented.json: <https://raw.githubusercontent.com/CovidToday/CovidToday_Website/master/backend/jsonfiles/india_mobility_indented.json> |
 
 
+# Terms of Use 
+
+1. You are welcome to share to website content and visualisations, and run analyses using the datasets from COVID TODAY for public health, educational, journalistic and non-commercial uses, including any personal, editorial, academic, or research purposes. Commercial uses are not permitted and will require permission from COVID TODAY.
+2. **If the website or datasets are shared/used, attribution must be provided appropriately**. When using datasets from COVID TODAY, attribute as "COVID-19 Outbreak Indicators Dataset by COVID TODAY" and provide a link alongside. When linking to the website, attribute as "COVID TODAY Dashboard" and provide a link alongside. 
+3. You should not rely on this website for medical advice or guidance. Since we have no control over the publicly available data our analyses are based on, COVID TODAY hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights.
+4. These terms and conditions are subject to change. Your use of the Website and Datasets constitutes your acceptance of these terms and conditions and any future modifications thereof.
 
