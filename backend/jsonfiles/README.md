@@ -1,11 +1,13 @@
-**COVID TODAY (covidtoday.in)**
+# Covid Today by iCART <br/>Daily updated datasets for outbreak indicators - India and states 
+# How to use the datasets (JSON and CSV)
 
-**DATASETS FOR DAILY OUTBREAK INDICATORS – INDIA AND STATES**
+Dashboard and detailed methods of estimation at www.covidtoday.in <br/>
+Contact at covidtodayindia@gmail.com<br/>
+Feedback/Contribute at https://forms.gle/HDCDVYApfRi319k58
 
-**DATA DOCUMENTATION- HOW TO USE THE DATA**
+All dates and times in Indian Standard Time (IST). 
 
-This document has description about all the datasets which can be used for
-various analytics.
+## Getting the indicator(s) you want
 
 To access the data for any of these keys use the following command: **value =
 data[‘state’][‘key name’]**
@@ -62,14 +64,19 @@ first layer of keys has the state name (including India) : e.g. ‘Kerala ,
 |                              | residential                | Residential Mobility \*\*                                                           |
 |                              | average_mobility           | Average of normalised mobility from Retail, Grocery, Transit, Workplace             |
 
-\*unaltered data from covid19india.org, formatted for time-series analysis
+\*unaltered data from www.covid19india.org, formatted for time-series analysis
 
 \*\*mobility data from www.google.com/covid19/mobility, normalised for weekend
 baseline bias
 
-| The API End Points to get the data                                                                                                                    |
+# API for datasets
+
+| API End Points to get the data                                                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | rt.json: <https://raw.githubusercontent.com/CovidToday/CovidToday_Website/master/backend/jsonfiles/rt.json>                                           |
 | cfr.json: <https://raw.githubusercontent.com/CovidToday/CovidToday_Website/master/backend/jsonfiles/cfr.json>                                         |
 | positivity_Rate.json: <https://raw.githubusercontent.com/CovidToday/CovidToday_Website/master/backend/jsonfiles/positivity_Rate.json>                 |
 | india_mobility_indented.json: <https://raw.githubusercontent.com/CovidToday/CovidToday_Website/master/backend/jsonfiles/india_mobility_indented.json> |
+
+
+
