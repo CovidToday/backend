@@ -1169,19 +1169,28 @@
 			"totalconfirmed": "257485",
 			"totaldeceased": "7206",
 			"totalrecovered": "123848"
+		},
+		{
+			"dailyconfirmed": "8385",
+			"dailydeceased": "266",
+			"dailyrecovered": "5240",
+			"date": "08 June ",
+			"totalconfirmed": "265870",
+			"totaldeceased": "7472",
+			"totalrecovered": "129088"
 		}
 	],
 	"statewise": [
 		{
-			"active": "129293",
+			"active": "129286",
 			"confirmed": "265869",
 			"deaths": "7473",
 			"deltaconfirmed": "8385",
 			"deltadeaths": "266",
 			"deltarecovered": "5240",
-			"lastupdatedtime": "08/06/2020 23:42:46",
+			"lastupdatedtime": "09/06/2020 01:02:46",
 			"migratedother": "15",
-			"recovered": "129088",
+			"recovered": "129095",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1257,15 +1266,15 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2520",
+			"active": "2513",
 			"confirmed": "10876",
 			"deaths": "246",
 			"deltaconfirmed": "277",
 			"deltadeaths": "6",
 			"deltarecovered": "356",
-			"lastupdatedtime": "08/06/2020 21:53:48",
+			"lastupdatedtime": "09/06/2020 01:02:49",
 			"migratedother": "0",
-			"recovered": "8110",
+			"recovered": "8117",
 			"state": "Rajasthan",
 			"statecode": "RJ",
 			"statenotes": ""
@@ -1487,7 +1496,7 @@
 			"deltaconfirmed": "124",
 			"deltadeaths": "0",
 			"deltarecovered": "69",
-			"lastupdatedtime": "08/06/2020 23:42:49",
+			"lastupdatedtime": "08/06/2020 23:43:49",
 			"migratedother": "0",
 			"recovered": "335",
 			"state": "Chhattisgarh",
@@ -1557,7 +1566,7 @@
 			"deltaconfirmed": "100",
 			"deltadeaths": "0",
 			"deltarecovered": "6",
-			"lastupdatedtime": "08/06/2020 23:42:51",
+			"lastupdatedtime": "08/06/2020 23:43:50",
 			"migratedother": "0",
 			"recovered": "58",
 			"state": "Manipur",
@@ -1669,7 +1678,7 @@
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/06/2020 23:42:53",
+			"lastupdatedtime": "08/06/2020 23:54:49",
 			"migratedother": "0",
 			"recovered": "2",
 			"state": "Dadra and Nagar Haveli and Daman and Diu",
