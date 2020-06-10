@@ -1,0 +1,4145 @@
+state,dates,retail,grocery,parks,transit,workplace,residential,average_mobility
+India,15 February,1,2,3,3,5,0,2.75
+India,16 February,2,2,3,2,0,0,1.5
+India,17 February,-1,1,3,1,4,0,1.25
+India,18 February,0,2,4,2,3,0,1.75
+India,19 February,0,2,1,1,4,1,1.75
+India,20 February,1,3,5,5,4,-1,3.25
+India,21 February,-4,0,6,-4,-19,5,-6.75
+India,22 February,-4,0,6,-4,-19,5,-6.75
+India,23 February,-4,0,6,-4,-19,5,-6.75
+India,24 February,-1,0,2,1,4,0,1.0
+India,25 February,-1,-2,3,1,1,0,-0.25
+India,26 February,0,0,1,3,3,-1,1.5
+India,27 February,-1,-1,3,1,4,0,0.75
+India,28 February,0,1,3,1,5,0,1.75
+India,29 February,0,1,3,1,5,0,1.75
+India,01 March,0,1,3,1,5,0,1.75
+India,02 March,0,2,3,0,5,0,1.75
+India,03 March,-1,2,3,0,4,0,1.25
+India,04 March,0,5,1,3,7,0,3.75
+India,05 March,-1,3,3,2,5,0,2.25
+India,06 March,-1,2,0,3,5,1,2.25
+India,07 March,-1,2,0,3,5,1,2.25
+India,08 March,-1,2,0,3,5,1,2.25
+India,09 March,-1,6,4,-6,-12,3,-3.25
+India,10 March,-19,-23,-4,-22,-44,11,-27.0
+India,11 March,-5,-1,-2,-1,-5,1,-3.0
+India,12 March,-3,1,2,0,0,0,-0.5
+India,13 March,-5,1,0,-2,0,1,-1.5
+India,14 March,-5,1,0,-2,0,1,-1.5
+India,15 March,-5,1,0,-2,0,1,-1.5
+India,16 March,-8,2,-1,-6,-4,3,-4.0
+India,17 March,-11,0,-2,-9,-8,3,-7.0
+India,18 March,-12,1,-6,-10,-8,4,-7.25
+India,19 March,-16,1,-7,-14,-11,5,-10.0
+India,20 March,-22,1,-13,-18,-15,7,-13.5
+India,21 March,-22,1,-13,-18,-15,7,-13.5
+India,22 March,-22,1,-13,-18,-15,7,-13.5
+India,23 March,-54,-27,-35,-52,-50,20,-45.75
+India,24 March,-68,-48,-44,-64,-65,25,-61.25
+India,25 March,-77,-64,-53,-73,-72,30,-71.5
+India,26 March,-76,-64,-51,-73,-70,30,-70.75
+India,27 March,-77,-64,-52,-73,-70,31,-71.0
+India,28 March,-77,-64,-52,-73,-70,31,-71.0
+India,29 March,-77,-64,-52,-73,-70,31,-71.0
+India,30 March,-76,-63,-51,-74,-68,30,-70.25
+India,31 March,-75,-63,-50,-73,-68,29,-69.75
+India,01 April,-76,-64,-52,-73,-68,29,-70.25
+India,02 April,-76,-65,-51,-74,-69,30,-71.0
+India,03 April,-76,-62,-51,-73,-67,30,-69.5
+India,04 April,-76,-62,-51,-73,-67,30,-69.5
+India,05 April,-76,-62,-51,-73,-67,30,-69.5
+India,06 April,-76,-63,-50,-73,-68,30,-70.0
+India,07 April,-78,-53,-46,-67,-67,28,-66.25
+India,08 April,-78,-52,-48,-68,-67,29,-66.25
+India,09 April,-78,-54,-48,-68,-68,30,-67.0
+India,10 April,-79,-53,-48,-69,-69,32,-67.5
+India,11 April,-79,-53,-48,-69,-69,32,-67.5
+India,12 April,-79,-53,-48,-69,-69,32,-67.5
+India,13 April,-78,-53,-48,-69,-66,31,-66.5
+India,14 April,-78,-55,-47,-69,-69,30,-67.75
+India,15 April,-78,-51,-48,-66,-64,29,-64.75
+India,16 April,-85,-44,-60,-65,-65,30,-64.75
+India,17 April,-85,-43,-60,-65,-65,31,-64.5
+India,18 April,-85,-43,-60,-65,-65,31,-64.5
+India,19 April,-85,-43,-60,-65,-65,31,-64.5
+India,20 April,-86,-47,-62,-67,-63,30,-65.75
+India,21 April,-85,-47,-62,-66,-64,29,-65.5
+India,22 April,-86,-46,-63,-66,-63,29,-65.25
+India,23 April,-86,-47,-62,-66,-64,30,-65.75
+India,24 April,-85,-44,-63,-66,-63,30,-64.5
+India,25 April,-85,-44,-63,-66,-63,30,-64.5
+India,26 April,-85,-44,-63,-66,-63,30,-64.5
+India,27 April,-85,-47,-62,-67,-62,31,-65.25
+India,28 April,-85,-46,-61,-66,-63,28,-65.0
+India,29 April,-85,-44,-62,-64,-61,29,-63.5
+India,30 April,-84,-43,-60,-64,-61,29,-63.0
+India,01 May,-85,-43,-62,-65,-64,30,-64.25
+India,02 May,-85,-43,-62,-65,-64,30,-64.25
+India,03 May,-85,-43,-62,-65,-64,30,-64.25
+India,04 May,-81,-35,-60,-61,-56,27,-58.25
+India,05 May,-81,-35,-60,-59,-56,26,-57.75
+India,06 May,-79,-30,-60,-56,-54,25,-54.75
+India,07 May,-79,-31,-59,-57,-56,26,-55.75
+India,08 May,-79,-28,-59,-56,-52,26,-53.75
+India,09 May,-79,-28,-59,-56,-52,26,-53.75
+India,10 May,-79,-28,-59,-56,-52,26,-53.75
+India,11 May,-78,-28,-58,-56,-50,25,-53.0
+India,12 May,-78,-28,-57,-55,-52,24,-53.25
+India,13 May,-77,-26,-58,-53,-49,23,-51.25
+India,14 May,-77,-27,-57,-54,-49,23,-51.75
+India,15 May,-76,-22,-56,-52,-48,23,-49.5
+India,16 May,-76,-22,-56,-52,-48,23,-49.5
+India,17 May,-76,-22,-56,-52,-48,23,-49.5
+India,18 May,-74,-21,-56,-52,-45,22,-48.0
+India,19 May,-73,-20,-56,-50,-46,21,-47.25
+India,20 May,-72,-21,-57,-49,-44,21,-46.5
+India,21 May,-72,-20,-56,-49,-44,21,-46.25
+India,22 May,-72,-17,-56,-48,-42,21,-44.75
+India,23 May,-72,-17,-56,-48,-42,21,-44.75
+India,24 May,-72,-17,-56,-48,-42,21,-44.75
+India,25 May,-71,-19,-55,-51,-51,22,-48.0
+India,26 May,-70,-16,-54,-46,-42,19,-43.5
+India,27 May,-69,-13,-55,-45,-39,19,-41.5
+India,28 May,-69,-14,-54,-46,-40,19,-42.25
+India,29 May,-69,-10,-54,-45,-38,19,-40.5
+India,30 May,-69,-10,-54,-45,-38,19,-40.5
+India,31 May,-69,-10,-54,-45,-38,19,-40.5
+India,01 June,-65,-4,-53,-41,-35,17,-36.25
+India,02 June,-65,-4,-53,-40,-37,16,-36.5
+India,03 June,-65,-4,-54,-40,-35,17,-36.0
+India,04 June,-64,-4,-53,-39,-35,16,-35.5
+India,05 June,-62,-2,-52,-39,-34,17,-34.25
+Andaman and Nicobar Islands,15 February,1,-9,5,-2,6,2,-1.0
+Andaman and Nicobar Islands,16 February,0,-6,1,2,4,,0.0
+Andaman and Nicobar Islands,17 February,-1,2,5,1,6,1,2.0
+Andaman and Nicobar Islands,18 February,-2,12,-4,-1,4,3,3.25
+Andaman and Nicobar Islands,19 February,-5,9,-6,2,4,1,2.5
+Andaman and Nicobar Islands,20 February,-2,-4,3,-1,1,1,-1.5
+Andaman and Nicobar Islands,21 February,-1,-9,1,1,-9,4,-4.5
+Andaman and Nicobar Islands,22 February,-1,-9,1,1,-9,4,-4.5
+Andaman and Nicobar Islands,23 February,-1,-9,1,1,-9,4,-4.5
+Andaman and Nicobar Islands,24 February,-3,-19,-2,8,4,0,-2.5
+Andaman and Nicobar Islands,25 February,-2,-2,-5,3,3,2,0.5
+Andaman and Nicobar Islands,26 February,-6,-14,-5,1,3,0,-4.0
+Andaman and Nicobar Islands,27 February,-4,-14,-7,0,1,1,-4.25
+Andaman and Nicobar Islands,28 February,-2,-21,-13,0,5,1,-4.5
+Andaman and Nicobar Islands,29 February,-2,-21,-13,0,5,1,-4.5
+Andaman and Nicobar Islands,01 March,-2,-21,-13,0,5,1,-4.5
+Andaman and Nicobar Islands,02 March,-2,-17,-2,-3,6,0,-4.0
+Andaman and Nicobar Islands,03 March,-12,-18,-6,-6,4,2,-8.0
+Andaman and Nicobar Islands,04 March,-7,-14,-2,-1,4,2,-4.5
+Andaman and Nicobar Islands,05 March,-6,-20,0,0,3,1,-5.75
+Andaman and Nicobar Islands,06 March,-7,-25,-4,0,3,2,-7.25
+Andaman and Nicobar Islands,07 March,-7,-25,-4,0,3,2,-7.25
+Andaman and Nicobar Islands,08 March,-7,-25,-4,0,3,2,-7.25
+Andaman and Nicobar Islands,09 March,-8,-17,0,-3,-6,2,-8.5
+Andaman and Nicobar Islands,10 March,-36,-38,-12,-19,-56,13,-37.25
+Andaman and Nicobar Islands,11 March,-14,-16,-8,-1,0,0,-7.75
+Andaman and Nicobar Islands,12 March,-9,-12,-7,-2,1,2,-5.5
+Andaman and Nicobar Islands,13 March,-10,-19,-10,-3,4,2,-7.0
+Andaman and Nicobar Islands,14 March,-10,-19,-10,-3,4,2,-7.0
+Andaman and Nicobar Islands,15 March,-10,-19,-10,-3,4,2,-7.0
+Andaman and Nicobar Islands,16 March,-18,-11,-10,-7,-1,2,-9.25
+Andaman and Nicobar Islands,17 March,-24,-20,-25,-13,-4,4,-15.25
+Andaman and Nicobar Islands,18 March,-21,-20,-31,-14,-9,1,-16.0
+Andaman and Nicobar Islands,19 March,-16,-4,-21,-14,-7,1,-10.25
+Andaman and Nicobar Islands,20 March,-50,-43,-50,-31,-29,12,-38.25
+Andaman and Nicobar Islands,21 March,-50,-43,-50,-31,-29,12,-38.25
+Andaman and Nicobar Islands,22 March,-50,-43,-50,-31,-29,12,-38.25
+Andaman and Nicobar Islands,23 March,-61,-43,-60,-45,-44,21,-48.25
+Andaman and Nicobar Islands,24 March,-67,-48,-62,-46,-52,23,-53.25
+Andaman and Nicobar Islands,25 March,-80,-76,-68,-64,-63,,-70.75
+Andaman and Nicobar Islands,26 March,-80,-80,-65,-63,-66,,-72.25
+Andaman and Nicobar Islands,27 March,-78,-79,-70,-66,-63,,-71.5
+Andaman and Nicobar Islands,28 March,-78,-79,-70,-66,-63,,-71.5
+Andaman and Nicobar Islands,29 March,-78,-79,-70,-66,-63,,-71.5
+Andaman and Nicobar Islands,30 March,-69,-60,-62,-61,-56,29,-61.5
+Andaman and Nicobar Islands,31 March,-72,-64,-64,-60,-56,29,-63.0
+Andaman and Nicobar Islands,01 April,-75,-65,-67,-63,-58,,-65.25
+Andaman and Nicobar Islands,02 April,-74,-67,-67,-64,-57,,-65.5
+Andaman and Nicobar Islands,03 April,-76,-70,-65,-64,-57,,-66.75
+Andaman and Nicobar Islands,04 April,-76,-70,-65,-64,-57,,-66.75
+Andaman and Nicobar Islands,05 April,-76,-70,-65,-64,-57,,-66.75
+Andaman and Nicobar Islands,06 April,-75,,-67,-67,-56,31,
+Andaman and Nicobar Islands,07 April,-81,,-71,-77,-56,31,
+Andaman and Nicobar Islands,08 April,-83,,-72,-78,-54,29,
+Andaman and Nicobar Islands,09 April,-82,,-71,-77,-55,29,
+Andaman and Nicobar Islands,10 April,-83,,-70,-78,-62,,
+Andaman and Nicobar Islands,11 April,-83,,-70,-78,-62,,
+Andaman and Nicobar Islands,12 April,-83,,-70,-78,-62,,
+Andaman and Nicobar Islands,13 April,-80,,-70,-77,-50,28,
+Andaman and Nicobar Islands,14 April,-83,,-72,-77,-62,,
+Andaman and Nicobar Islands,15 April,-82,,-69,-75,-51,27,
+Andaman and Nicobar Islands,16 April,-87,,-69,-79,-52,29,
+Andaman and Nicobar Islands,17 April,-86,,-70,-80,-49,31,
+Andaman and Nicobar Islands,18 April,-86,,-70,-80,-49,31,
+Andaman and Nicobar Islands,19 April,-86,,-70,-80,-49,31,
+Andaman and Nicobar Islands,20 April,-86,,-72,-80,-49,29,
+Andaman and Nicobar Islands,21 April,-88,,-71,-82,-52,30,
+Andaman and Nicobar Islands,22 April,-88,,-73,-81,-51,29,
+Andaman and Nicobar Islands,23 April,-88,,-71,-82,-52,30,
+Andaman and Nicobar Islands,24 April,-88,,-73,-82,-50,30,
+Andaman and Nicobar Islands,25 April,-88,,-73,-82,-50,30,
+Andaman and Nicobar Islands,26 April,-88,,-73,-82,-50,30,
+Andaman and Nicobar Islands,27 April,-87,,-75,-81,-49,30,
+Andaman and Nicobar Islands,28 April,-88,,-71,-81,-50,29,
+Andaman and Nicobar Islands,29 April,-91,,-72,-81,-54,32,
+Andaman and Nicobar Islands,30 April,-86,,-70,-80,-48,30,
+Andaman and Nicobar Islands,01 May,-88,,-74,-82,-51,31,
+Andaman and Nicobar Islands,02 May,-88,,-74,-82,-51,31,
+Andaman and Nicobar Islands,03 May,-88,,-74,-82,-51,31,
+Andaman and Nicobar Islands,04 May,-85,,-71,-80,-41,27,
+Andaman and Nicobar Islands,05 May,-85,,-70,-79,-43,27,
+Andaman and Nicobar Islands,06 May,-89,,-68,-81,-46,30,
+Andaman and Nicobar Islands,07 May,-84,,-69,-77,-52,29,
+Andaman and Nicobar Islands,08 May,-83,,-69,-74,-35,25,
+Andaman and Nicobar Islands,09 May,-83,,-69,-74,-35,25,
+Andaman and Nicobar Islands,10 May,-83,,-69,-74,-35,25,
+Andaman and Nicobar Islands,11 May,-82,,-74,-77,-36,25,
+Andaman and Nicobar Islands,12 May,-84,,-76,-77,-40,25,
+Andaman and Nicobar Islands,13 May,-86,,-74,-74,-37,23,
+Andaman and Nicobar Islands,14 May,-86,,-69,-70,-37,22,
+Andaman and Nicobar Islands,15 May,-83,,-69,-68,-31,24,
+Andaman and Nicobar Islands,16 May,-83,,-69,-68,-31,24,
+Andaman and Nicobar Islands,17 May,-83,,-69,-68,-31,24,
+Andaman and Nicobar Islands,18 May,-79,,-70,-62,-26,22,
+Andaman and Nicobar Islands,19 May,-80,,-70,-61,-28,20,
+Andaman and Nicobar Islands,20 May,-81,,-78,-50,-35,12,
+Andaman and Nicobar Islands,21 May,-82,,-74,-55,-46,5,
+Andaman and Nicobar Islands,22 May,-81,,-76,-51,-35,14,
+Andaman and Nicobar Islands,23 May,-81,,-76,-51,-35,14,
+Andaman and Nicobar Islands,24 May,-81,,-76,-51,-35,14,
+Andaman and Nicobar Islands,25 May,-78,,-68,-45,-51,17,
+Andaman and Nicobar Islands,26 May,-77,,-68,-33,-24,9,
+Andaman and Nicobar Islands,27 May,-77,,-68,-35,-28,6,
+Andaman and Nicobar Islands,28 May,-76,,-70,-32,-22,13,
+Andaman and Nicobar Islands,29 May,-76,,-67,-40,-21,16,
+Andaman and Nicobar Islands,30 May,-76,,-67,-40,-21,16,
+Andaman and Nicobar Islands,31 May,-76,,-67,-40,-21,16,
+Andaman and Nicobar Islands,01 June,-68,,-63,-24,-11,13,
+Andaman and Nicobar Islands,02 June,-71,,-61,-27,-15,14,
+Andaman and Nicobar Islands,03 June,-71,,-64,-22,-14,14,
+Andaman and Nicobar Islands,04 June,-69,,-62,-21,-13,12,
+Andaman and Nicobar Islands,05 June,-71,,-70,-24,-16,12,
+Andhra Pradesh,15 February,-1,-1,5,5,4,0,1.75
+Andhra Pradesh,16 February,-1,1,4,4,-1,1,0.75
+Andhra Pradesh,17 February,-1,-1,4,3,6,0,1.75
+Andhra Pradesh,18 February,-1,1,4,2,5,0,1.75
+Andhra Pradesh,19 February,-2,0,4,0,4,0,0.5
+Andhra Pradesh,20 February,0,5,5,6,4,0,3.75
+Andhra Pradesh,21 February,-3,-6,18,0,-31,6,-10.0
+Andhra Pradesh,22 February,-3,-6,18,0,-31,6,-10.0
+Andhra Pradesh,23 February,-3,-6,18,0,-31,6,-10.0
+Andhra Pradesh,24 February,0,-1,4,4,6,0,2.25
+Andhra Pradesh,25 February,1,0,5,2,5,0,2.0
+Andhra Pradesh,26 February,0,-2,6,2,2,-1,0.5
+Andhra Pradesh,27 February,1,0,4,2,4,0,1.75
+Andhra Pradesh,28 February,0,-2,4,1,5,1,1.0
+Andhra Pradesh,29 February,0,-2,4,1,5,1,1.0
+Andhra Pradesh,01 March,0,-2,4,1,5,1,1.0
+Andhra Pradesh,02 March,0,1,4,1,9,1,2.75
+Andhra Pradesh,03 March,0,2,5,0,7,0,2.25
+Andhra Pradesh,04 March,0,5,6,0,6,0,2.75
+Andhra Pradesh,05 March,0,5,4,0,5,1,2.5
+Andhra Pradesh,06 March,0,4,5,0,7,2,2.75
+Andhra Pradesh,07 March,0,4,5,0,7,2,2.75
+Andhra Pradesh,08 March,0,4,5,0,7,2,2.75
+Andhra Pradesh,09 March,1,3,9,1,4,1,2.25
+Andhra Pradesh,10 March,0,4,9,0,-1,1,0.75
+Andhra Pradesh,11 March,-2,1,5,-1,2,-1,0.0
+Andhra Pradesh,12 March,-1,1,4,-2,2,1,0.0
+Andhra Pradesh,13 March,-4,-1,3,-2,3,1,-1.0
+Andhra Pradesh,14 March,-4,-1,3,-2,3,1,-1.0
+Andhra Pradesh,15 March,-4,-1,3,-2,3,1,-1.0
+Andhra Pradesh,16 March,-4,1,2,-2,5,2,0.0
+Andhra Pradesh,17 March,-4,1,4,-4,2,2,-1.25
+Andhra Pradesh,18 March,-4,2,5,-3,0,1,-1.25
+Andhra Pradesh,19 March,-4,7,2,2,-8,2,-0.75
+Andhra Pradesh,20 March,-11,13,-4,-6,-12,5,-4.0
+Andhra Pradesh,21 March,-11,13,-4,-6,-12,5,-4.0
+Andhra Pradesh,22 March,-11,13,-4,-6,-12,5,-4.0
+Andhra Pradesh,23 March,-51,-13,-26,-46,-36,17,-36.5
+Andhra Pradesh,24 March,-68,-45,-39,-59,-54,23,-56.5
+Andhra Pradesh,25 March,-76,-60,-47,-68,-67,29,-67.75
+Andhra Pradesh,26 March,-74,-56,-46,-66,-60,28,-64.0
+Andhra Pradesh,27 March,-74,-56,-46,-66,-59,29,-63.75
+Andhra Pradesh,28 March,-74,-56,-46,-66,-59,29,-63.75
+Andhra Pradesh,29 March,-74,-56,-46,-66,-59,29,-63.75
+Andhra Pradesh,30 March,-73,-59,-45,-66,-56,28,-63.5
+Andhra Pradesh,31 March,-72,-56,-43,-64,-55,25,-61.75
+Andhra Pradesh,01 April,-74,-58,-44,-65,-57,26,-63.5
+Andhra Pradesh,02 April,-75,-61,-47,-67,-60,29,-65.75
+Andhra Pradesh,03 April,-74,-60,-45,-66,-56,28,-64.0
+Andhra Pradesh,04 April,-74,-60,-45,-66,-56,28,-64.0
+Andhra Pradesh,05 April,-74,-60,-45,-66,-56,28,-64.0
+Andhra Pradesh,06 April,-74,-60,-43,-65,-54,28,-63.25
+Andhra Pradesh,07 April,-77,-48,-42,-58,-56,26,-59.75
+Andhra Pradesh,08 April,-77,-48,-43,-59,-55,26,-59.75
+Andhra Pradesh,09 April,-78,-50,-44,-60,-56,28,-61.0
+Andhra Pradesh,10 April,-78,-50,-44,-60,-60,30,-62.0
+Andhra Pradesh,11 April,-78,-50,-44,-60,-60,30,-62.0
+Andhra Pradesh,12 April,-78,-50,-44,-60,-60,30,-62.0
+Andhra Pradesh,13 April,-77,-51,-44,-61,-53,28,-60.5
+Andhra Pradesh,14 April,-78,-50,-43,-60,-58,27,-61.5
+Andhra Pradesh,15 April,-77,-46,-42,-58,-52,26,-58.25
+Andhra Pradesh,16 April,-84,-39,-58,-57,-54,27,-58.5
+Andhra Pradesh,17 April,-85,-40,-58,-57,-53,28,-58.75
+Andhra Pradesh,18 April,-85,-40,-58,-57,-53,28,-58.75
+Andhra Pradesh,19 April,-85,-40,-58,-57,-53,28,-58.75
+Andhra Pradesh,20 April,-86,-47,-60,-60,-51,28,-61.0
+Andhra Pradesh,21 April,-85,-44,-59,-58,-52,26,-59.75
+Andhra Pradesh,22 April,-86,-45,-60,-60,-53,27,-61.0
+Andhra Pradesh,23 April,-85,-44,-61,-59,-53,28,-60.25
+Andhra Pradesh,24 April,-85,-43,-61,-59,-52,29,-59.75
+Andhra Pradesh,25 April,-85,-43,-61,-59,-52,29,-59.75
+Andhra Pradesh,26 April,-85,-43,-61,-59,-52,29,-59.75
+Andhra Pradesh,27 April,-86,-48,-62,-61,-51,29,-61.5
+Andhra Pradesh,28 April,-85,-44,-60,-58,-51,25,-59.5
+Andhra Pradesh,29 April,-85,-43,-60,-58,-51,26,-59.25
+Andhra Pradesh,30 April,-85,-42,-60,-58,-50,28,-58.75
+Andhra Pradesh,01 May,-85,-42,-61,-58,-54,29,-59.75
+Andhra Pradesh,02 May,-85,-42,-61,-58,-54,29,-59.75
+Andhra Pradesh,03 May,-85,-42,-61,-58,-54,29,-59.75
+Andhra Pradesh,04 May,-81,-35,-59,-54,-44,25,-53.5
+Andhra Pradesh,05 May,-80,-32,-58,-52,-45,24,-52.25
+Andhra Pradesh,06 May,-79,-28,-58,-50,-43,24,-50.0
+Andhra Pradesh,07 May,-79,-28,-58,-50,-43,24,-50.0
+Andhra Pradesh,08 May,-79,-27,-58,-49,-42,25,-49.25
+Andhra Pradesh,09 May,-79,-27,-58,-49,-42,25,-49.25
+Andhra Pradesh,10 May,-79,-27,-58,-49,-42,25,-49.25
+Andhra Pradesh,11 May,-79,-29,-58,-50,-39,24,-49.25
+Andhra Pradesh,12 May,-78,-27,-57,-48,-40,23,-48.25
+Andhra Pradesh,13 May,-78,-27,-57,-48,-39,22,-48.0
+Andhra Pradesh,14 May,-77,-26,-58,-48,-39,22,-47.5
+Andhra Pradesh,15 May,-77,-25,-58,-47,-38,24,-46.75
+Andhra Pradesh,16 May,-77,-25,-58,-47,-38,24,-46.75
+Andhra Pradesh,17 May,-77,-25,-58,-47,-38,24,-46.75
+Andhra Pradesh,18 May,-76,-23,-57,-46,-34,22,-44.75
+Andhra Pradesh,19 May,-75,-22,-56,-45,-35,21,-44.25
+Andhra Pradesh,20 May,-74,-19,-53,-44,-34,21,-42.75
+Andhra Pradesh,21 May,-73,-19,-54,-43,-33,22,-42.0
+Andhra Pradesh,22 May,-73,-18,-55,-43,-31,22,-41.25
+Andhra Pradesh,23 May,-73,-18,-55,-43,-31,22,-41.25
+Andhra Pradesh,24 May,-73,-18,-55,-43,-31,22,-41.25
+Andhra Pradesh,25 May,-71,-16,-53,-42,-42,22,-42.75
+Andhra Pradesh,26 May,-69,-12,-52,-38,-29,17,-37.0
+Andhra Pradesh,27 May,-67,-8,-51,-36,-28,17,-34.75
+Andhra Pradesh,28 May,-67,-7,-52,-36,-27,18,-34.25
+Andhra Pradesh,29 May,-67,-7,-53,-36,-26,19,-34.0
+Andhra Pradesh,30 May,-67,-7,-53,-36,-26,19,-34.0
+Andhra Pradesh,31 May,-67,-7,-53,-36,-26,19,-34.0
+Andhra Pradesh,01 June,-62,-1,-51,-32,-21,16,-29.0
+Andhra Pradesh,02 June,-62,2,-51,-30,-22,15,-28.0
+Andhra Pradesh,03 June,-60,7,-50,-29,-22,14,-26.0
+Andhra Pradesh,04 June,-60,7,-51,-29,-21,15,-25.75
+Andhra Pradesh,05 June,-58,6,-48,-30,-20,16,-25.5
+Arunachal Pradesh,15 February,1,-9,3,-4,9,1,-0.75
+Arunachal Pradesh,16 February,3,-5,4,-9,8,1,-0.75
+Arunachal Pradesh,17 February,-5,-13,6,-11,11,2,-4.5
+Arunachal Pradesh,18 February,-6,-10,4,-5,8,3,-3.25
+Arunachal Pradesh,19 February,-1,-8,5,1,11,0,0.75
+Arunachal Pradesh,20 February,-6,-12,26,-3,-17,3,-9.5
+Arunachal Pradesh,21 February,2,-9,7,-8,6,0,-2.25
+Arunachal Pradesh,22 February,2,-9,7,-8,6,0,-2.25
+Arunachal Pradesh,23 February,2,-9,7,-8,6,0,-2.25
+Arunachal Pradesh,24 February,-7,-16,1,-14,9,1,-7.0
+Arunachal Pradesh,25 February,-8,-5,3,-2,8,0,-1.75
+Arunachal Pradesh,26 February,-10,-15,2,-8,-6,1,-9.75
+Arunachal Pradesh,27 February,-6,-14,-4,-4,7,-1,-4.25
+Arunachal Pradesh,28 February,-31,-19,-5,-19,-12,6,-20.25
+Arunachal Pradesh,29 February,-31,-19,-5,-19,-12,6,-20.25
+Arunachal Pradesh,01 March,-31,-19,-5,-19,-12,6,-20.25
+Arunachal Pradesh,02 March,-7,-13,7,-11,14,1,-4.25
+Arunachal Pradesh,03 March,-7,-7,7,-1,11,-1,-1.0
+Arunachal Pradesh,04 March,-5,-10,1,-2,12,-1,-1.25
+Arunachal Pradesh,05 March,-7,-7,-1,4,9,0,-0.25
+Arunachal Pradesh,06 March,1,-6,6,-1,13,-1,1.75
+Arunachal Pradesh,07 March,1,-6,6,-1,13,-1,1.75
+Arunachal Pradesh,08 March,1,-6,6,-1,13,-1,1.75
+Arunachal Pradesh,09 March,-4,-6,6,-9,10,0,-2.25
+Arunachal Pradesh,10 March,-30,-32,9,-20,-23,5,-26.25
+Arunachal Pradesh,11 March,-5,-9,2,-7,11,0,-2.5
+Arunachal Pradesh,12 March,-8,-8,4,-3,8,1,-2.75
+Arunachal Pradesh,13 March,-5,-12,7,-5,13,0,-2.25
+Arunachal Pradesh,14 March,-5,-12,7,-5,13,0,-2.25
+Arunachal Pradesh,15 March,-5,-12,7,-5,13,0,-2.25
+Arunachal Pradesh,16 March,-11,-15,10,-8,10,0,-6.0
+Arunachal Pradesh,17 March,-9,-3,13,8,6,-1,0.5
+Arunachal Pradesh,18 March,-9,-3,14,3,5,-2,-1.0
+Arunachal Pradesh,19 March,-8,-1,14,5,1,-2,-0.75
+Arunachal Pradesh,20 March,-7,-4,16,-3,4,-1,-2.5
+Arunachal Pradesh,21 March,-7,-4,16,-3,4,-1,-2.5
+Arunachal Pradesh,22 March,-7,-4,16,-3,4,-1,-2.5
+Arunachal Pradesh,23 March,-15,0,15,-19,-2,1,-9.0
+Arunachal Pradesh,24 March,-53,-50,4,-36,-23,9,-40.5
+Arunachal Pradesh,25 March,-60,-57,-6,-42,-30,13,-47.25
+Arunachal Pradesh,26 March,-61,-59,-12,-46,-33,16,-49.75
+Arunachal Pradesh,27 March,-61,-60,-10,-48,-30,17,-49.75
+Arunachal Pradesh,28 March,-61,-60,-10,-48,-30,17,-49.75
+Arunachal Pradesh,29 March,-61,-60,-10,-48,-30,17,-49.75
+Arunachal Pradesh,30 March,-62,-61,-10,-45,-28,17,-49.0
+Arunachal Pradesh,31 March,-62,-62,-9,-43,-30,17,-49.25
+Arunachal Pradesh,01 April,-62,-54,-12,-44,-30,16,-47.5
+Arunachal Pradesh,02 April,-62,-58,-15,-46,-33,18,-49.75
+Arunachal Pradesh,03 April,-61,-61,-11,-50,-28,17,-50.0
+Arunachal Pradesh,04 April,-61,-61,-11,-50,-28,17,-50.0
+Arunachal Pradesh,05 April,-61,-61,-11,-50,-28,17,-50.0
+Arunachal Pradesh,06 April,-65,-65,-10,-52,-29,18,-52.75
+Arunachal Pradesh,07 April,-71,-55,3,-57,-32,18,-53.75
+Arunachal Pradesh,08 April,-71,-52,1,-61,-30,18,-53.5
+Arunachal Pradesh,09 April,-71,-53,-3,-60,-32,18,-54.0
+Arunachal Pradesh,10 April,-71,-52,9,-63,-31,17,-54.25
+Arunachal Pradesh,11 April,-71,-52,9,-63,-31,17,-54.25
+Arunachal Pradesh,12 April,-71,-52,9,-63,-31,17,-54.25
+Arunachal Pradesh,13 April,-70,-49,5,-58,-26,18,-50.75
+Arunachal Pradesh,14 April,-70,-48,8,-58,-32,18,-52.0
+Arunachal Pradesh,15 April,-68,-44,,-55,-23,14,-47.5
+Arunachal Pradesh,16 April,-73,-41,,-56,-27,14,-49.25
+Arunachal Pradesh,17 April,-72,-40,,-57,-23,16,-48.0
+Arunachal Pradesh,18 April,-72,-40,,-57,-23,16,-48.0
+Arunachal Pradesh,19 April,-72,-40,,-57,-23,16,-48.0
+Arunachal Pradesh,20 April,-76,-43,-15,-60,-24,18,-50.75
+Arunachal Pradesh,21 April,-75,-40,-15,-57,-26,16,-49.5
+Arunachal Pradesh,22 April,-75,-42,-19,-61,-25,15,-50.75
+Arunachal Pradesh,23 April,-74,-43,-19,-60,-27,17,-51.0
+Arunachal Pradesh,24 April,-74,-43,-17,-63,-23,18,-50.75
+Arunachal Pradesh,25 April,-74,-43,-17,-63,-23,18,-50.75
+Arunachal Pradesh,26 April,-74,-43,-17,-63,-23,18,-50.75
+Arunachal Pradesh,27 April,-73,-35,-14,-60,-22,16,-47.5
+Arunachal Pradesh,28 April,-71,-32,-13,-55,-22,12,-45.0
+Arunachal Pradesh,29 April,-71,-33,-13,-57,-21,13,-45.5
+Arunachal Pradesh,30 April,-70,-31,-13,-55,-22,13,-44.5
+Arunachal Pradesh,01 May,-70,-33,-14,-61,-20,14,-46.0
+Arunachal Pradesh,02 May,-70,-33,-14,-61,-20,14,-46.0
+Arunachal Pradesh,03 May,-70,-33,-14,-61,-20,14,-46.0
+Arunachal Pradesh,04 May,-66,-18,-10,-52,-15,11,-37.75
+Arunachal Pradesh,05 May,-65,-9,-9,-47,-16,9,-34.25
+Arunachal Pradesh,06 May,-62,-6,-9,-46,-13,8,-31.75
+Arunachal Pradesh,07 May,-63,-4,-11,-43,-26,10,-34.0
+Arunachal Pradesh,08 May,-60,-9,-10,-46,-10,8,-31.25
+Arunachal Pradesh,09 May,-60,-9,-10,-46,-10,8,-31.25
+Arunachal Pradesh,10 May,-60,-9,-10,-46,-10,8,-31.25
+Arunachal Pradesh,11 May,-60,-7,-6,-43,-10,8,-30.0
+Arunachal Pradesh,12 May,-61,2,-8,-45,-13,8,-29.25
+Arunachal Pradesh,13 May,-60,-10,-11,-41,-12,7,-30.75
+Arunachal Pradesh,14 May,-60,1,-11,-41,-12,5,-28.0
+Arunachal Pradesh,15 May,-58,-4,-8,-41,-7,6,-27.5
+Arunachal Pradesh,16 May,-58,-4,-8,-41,-7,6,-27.5
+Arunachal Pradesh,17 May,-58,-4,-8,-41,-7,6,-27.5
+Arunachal Pradesh,18 May,-59,-6,-10,-40,-6,8,-27.75
+Arunachal Pradesh,19 May,-61,-1,-10,-38,-10,8,-27.5
+Arunachal Pradesh,20 May,-58,-3,-11,-29,-9,7,-24.75
+Arunachal Pradesh,21 May,-65,-13,-22,-41,-15,10,-33.5
+Arunachal Pradesh,22 May,-61,-11,-17,-38,-9,9,-29.75
+Arunachal Pradesh,23 May,-61,-11,-17,-38,-9,9,-29.75
+Arunachal Pradesh,24 May,-61,-11,-17,-38,-9,9,-29.75
+Arunachal Pradesh,25 May,-65,-18,-15,-41,-24,12,-37.0
+Arunachal Pradesh,26 May,-65,-12,-18,-39,-11,10,-31.75
+Arunachal Pradesh,27 May,-61,-5,-15,-30,-9,7,-26.25
+Arunachal Pradesh,28 May,-62,-5,-16,-33,-12,7,-28.0
+Arunachal Pradesh,29 May,-59,-8,-10,-36,-5,7,-27.0
+Arunachal Pradesh,30 May,-59,-8,-10,-36,-5,7,-27.0
+Arunachal Pradesh,31 May,-59,-8,-10,-36,-5,7,-27.0
+Arunachal Pradesh,01 June,-61,-10,-10,-36,-5,8,-28.0
+Arunachal Pradesh,02 June,-60,-2,-12,-34,-8,8,-26.0
+Arunachal Pradesh,03 June,-59,-6,-14,-30,-6,8,-25.25
+Arunachal Pradesh,04 June,-60,-5,-16,-36,-9,9,-27.5
+Arunachal Pradesh,05 June,-59,-7,-12,-37,-3,9,-26.5
+Assam,15 February,2,3,1,1,10,0,4.0
+Assam,16 February,3,5,2,-1,4,1,2.75
+Assam,17 February,-1,0,1,-1,7,0,1.25
+Assam,18 February,-4,-5,-3,-3,10,1,-0.5
+Assam,19 February,1,3,2,2,9,0,3.75
+Assam,20 February,0,4,1,1,11,0,4.0
+Assam,21 February,-2,1,9,0,4,2,0.75
+Assam,22 February,-2,1,9,0,4,2,0.75
+Assam,23 February,-2,1,9,0,4,2,0.75
+Assam,24 February,-1,0,-2,-2,8,0,1.25
+Assam,25 February,-3,-5,-2,-3,12,0,0.25
+Assam,26 February,-5,-4,-2,-2,9,1,-0.5
+Assam,27 February,-1,2,-2,-2,12,0,2.75
+Assam,28 February,2,5,1,2,16,-1,6.25
+Assam,29 February,2,5,1,2,16,-1,6.25
+Assam,01 March,2,5,1,2,16,-1,6.25
+Assam,02 March,0,2,1,-1,7,0,2.0
+Assam,03 March,-3,-5,1,-2,11,0,0.25
+Assam,04 March,6,9,6,7,12,-1,8.5
+Assam,05 March,1,4,2,2,13,0,5.0
+Assam,06 March,6,7,5,8,18,-1,9.75
+Assam,07 March,6,7,5,8,18,-1,9.75
+Assam,08 March,6,7,5,8,18,-1,9.75
+Assam,09 March,-6,-5,0,-11,-22,5,-11.0
+Assam,10 March,-29,-27,-7,-21,-39,8,-29.0
+Assam,11 March,4,9,7,7,5,-3,6.25
+Assam,12 March,1,5,3,1,11,-1,4.5
+Assam,13 March,2,6,6,5,14,-2,6.75
+Assam,14 March,2,6,6,5,14,-2,6.75
+Assam,15 March,2,6,6,5,14,-2,6.75
+Assam,16 March,-3,0,0,0,0,1,-0.75
+Assam,17 March,-6,-5,0,-2,2,1,-2.75
+Assam,18 March,-2,4,3,2,1,0,1.25
+Assam,19 March,-7,0,-2,-8,1,2,-3.5
+Assam,20 March,-12,-2,-4,-10,2,2,-5.5
+Assam,21 March,-12,-2,-4,-10,2,2,-5.5
+Assam,22 March,-12,-2,-4,-10,2,2,-5.5
+Assam,23 March,-44,-29,-18,-45,-35,12,-38.25
+Assam,24 March,-45,-32,-21,-48,-32,12,-39.25
+Assam,25 March,-73,-71,-33,-72,-56,23,-68.0
+Assam,26 March,-72,-70,-34,-72,-55,24,-67.25
+Assam,27 March,-71,-67,-33,-71,-52,23,-65.25
+Assam,28 March,-71,-67,-33,-71,-52,23,-65.25
+Assam,29 March,-71,-67,-33,-71,-52,23,-65.25
+Assam,30 March,-72,-69,-35,-73,-53,24,-66.75
+Assam,31 March,-71,-68,-35,-72,-51,22,-65.5
+Assam,01 April,-71,-68,-34,-71,-53,23,-65.75
+Assam,02 April,-73,-70,-36,-73,-53,24,-67.25
+Assam,03 April,-71,-67,-34,-71,-50,23,-64.75
+Assam,04 April,-71,-67,-34,-71,-50,23,-64.75
+Assam,05 April,-71,-67,-34,-71,-50,23,-64.75
+Assam,06 April,-71,-66,-32,-72,-52,24,-65.25
+Assam,07 April,-73,-59,-26,-67,-51,22,-62.5
+Assam,08 April,-72,-55,-24,-65,-51,22,-60.75
+Assam,09 April,-73,-56,-26,-67,-51,23,-61.75
+Assam,10 April,-72,-57,-24,-66,-50,20,-61.25
+Assam,11 April,-72,-57,-24,-66,-50,20,-61.25
+Assam,12 April,-72,-57,-24,-66,-50,20,-61.25
+Assam,13 April,-70,-54,-23,-66,-54,24,-61.0
+Assam,14 April,-72,-58,-24,-66,-54,22,-62.5
+Assam,15 April,-74,-55,-21,-65,-52,21,-61.5
+Assam,16 April,-84,-48,-22,-64,-49,20,-61.25
+Assam,17 April,-84,-47,-24,-64,-47,21,-60.5
+Assam,18 April,-84,-47,-24,-64,-47,21,-60.5
+Assam,19 April,-84,-47,-24,-64,-47,21,-60.5
+Assam,20 April,-85,-52,-28,-67,-50,23,-63.5
+Assam,21 April,-84,-49,-29,-63,-44,20,-60.0
+Assam,22 April,-83,-44,-25,-61,-44,19,-58.0
+Assam,23 April,-83,-45,-27,-63,-44,21,-58.75
+Assam,24 April,-83,-45,-27,-63,-41,21,-58.0
+Assam,25 April,-83,-45,-27,-63,-41,21,-58.0
+Assam,26 April,-83,-45,-27,-63,-41,21,-58.0
+Assam,27 April,-83,-45,-29,-63,-43,22,-58.5
+Assam,28 April,-82,-44,-26,-61,-40,19,-56.75
+Assam,29 April,-81,-39,-23,-58,-40,19,-54.5
+Assam,30 April,-82,-41,-23,-59,-39,20,-55.25
+Assam,01 May,-83,-44,-26,-61,-46,21,-58.5
+Assam,02 May,-83,-44,-26,-61,-46,21,-58.5
+Assam,03 May,-83,-44,-26,-61,-46,21,-58.5
+Assam,04 May,-77,-33,-25,-55,-32,18,-49.25
+Assam,05 May,-76,-33,-25,-53,-29,17,-47.75
+Assam,06 May,-73,-22,-20,-47,-27,15,-42.25
+Assam,07 May,-73,-23,-21,-49,-30,16,-43.75
+Assam,08 May,-73,-21,-21,-48,-24,15,-41.5
+Assam,09 May,-73,-21,-21,-48,-24,15,-41.5
+Assam,10 May,-73,-21,-21,-48,-24,15,-41.5
+Assam,11 May,-74,-25,-23,-51,-28,16,-44.5
+Assam,12 May,-75,-28,-23,-51,-26,16,-45.0
+Assam,13 May,-74,-23,-20,-47,-25,15,-42.25
+Assam,14 May,-74,-25,-20,-49,-26,15,-43.5
+Assam,15 May,-73,-21,-19,-46,-21,14,-40.25
+Assam,16 May,-73,-21,-19,-46,-21,14,-40.25
+Assam,17 May,-73,-21,-19,-46,-21,14,-40.25
+Assam,18 May,-72,-20,-21,-47,-23,15,-40.5
+Assam,19 May,-72,-23,-21,-47,-20,14,-40.5
+Assam,20 May,-69,-18,-20,-44,-20,14,-37.75
+Assam,21 May,-77,-40,-27,-57,-28,19,-50.5
+Assam,22 May,-70,-19,-22,-45,-16,14,-37.5
+Assam,23 May,-70,-19,-22,-45,-16,14,-37.5
+Assam,24 May,-70,-19,-22,-45,-16,14,-37.5
+Assam,25 May,-74,-35,-22,-55,-39,18,-50.75
+Assam,26 May,-73,-34,-24,-51,-24,15,-45.5
+Assam,27 May,-69,-21,-17,-45,-21,12,-39.0
+Assam,28 May,-68,-17,-19,-43,-18,12,-36.5
+Assam,29 May,-68,-15,-18,-42,-14,12,-34.75
+Assam,30 May,-68,-15,-18,-42,-14,12,-34.75
+Assam,31 May,-68,-15,-18,-42,-14,12,-34.75
+Assam,01 June,-64,-11,-19,-41,-18,12,-33.5
+Assam,02 June,-65,-14,-19,-40,-15,11,-33.5
+Assam,03 June,-63,-6,-16,-36,-15,10,-30.0
+Assam,04 June,-63,-7,-18,-38,-14,11,-30.5
+Assam,05 June,-60,-4,-16,-35,-9,10,-27.0
+Bihar,15 February,4,5,3,6,6,-1,5.25
+Bihar,16 February,6,4,4,10,2,-1,5.5
+Bihar,17 February,3,3,4,6,2,-1,3.5
+Bihar,18 February,3,4,7,8,2,-1,4.25
+Bihar,19 February,3,7,6,7,5,-1,5.5
+Bihar,20 February,3,6,6,10,2,-2,5.25
+Bihar,21 February,1,3,6,3,-11,1,-1.0
+Bihar,22 February,1,3,6,3,-11,1,-1.0
+Bihar,23 February,1,3,6,3,-11,1,-1.0
+Bihar,24 February,2,4,6,3,4,-1,3.25
+Bihar,25 February,-11,-11,-4,-4,-1,2,-6.75
+Bihar,26 February,2,7,8,6,3,-2,4.5
+Bihar,27 February,3,5,7,6,2,-2,4.0
+Bihar,28 February,5,9,10,6,3,-1,5.75
+Bihar,29 February,5,9,10,6,3,-1,5.75
+Bihar,01 March,5,9,10,6,3,-1,5.75
+Bihar,02 March,5,8,11,6,1,-3,5.0
+Bihar,03 March,4,7,10,9,3,-3,5.75
+Bihar,04 March,7,14,11,11,6,-2,9.5
+Bihar,05 March,8,13,12,13,4,-2,9.5
+Bihar,06 March,11,14,14,15,2,-2,10.5
+Bihar,07 March,11,14,14,15,2,-2,10.5
+Bihar,08 March,11,14,14,15,2,-2,10.5
+Bihar,09 March,3,20,8,6,-17,-1,3.0
+Bihar,10 March,-47,-44,-12,-42,-51,11,-46.0
+Bihar,11 March,-23,-15,0,-12,-37,3,-21.75
+Bihar,12 March,3,9,11,15,-10,-5,4.25
+Bihar,13 March,-3,2,8,8,-5,-2,0.5
+Bihar,14 March,-3,2,8,8,-5,-2,0.5
+Bihar,15 March,-3,2,8,8,-5,-2,0.5
+Bihar,16 March,1,8,5,6,0,-1,3.75
+Bihar,17 March,-1,5,8,6,-2,-1,2.0
+Bihar,18 March,-2,6,6,4,-1,0,1.75
+Bihar,19 March,-4,3,5,-1,-3,0,-1.25
+Bihar,20 March,-6,5,5,-3,-4,1,-2.0
+Bihar,21 March,-6,5,5,-3,-4,1,-2.0
+Bihar,22 March,-6,5,5,-3,-4,1,-2.0
+Bihar,23 March,-43,-25,-17,-47,-30,10,-36.25
+Bihar,24 March,-54,-42,-21,-58,-41,13,-48.75
+Bihar,25 March,-61,-52,-29,-65,-45,16,-55.75
+Bihar,26 March,-63,-55,-29,-66,-47,17,-57.75
+Bihar,27 March,-63,-56,-29,-67,-46,17,-58.0
+Bihar,28 March,-63,-56,-29,-67,-46,17,-58.0
+Bihar,29 March,-63,-56,-29,-67,-46,17,-58.0
+Bihar,30 March,-64,-56,-31,-68,-44,17,-58.0
+Bihar,31 March,-62,-55,-29,-66,-44,16,-56.75
+Bihar,01 April,-63,-54,-29,-67,-44,16,-57.0
+Bihar,02 April,-63,-57,-30,-67,-47,17,-58.5
+Bihar,03 April,-61,-53,-28,-66,-42,16,-55.5
+Bihar,04 April,-61,-53,-28,-66,-42,16,-55.5
+Bihar,05 April,-61,-53,-28,-66,-42,16,-55.5
+Bihar,06 April,-61,-52,-26,-67,-42,17,-55.5
+Bihar,07 April,-60,-35,-10,-60,-42,15,-49.25
+Bihar,08 April,-60,-33,-12,-61,-41,16,-48.75
+Bihar,09 April,-60,-35,-13,-61,-44,16,-50.0
+Bihar,10 April,-60,-35,-12,-62,-45,17,-50.5
+Bihar,11 April,-60,-35,-12,-62,-45,17,-50.5
+Bihar,12 April,-60,-35,-12,-62,-45,17,-50.5
+Bihar,13 April,-61,-35,-14,-63,-41,17,-50.0
+Bihar,14 April,-61,-38,-11,-62,-44,16,-51.25
+Bihar,15 April,-64,-35,-8,-62,-39,16,-50.0
+Bihar,16 April,-80,-19,-9,-59,-41,16,-49.75
+Bihar,17 April,-79,-16,-9,-59,-41,17,-48.75
+Bihar,18 April,-79,-16,-9,-59,-41,17,-48.75
+Bihar,19 April,-79,-16,-9,-59,-41,17,-48.75
+Bihar,20 April,-80,-23,-17,-61,-38,16,-50.5
+Bihar,21 April,-80,-24,-17,-60,-40,15,-51.0
+Bihar,22 April,-79,-15,-14,-57,-37,14,-47.0
+Bihar,23 April,-79,-18,-16,-57,-40,15,-48.5
+Bihar,24 April,-78,-14,-13,-56,-37,14,-46.25
+Bihar,25 April,-78,-14,-13,-56,-37,14,-46.25
+Bihar,26 April,-78,-14,-13,-56,-37,14,-46.25
+Bihar,27 April,-79,-19,-17,-59,-36,16,-48.25
+Bihar,28 April,-80,-21,-15,-59,-38,15,-49.5
+Bihar,29 April,-79,-16,-13,-57,-35,15,-46.75
+Bihar,30 April,-78,-18,-13,-57,-36,15,-47.25
+Bihar,01 May,-80,-23,-16,-60,-42,17,-51.25
+Bihar,02 May,-80,-23,-16,-60,-42,17,-51.25
+Bihar,03 May,-80,-23,-16,-60,-42,17,-51.25
+Bihar,04 May,-78,-17,-16,-57,-32,14,-46.0
+Bihar,05 May,-78,-20,-14,-57,-35,14,-47.5
+Bihar,06 May,-76,-9,-12,-53,-30,13,-42.0
+Bihar,07 May,-76,-13,-14,-53,-34,13,-44.0
+Bihar,08 May,-73,-2,-9,-49,-27,11,-37.75
+Bihar,09 May,-73,-2,-9,-49,-27,11,-37.75
+Bihar,10 May,-73,-2,-9,-49,-27,11,-37.75
+Bihar,11 May,-73,-6,-12,-52,-26,12,-39.25
+Bihar,12 May,-73,-3,-8,-48,-27,11,-37.75
+Bihar,13 May,-71,1,-8,-47,-23,11,-35.0
+Bihar,14 May,-71,-1,-7,-47,-25,10,-36.0
+Bihar,15 May,-68,7,-3,-43,-22,10,-31.5
+Bihar,16 May,-68,7,-3,-43,-22,10,-31.5
+Bihar,17 May,-68,7,-3,-43,-22,10,-31.5
+Bihar,18 May,-68,6,-6,-44,-20,10,-31.5
+Bihar,19 May,-69,4,-3,-43,-22,10,-32.5
+Bihar,20 May,-65,13,-1,-40,-18,9,-27.5
+Bihar,21 May,-67,10,-2,-40,-22,10,-29.75
+Bihar,22 May,-63,18,1,-38,-19,8,-25.5
+Bihar,23 May,-63,18,1,-38,-19,8,-25.5
+Bihar,24 May,-63,18,1,-38,-19,8,-25.5
+Bihar,25 May,-67,3,1,-44,-29,11,-34.25
+Bihar,26 May,-65,12,5,-37,-19,8,-27.25
+Bihar,27 May,-61,19,4,-35,-17,7,-23.5
+Bihar,28 May,-63,18,5,-36,-18,7,-24.75
+Bihar,29 May,-59,28,8,-34,-16,7,-20.25
+Bihar,30 May,-59,28,8,-34,-16,7,-20.25
+Bihar,31 May,-59,28,8,-34,-16,7,-20.25
+Bihar,01 June,-57,27,5,-34,-14,5,-19.5
+Bihar,02 June,-56,31,9,-30,-13,5,-17.0
+Bihar,03 June,-54,38,10,-26,-11,4,-13.25
+Bihar,04 June,-54,35,8,-25,-13,4,-14.25
+Bihar,05 June,-56,17,5,-35,-18,7,-23.0
+Chandigarh,15 February,0,0,8,4,5,-1,2.25
+Chandigarh,16 February,0,-2,6,-2,0,0,-1.0
+Chandigarh,17 February,7,9,16,2,7,-2,6.25
+Chandigarh,18 February,7,6,21,0,5,-1,4.5
+Chandigarh,19 February,0,-1,9,3,2,1,1.0
+Chandigarh,20 February,-1,-6,4,20,3,-1,4.0
+Chandigarh,21 February,-9,-9,-2,-8,-35,9,-15.25
+Chandigarh,22 February,-9,-9,-2,-8,-35,9,-15.25
+Chandigarh,23 February,-9,-9,-2,-8,-35,9,-15.25
+Chandigarh,24 February,4,6,20,10,5,-2,6.25
+Chandigarh,25 February,5,7,22,5,2,-1,4.75
+Chandigarh,26 February,0,0,11,3,-1,-1,0.5
+Chandigarh,27 February,1,-5,8,4,1,-1,0.25
+Chandigarh,28 February,-1,0,23,0,1,-1,0.0
+Chandigarh,29 February,-1,0,23,0,1,-1,0.0
+Chandigarh,01 March,-1,0,23,0,1,-1,0.0
+Chandigarh,02 March,8,8,19,4,7,-2,6.75
+Chandigarh,03 March,7,5,25,1,4,-1,4.25
+Chandigarh,04 March,2,2,13,2,1,0,1.75
+Chandigarh,05 March,-1,-1,6,3,3,0,1.0
+Chandigarh,06 March,-16,-18,-14,1,-1,4,-8.5
+Chandigarh,07 March,-16,-18,-14,1,-1,4,-8.5
+Chandigarh,08 March,-16,-18,-14,1,-1,4,-8.5
+Chandigarh,09 March,14,19,18,-5,-7,-1,5.25
+Chandigarh,10 March,-29,-31,19,-33,-74,18,-41.75
+Chandigarh,11 March,-9,-12,-5,7,-9,1,-5.75
+Chandigarh,12 March,-5,-5,-3,-1,-1,1,-3.0
+Chandigarh,13 March,-9,-5,-8,-9,1,2,-5.5
+Chandigarh,14 March,-9,-5,-8,-9,1,2,-5.5
+Chandigarh,15 March,-9,-5,-8,-9,1,2,-5.5
+Chandigarh,16 March,0,11,16,7,-1,-1,4.25
+Chandigarh,17 March,-7,2,16,-3,-7,1,-3.75
+Chandigarh,18 March,-15,-4,1,-8,-11,3,-9.5
+Chandigarh,19 March,-19,-2,-13,-11,-11,4,-10.75
+Chandigarh,20 March,-38,-28,-28,-27,-19,8,-28.0
+Chandigarh,21 March,-38,-28,-28,-27,-19,8,-28.0
+Chandigarh,22 March,-38,-28,-28,-27,-19,8,-28.0
+Chandigarh,23 March,-77,-61,-68,-82,-68,26,-72.0
+Chandigarh,24 March,-92,-92,-83,-91,-84,36,-89.75
+Chandigarh,25 March,-92,-89,-83,-90,-85,37,-89.0
+Chandigarh,26 March,-91,-88,-82,-89,-83,36,-87.75
+Chandigarh,27 March,-90,-86,-82,-90,-82,37,-87.0
+Chandigarh,28 March,-90,-86,-82,-90,-82,37,-87.0
+Chandigarh,29 March,-90,-86,-82,-90,-82,37,-87.0
+Chandigarh,30 March,-90,-84,-80,-90,-78,33,-85.5
+Chandigarh,31 March,-90,-84,-81,-89,-79,34,-85.5
+Chandigarh,01 April,-91,-87,-82,-90,-81,36,-87.25
+Chandigarh,02 April,-91,-87,-83,-90,-83,37,-87.75
+Chandigarh,03 April,-90,-84,-82,-90,-79,37,-85.75
+Chandigarh,04 April,-90,-84,-82,-90,-79,37,-85.75
+Chandigarh,05 April,-90,-84,-82,-90,-79,37,-85.75
+Chandigarh,06 April,-90,-84,-80,-90,-81,35,-86.25
+Chandigarh,07 April,-91,-79,-77,-85,-77,33,-83.0
+Chandigarh,08 April,-92,-82,-79,-86,-79,36,-84.75
+Chandigarh,09 April,-92,-81,-80,-86,-78,36,-84.25
+Chandigarh,10 April,-93,-82,-81,-88,-81,39,-86.0
+Chandigarh,11 April,-93,-82,-81,-88,-81,39,-86.0
+Chandigarh,12 April,-93,-82,-81,-88,-81,39,-86.0
+Chandigarh,13 April,-92,-80,-80,-87,-77,35,-84.0
+Chandigarh,14 April,-92,-82,-80,-87,-81,36,-85.5
+Chandigarh,15 April,-92,-81,-82,-86,-77,36,-84.0
+Chandigarh,16 April,-94,-80,-98,-82,-78,36,-83.5
+Chandigarh,17 April,-94,-79,-99,-84,-77,37,-83.5
+Chandigarh,18 April,-94,-79,-99,-84,-77,37,-83.5
+Chandigarh,19 April,-94,-79,-99,-84,-77,37,-83.5
+Chandigarh,20 April,-94,-79,-99,-84,-76,35,-83.25
+Chandigarh,21 April,-94,-79,-98,-82,-78,35,-83.25
+Chandigarh,22 April,-94,-81,-99,-83,-78,37,-84.0
+Chandigarh,23 April,-94,-81,-99,-83,-78,37,-84.0
+Chandigarh,24 April,-95,-81,-99,-84,-78,39,-84.5
+Chandigarh,25 April,-95,-81,-99,-84,-78,39,-84.5
+Chandigarh,26 April,-95,-81,-99,-84,-78,39,-84.5
+Chandigarh,27 April,-94,-80,-99,-84,-77,35,-83.75
+Chandigarh,28 April,-94,-80,-99,-83,-78,35,-83.75
+Chandigarh,29 April,-94,-81,-99,-83,-78,37,-84.0
+Chandigarh,30 April,-94,-82,-98,-83,-78,37,-84.25
+Chandigarh,01 May,-94,-81,-99,-85,-77,38,-84.25
+Chandigarh,02 May,-94,-81,-99,-85,-77,38,-84.25
+Chandigarh,03 May,-94,-81,-99,-85,-77,38,-84.25
+Chandigarh,04 May,-84,-56,-98,-76,-65,29,-70.25
+Chandigarh,05 May,-85,-59,-98,-74,-65,30,-70.75
+Chandigarh,06 May,-84,-61,-98,-73,-64,31,-70.5
+Chandigarh,07 May,-85,-64,-97,-74,-68,32,-72.75
+Chandigarh,08 May,-85,-61,-97,-75,-61,31,-70.5
+Chandigarh,09 May,-85,-61,-97,-75,-61,31,-70.5
+Chandigarh,10 May,-85,-61,-97,-75,-61,31,-70.5
+Chandigarh,11 May,-83,-57,-97,-72,-58,27,-67.5
+Chandigarh,12 May,-84,-60,-97,-69,-61,28,-68.5
+Chandigarh,13 May,-85,-62,-97,-69,-61,29,-69.25
+Chandigarh,14 May,-84,-63,-97,-70,-60,28,-69.25
+Chandigarh,15 May,-84,-61,-97,-71,-58,28,-68.5
+Chandigarh,16 May,-84,-61,-97,-71,-58,28,-68.5
+Chandigarh,17 May,-84,-61,-97,-71,-58,28,-68.5
+Chandigarh,18 May,-80,-54,-96,-70,-52,25,-64.0
+Chandigarh,19 May,-77,-49,-95,-62,-52,24,-60.0
+Chandigarh,20 May,-76,-51,-94,-62,-53,25,-60.5
+Chandigarh,21 May,-76,-51,-95,-60,-52,25,-59.75
+Chandigarh,22 May,-77,-50,-94,-63,-50,25,-60.0
+Chandigarh,23 May,-77,-50,-94,-63,-50,25,-60.0
+Chandigarh,24 May,-77,-50,-94,-63,-50,25,-60.0
+Chandigarh,25 May,-75,-48,-94,-65,-61,25,-62.25
+Chandigarh,26 May,-74,-46,-94,-59,-51,23,-57.5
+Chandigarh,27 May,-75,-49,-94,-58,-50,23,-58.0
+Chandigarh,28 May,-75,-48,-93,-58,-49,23,-57.5
+Chandigarh,29 May,-76,-47,-93,-62,-48,24,-58.25
+Chandigarh,30 May,-76,-47,-93,-62,-48,24,-58.25
+Chandigarh,31 May,-76,-47,-93,-62,-48,24,-58.25
+Chandigarh,01 June,-69,-35,-91,-56,-41,18,-50.25
+Chandigarh,02 June,-67,-33,-89,-50,-43,19,-48.25
+Chandigarh,03 June,-70,-39,-91,-50,-44,20,-50.75
+Chandigarh,04 June,-70,-41,-91,-51,-43,20,-51.25
+Chandigarh,05 June,-67,-37,-87,-55,-45,21,-51.0
+Chhattisgarh,15 February,1,2,4,6,0,0,2.25
+Chhattisgarh,16 February,0,4,3,5,0,0,2.25
+Chhattisgarh,17 February,0,2,6,5,3,-1,2.5
+Chhattisgarh,18 February,0,3,6,4,4,0,2.75
+Chhattisgarh,19 February,0,3,3,3,5,0,2.75
+Chhattisgarh,20 February,2,5,5,7,3,-1,4.25
+Chhattisgarh,21 February,-3,-2,12,0,-22,4,-6.75
+Chhattisgarh,22 February,-3,-2,12,0,-22,4,-6.75
+Chhattisgarh,23 February,-3,-2,12,0,-22,4,-6.75
+Chhattisgarh,24 February,-6,-7,1,-2,2,1,-3.25
+Chhattisgarh,25 February,-2,-2,4,1,1,0,-0.5
+Chhattisgarh,26 February,1,-1,2,3,2,-1,1.25
+Chhattisgarh,27 February,0,0,7,3,2,0,1.25
+Chhattisgarh,28 February,-1,0,7,4,7,0,2.5
+Chhattisgarh,29 February,-1,0,7,4,7,0,2.5
+Chhattisgarh,01 March,-1,0,7,4,7,0,2.5
+Chhattisgarh,02 March,-2,1,8,1,4,1,1.0
+Chhattisgarh,03 March,-5,-4,4,-1,3,1,-1.75
+Chhattisgarh,04 March,-1,1,3,2,5,0,1.75
+Chhattisgarh,05 March,-1,1,4,2,4,1,1.5
+Chhattisgarh,06 March,0,0,4,6,8,0,3.5
+Chhattisgarh,07 March,0,0,4,6,8,0,3.5
+Chhattisgarh,08 March,0,0,4,6,8,0,3.5
+Chhattisgarh,09 March,0,17,8,2,-11,1,2.0
+Chhattisgarh,10 March,-52,-52,-17,-49,-64,17,-54.25
+Chhattisgarh,11 March,-18,-18,-3,-13,-31,4,-20.0
+Chhattisgarh,12 March,-7,-3,1,2,-8,0,-4.0
+Chhattisgarh,13 March,-5,-3,3,0,-2,1,-2.5
+Chhattisgarh,14 March,-5,-3,3,0,-2,1,-2.5
+Chhattisgarh,15 March,-5,-3,3,0,-2,1,-2.5
+Chhattisgarh,16 March,-5,1,9,0,-4,2,-2.0
+Chhattisgarh,17 March,-7,0,8,-2,-5,1,-3.5
+Chhattisgarh,18 March,-5,1,6,-4,-4,1,-3.0
+Chhattisgarh,19 March,-14,4,-6,-8,-7,3,-6.25
+Chhattisgarh,20 March,-20,0,-13,-13,-13,6,-11.5
+Chhattisgarh,21 March,-20,0,-13,-13,-13,6,-11.5
+Chhattisgarh,22 March,-20,0,-13,-13,-13,6,-11.5
+Chhattisgarh,23 March,-56,-39,-32,-60,-38,17,-48.25
+Chhattisgarh,24 March,-64,-50,-39,-67,-50,21,-57.75
+Chhattisgarh,25 March,-69,-58,-47,-73,-56,25,-64.0
+Chhattisgarh,26 March,-70,-59,-46,-74,-57,26,-65.0
+Chhattisgarh,27 March,-71,-62,-46,-74,-56,26,-65.75
+Chhattisgarh,28 March,-71,-62,-46,-74,-56,26,-65.75
+Chhattisgarh,29 March,-71,-62,-46,-74,-56,26,-65.75
+Chhattisgarh,30 March,-70,-61,-45,-75,-55,27,-65.25
+Chhattisgarh,31 March,-69,-60,-45,-73,-53,25,-63.75
+Chhattisgarh,01 April,-70,-62,-47,-74,-54,25,-65.0
+Chhattisgarh,02 April,-69,-61,-46,-74,-55,26,-64.75
+Chhattisgarh,03 April,-67,-58,-44,-72,-50,24,-61.75
+Chhattisgarh,04 April,-67,-58,-44,-72,-50,24,-61.75
+Chhattisgarh,05 April,-67,-58,-44,-72,-50,24,-61.75
+Chhattisgarh,06 April,-70,-61,-43,-74,-56,27,-65.25
+Chhattisgarh,07 April,-70,-43,-43,-69,-51,23,-58.25
+Chhattisgarh,08 April,-71,-45,-46,-70,-51,24,-59.25
+Chhattisgarh,09 April,-71,-44,-45,-70,-51,24,-59.0
+Chhattisgarh,10 April,-72,-46,-46,-70,-53,26,-60.25
+Chhattisgarh,11 April,-72,-46,-46,-70,-53,26,-60.25
+Chhattisgarh,12 April,-72,-46,-46,-70,-53,26,-60.25
+Chhattisgarh,13 April,-71,-46,-45,-71,-50,26,-59.5
+Chhattisgarh,14 April,-71,-45,-43,-70,-53,25,-59.75
+Chhattisgarh,15 April,-71,-40,-45,-68,-46,24,-56.25
+Chhattisgarh,16 April,-80,-25,-59,-68,-49,24,-55.5
+Chhattisgarh,17 April,-84,-41,-61,-70,-50,27,-61.25
+Chhattisgarh,18 April,-84,-41,-61,-70,-50,27,-61.25
+Chhattisgarh,19 April,-84,-41,-61,-70,-50,27,-61.25
+Chhattisgarh,20 April,-81,-31,-60,-69,-45,25,-56.5
+Chhattisgarh,21 April,-80,-27,-59,-67,-42,21,-54.0
+Chhattisgarh,22 April,-80,-27,-60,-66,-41,21,-53.5
+Chhattisgarh,23 April,-79,-27,-60,-66,-41,22,-53.25
+Chhattisgarh,24 April,-79,-26,-60,-65,-37,22,-51.75
+Chhattisgarh,25 April,-79,-26,-60,-65,-37,22,-51.75
+Chhattisgarh,26 April,-79,-26,-60,-65,-37,22,-51.75
+Chhattisgarh,27 April,-78,-23,-59,-65,-37,22,-50.75
+Chhattisgarh,28 April,-77,-21,-58,-63,-36,19,-49.25
+Chhattisgarh,29 April,-78,-23,-59,-64,-35,20,-50.0
+Chhattisgarh,30 April,-77,-20,-58,-63,-35,20,-48.75
+Chhattisgarh,01 May,-78,-22,-58,-63,-34,21,-49.25
+Chhattisgarh,02 May,-78,-22,-58,-63,-34,21,-49.25
+Chhattisgarh,03 May,-78,-22,-58,-63,-34,21,-49.25
+Chhattisgarh,04 May,-74,-11,-55,-58,-30,17,-43.25
+Chhattisgarh,05 May,-74,-10,-55,-57,-29,16,-42.5
+Chhattisgarh,06 May,-72,-5,-56,-54,-27,16,-39.5
+Chhattisgarh,07 May,-71,-4,-56,-55,-35,17,-41.25
+Chhattisgarh,08 May,-69,2,-56,-51,-24,15,-35.5
+Chhattisgarh,09 May,-69,2,-56,-51,-24,15,-35.5
+Chhattisgarh,10 May,-69,2,-56,-51,-24,15,-35.5
+Chhattisgarh,11 May,-67,9,-54,-49,-24,15,-32.75
+Chhattisgarh,12 May,-68,4,-54,-50,-24,15,-34.5
+Chhattisgarh,13 May,-68,3,-56,-50,-23,14,-34.5
+Chhattisgarh,14 May,-66,3,-55,-50,-24,13,-34.25
+Chhattisgarh,15 May,-64,11,-53,-46,-20,12,-29.75
+Chhattisgarh,16 May,-64,11,-53,-46,-20,12,-29.75
+Chhattisgarh,17 May,-64,11,-53,-46,-20,12,-29.75
+Chhattisgarh,18 May,-63,18,-53,-45,-21,13,-27.75
+Chhattisgarh,19 May,-63,14,-53,-45,-19,12,-28.25
+Chhattisgarh,20 May,-62,12,-55,-46,-19,12,-28.75
+Chhattisgarh,21 May,-62,13,-55,-46,-19,13,-28.5
+Chhattisgarh,22 May,-62,13,-54,-44,-16,12,-27.25
+Chhattisgarh,23 May,-62,13,-54,-44,-16,12,-27.25
+Chhattisgarh,24 May,-62,13,-54,-44,-16,12,-27.25
+Chhattisgarh,25 May,-63,15,-53,-47,-31,16,-31.5
+Chhattisgarh,26 May,-63,9,-54,-48,-17,12,-29.75
+Chhattisgarh,27 May,-63,7,-55,-47,-17,13,-30.0
+Chhattisgarh,28 May,-62,9,-54,-48,-18,13,-29.75
+Chhattisgarh,29 May,-61,15,-54,-44,-14,12,-26.0
+Chhattisgarh,30 May,-61,15,-54,-44,-14,12,-26.0
+Chhattisgarh,31 May,-61,15,-54,-44,-14,12,-26.0
+Chhattisgarh,01 June,-58,22,-52,-43,-15,11,-23.5
+Chhattisgarh,02 June,-60,14,-52,-45,-16,10,-26.75
+Chhattisgarh,03 June,-59,16,-53,-42,-15,10,-25.0
+Chhattisgarh,04 June,-59,16,-53,-44,-16,10,-25.75
+Chhattisgarh,05 June,-56,19,-51,-42,-17,11,-24.0
+Dadra and Nagar Haveli,15 February,5,-25,4,0,2,0,-4.5
+Dadra and Nagar Haveli,16 February,9,-27,19,-8,4,0,-5.5
+Dadra and Nagar Haveli,17 February,7,-24,15,-19,-1,0,-9.25
+Dadra and Nagar Haveli,18 February,9,-18,1,-14,1,0,-5.5
+Dadra and Nagar Haveli,19 February,10,-20,1,-6,2,-1,-3.5
+Dadra and Nagar Haveli,20 February,6,-24,-2,-10,3,-1,-6.25
+Dadra and Nagar Haveli,21 February,4,-23,-4,-2,-16,2,-9.25
+Dadra and Nagar Haveli,22 February,4,-23,-4,-2,-16,2,-9.25
+Dadra and Nagar Haveli,23 February,4,-23,-4,-2,-16,2,-9.25
+Dadra and Nagar Haveli,24 February,7,-26,-10,-6,2,0,-5.75
+Dadra and Nagar Haveli,25 February,4,-23,-4,-4,1,0,-5.5
+Dadra and Nagar Haveli,26 February,1,-24,-7,-2,2,0,-5.75
+Dadra and Nagar Haveli,27 February,1,-30,-10,-10,1,0,-9.5
+Dadra and Nagar Haveli,28 February,6,-25,-15,-10,4,1,-6.25
+Dadra and Nagar Haveli,29 February,6,-25,-15,-10,4,1,-6.25
+Dadra and Nagar Haveli,01 March,6,-25,-15,-10,4,1,-6.25
+Dadra and Nagar Haveli,02 March,6,-22,-11,-17,3,0,-7.5
+Dadra and Nagar Haveli,03 March,5,,-8,-12,2,0,
+Dadra and Nagar Haveli,04 March,7,,-7,2,2,0,
+Dadra and Nagar Haveli,05 March,4,,-3,8,3,0,
+Dadra and Nagar Haveli,06 March,8,,-11,20,4,0,
+Dadra and Nagar Haveli,07 March,8,,-11,20,4,0,
+Dadra and Nagar Haveli,08 March,8,,-11,20,4,0,
+Dadra and Nagar Haveli,09 March,24,,1,-23,-7,1,
+Dadra and Nagar Haveli,10 March,-13,,18,-35,-65,15,
+Dadra and Nagar Haveli,11 March,6,,-4,0,-12,1,
+Dadra and Nagar Haveli,12 March,2,,-11,-4,-2,0,
+Dadra and Nagar Haveli,13 March,7,,-17,4,0,1,
+Dadra and Nagar Haveli,14 March,7,,-17,4,0,1,
+Dadra and Nagar Haveli,15 March,7,,-17,4,0,1,
+Dadra and Nagar Haveli,16 March,8,,-3,12,0,1,
+Dadra and Nagar Haveli,17 March,5,,-5,-2,-1,1,
+Dadra and Nagar Haveli,18 March,2,,-7,4,-1,1,
+Dadra and Nagar Haveli,19 March,1,,-8,-8,-2,2,
+Dadra and Nagar Haveli,20 March,1,,-18,-33,-1,3,
+Dadra and Nagar Haveli,21 March,1,,-18,-33,-1,3,
+Dadra and Nagar Haveli,22 March,1,,-18,-33,-1,3,
+Dadra and Nagar Haveli,23 March,-33,,-26,-42,-18,11,
+Dadra and Nagar Haveli,24 March,-50,,-40,-53,-45,19,
+Dadra and Nagar Haveli,25 March,-68,-63,-52,-61,-70,31,-65.5
+Dadra and Nagar Haveli,26 March,-68,-61,-51,-57,-70,32,-64.0
+Dadra and Nagar Haveli,27 March,-69,-66,-56,-55,-70,33,-65.0
+Dadra and Nagar Haveli,28 March,-69,-66,-56,-55,-70,33,-65.0
+Dadra and Nagar Haveli,29 March,-69,-66,-56,-55,-70,33,-65.0
+Dadra and Nagar Haveli,30 March,-70,-69,-54,-67,-70,34,-69.0
+Dadra and Nagar Haveli,31 March,-70,-66,-53,-71,-69,32,-69.0
+Dadra and Nagar Haveli,01 April,-71,-68,-55,-67,-69,32,-68.75
+Dadra and Nagar Haveli,02 April,-72,-70,-54,-71,-70,34,-70.75
+Dadra and Nagar Haveli,03 April,-70,-68,-55,-71,-67,33,-69.0
+Dadra and Nagar Haveli,04 April,-70,-68,-55,-71,-67,33,-69.0
+Dadra and Nagar Haveli,05 April,-70,-68,-55,-71,-67,33,-69.0
+Dadra and Nagar Haveli,06 April,-72,-70,-52,-73,-69,33,-71.0
+Dadra and Nagar Haveli,07 April,-74,-62,-47,-69,-69,32,-68.5
+Dadra and Nagar Haveli,08 April,-75,-62,-48,-67,-69,33,-68.25
+Dadra and Nagar Haveli,09 April,-75,-62,-47,-71,-68,35,-69.0
+Dadra and Nagar Haveli,10 April,-74,-58,-49,-61,-68,35,-65.25
+Dadra and Nagar Haveli,11 April,-74,-58,-49,-61,-68,35,-65.25
+Dadra and Nagar Haveli,12 April,-74,-58,-49,-61,-68,35,-65.25
+Dadra and Nagar Haveli,13 April,-72,-57,-46,-75,-64,35,-67.0
+Dadra and Nagar Haveli,14 April,-72,-57,-44,-71,-64,33,-66.0
+Dadra and Nagar Haveli,15 April,-71,-49,-47,-67,-62,32,-62.25
+Dadra and Nagar Haveli,16 April,-80,-41,-70,-69,-62,33,-63.0
+Dadra and Nagar Haveli,17 April,-79,-37,-73,-73,-61,34,-62.5
+Dadra and Nagar Haveli,18 April,-79,-37,-73,-73,-61,34,-62.5
+Dadra and Nagar Haveli,19 April,-79,-37,-73,-73,-61,34,-62.5
+Dadra and Nagar Haveli,20 April,-80,-41,-71,-76,-57,33,-63.5
+Dadra and Nagar Haveli,21 April,-79,-34,-70,-80,-57,31,-62.5
+Dadra and Nagar Haveli,22 April,-80,-35,-70,-79,-56,31,-62.5
+Dadra and Nagar Haveli,23 April,-79,-34,-73,-79,-55,32,-61.75
+Dadra and Nagar Haveli,24 April,-78,-30,-71,-76,-52,30,-59.0
+Dadra and Nagar Haveli,25 April,-78,-30,-71,-76,-52,30,-59.0
+Dadra and Nagar Haveli,26 April,-78,-30,-71,-76,-52,30,-59.0
+Dadra and Nagar Haveli,27 April,-76,-28,-68,-79,-45,30,-57.0
+Dadra and Nagar Haveli,28 April,-73,-10,-67,-72,-41,25,-49.0
+Dadra and Nagar Haveli,29 April,-72,-2,-67,-73,-38,25,-46.25
+Dadra and Nagar Haveli,30 April,-72,-2,-65,-75,-37,25,-46.5
+Dadra and Nagar Haveli,01 May,-71,4,-68,-72,-41,27,-45.0
+Dadra and Nagar Haveli,02 May,-71,4,-68,-72,-41,27,-45.0
+Dadra and Nagar Haveli,03 May,-71,4,-68,-72,-41,27,-45.0
+Dadra and Nagar Haveli,04 May,-66,5,-59,-72,-28,22,-40.25
+Dadra and Nagar Haveli,05 May,-64,16,-59,-68,-27,20,-35.75
+Dadra and Nagar Haveli,06 May,-64,25,-62,-73,-26,19,-34.5
+Dadra and Nagar Haveli,07 May,-65,18,-60,-70,-25,20,-35.5
+Dadra and Nagar Haveli,08 May,-64,29,-62,-69,-23,20,-31.75
+Dadra and Nagar Haveli,09 May,-64,29,-62,-69,-23,20,-31.75
+Dadra and Nagar Haveli,10 May,-64,29,-62,-69,-23,20,-31.75
+Dadra and Nagar Haveli,11 May,-63,18,-56,-69,-21,20,-33.75
+Dadra and Nagar Haveli,12 May,-64,28,-59,-67,-23,18,-31.5
+Dadra and Nagar Haveli,13 May,-61,18,-57,-62,-22,17,-31.75
+Dadra and Nagar Haveli,14 May,-57,14,-57,-56,-21,16,-30.0
+Dadra and Nagar Haveli,15 May,-56,35,-57,-50,-19,17,-22.5
+Dadra and Nagar Haveli,16 May,-56,35,-57,-50,-19,17,-22.5
+Dadra and Nagar Haveli,17 May,-56,35,-57,-50,-19,17,-22.5
+Dadra and Nagar Haveli,18 May,-56,23,-56,-55,-20,17,-27.0
+Dadra and Nagar Haveli,19 May,-57,23,-52,-53,-19,16,-26.5
+Dadra and Nagar Haveli,20 May,-57,31,-53,-55,-18,16,-24.75
+Dadra and Nagar Haveli,21 May,-56,24,-55,-56,-19,17,-26.75
+Dadra and Nagar Haveli,22 May,-57,40,-56,-51,-17,16,-21.25
+Dadra and Nagar Haveli,23 May,-57,40,-56,-51,-17,16,-21.25
+Dadra and Nagar Haveli,24 May,-57,40,-56,-51,-17,16,-21.25
+Dadra and Nagar Haveli,25 May,-57,22,-50,-52,-22,18,-27.25
+Dadra and Nagar Haveli,26 May,-54,29,-54,-55,-19,14,-24.75
+Dadra and Nagar Haveli,27 May,-56,25,-55,-58,-18,14,-26.75
+Dadra and Nagar Haveli,28 May,-58,13,-56,-59,-18,15,-30.5
+Dadra and Nagar Haveli,29 May,-58,32,-57,-55,-18,16,-24.75
+Dadra and Nagar Haveli,30 May,-58,32,-57,-55,-18,16,-24.75
+Dadra and Nagar Haveli,31 May,-58,32,-57,-55,-18,16,-24.75
+Dadra and Nagar Haveli,01 June,-52,30,-52,-55,-16,14,-23.25
+Dadra and Nagar Haveli,02 June,-55,33,-52,-51,-18,12,-22.75
+Dadra and Nagar Haveli,03 June,-61,15,-62,-54,-39,23,-34.75
+Dadra and Nagar Haveli,04 June,-57,21,-60,-52,-16,13,-26.0
+Dadra and Nagar Haveli,05 June,-53,51,-56,-44,-12,12,-14.5
+Daman and Diu,15 February,5,-5,4,12,3,0,3.75
+Daman and Diu,16 February,9,-12,0,11,7,-1,3.75
+Daman and Diu,17 February,5,-4,11,2,-4,1,-0.25
+Daman and Diu,18 February,7,-1,12,9,3,0,4.5
+Daman and Diu,19 February,1,-7,4,8,2,0,1.0
+Daman and Diu,20 February,5,-1,7,7,3,-1,3.5
+Daman and Diu,21 February,14,33,48,2,-30,4,4.75
+Daman and Diu,22 February,14,33,48,2,-30,4,4.75
+Daman and Diu,23 February,14,33,48,2,-30,4,4.75
+Daman and Diu,24 February,0,-3,3,-11,2,0,-3.0
+Daman and Diu,25 February,8,-2,2,-5,0,-1,0.25
+Daman and Diu,26 February,2,-3,9,-13,0,0,-3.5
+Daman and Diu,27 February,4,-2,8,-8,0,0,-1.5
+Daman and Diu,28 February,7,-4,-3,-11,1,0,-1.75
+Daman and Diu,29 February,7,-4,-3,-11,1,0,-1.75
+Daman and Diu,01 March,7,-4,-3,-11,1,0,-1.75
+Daman and Diu,02 March,-3,1,5,-9,1,1,-2.5
+Daman and Diu,03 March,0,-7,-2,,3,1,
+Daman and Diu,04 March,2,1,7,,1,1,
+Daman and Diu,05 March,3,-1,2,,1,1,
+Daman and Diu,06 March,4,0,-2,,2,0,
+Daman and Diu,07 March,4,0,-2,,2,0,
+Daman and Diu,08 March,4,0,-2,,2,0,
+Daman and Diu,09 March,20,44,69,,-8,2,
+Daman and Diu,10 March,25,8,174,,-66,18,
+Daman and Diu,11 March,5,15,38,,-11,2,
+Daman and Diu,12 March,2,3,16,,-3,1,
+Daman and Diu,13 March,3,4,0,,-1,1,
+Daman and Diu,14 March,3,4,0,,-1,1,
+Daman and Diu,15 March,3,4,0,,-1,1,
+Daman and Diu,16 March,-4,9,3,,-1,1,
+Daman and Diu,17 March,-3,2,-2,,-2,1,
+Daman and Diu,18 March,-4,5,-3,,-3,1,
+Daman and Diu,19 March,-2,3,-7,,-4,2,
+Daman and Diu,20 March,-9,0,-25,,-3,3,
+Daman and Diu,21 March,-9,0,-25,,-3,3,
+Daman and Diu,22 March,-9,0,-25,,-3,3,
+Daman and Diu,23 March,-51,-36,-52,-53,-22,14,-40.5
+Daman and Diu,24 March,-62,-51,-58,-58,-54,24,-56.25
+Daman and Diu,25 March,-75,-68,-64,-72,-72,33,-71.75
+Daman and Diu,26 March,-73,-69,-62,-72,-70,34,-71.0
+Daman and Diu,27 March,-74,-70,-69,-75,-69,33,-72.0
+Daman and Diu,28 March,-74,-70,-69,-75,-69,33,-72.0
+Daman and Diu,29 March,-74,-70,-69,-75,-69,33,-72.0
+Daman and Diu,30 March,-75,-68,-64,-73,-67,34,-70.75
+Daman and Diu,31 March,-74,-67,-65,-71,-68,33,-70.0
+Daman and Diu,01 April,-75,-68,-65,-72,-67,34,-70.5
+Daman and Diu,02 April,-75,-68,-66,-76,-69,35,-72.0
+Daman and Diu,03 April,-73,-66,-66,-73,-66,33,-69.5
+Daman and Diu,04 April,-73,-66,-66,-73,-66,33,-69.5
+Daman and Diu,05 April,-73,-66,-66,-73,-66,33,-69.5
+Daman and Diu,06 April,-76,-68,-66,-74,-67,34,-71.25
+Daman and Diu,07 April,-80,-61,-75,-69,-64,33,-68.5
+Daman and Diu,08 April,-82,-64,-74,-69,-65,33,-70.0
+Daman and Diu,09 April,-80,-61,-74,-72,-64,35,-69.25
+Daman and Diu,10 April,-80,-62,-75,-71,-65,36,-69.5
+Daman and Diu,11 April,-80,-62,-75,-71,-65,36,-69.5
+Daman and Diu,12 April,-80,-62,-75,-71,-65,36,-69.5
+Daman and Diu,13 April,-81,-61,-74,-70,-60,35,-68.0
+Daman and Diu,14 April,-81,-63,-75,-70,-66,34,-70.0
+Daman and Diu,15 April,-81,-57,-75,-66,-58,33,-65.5
+Daman and Diu,16 April,-86,-53,-82,-66,-57,34,-65.5
+Daman and Diu,17 April,-87,-53,-83,-68,-56,33,-66.0
+Daman and Diu,18 April,-87,-53,-83,-68,-56,33,-66.0
+Daman and Diu,19 April,-87,-53,-83,-68,-56,33,-66.0
+Daman and Diu,20 April,-87,-57,-83,-67,-51,32,-65.5
+Daman and Diu,21 April,-87,-53,-82,-65,-51,31,-64.0
+Daman and Diu,22 April,-87,-55,-83,-62,-52,31,-64.0
+Daman and Diu,23 April,-86,-52,-81,-66,-51,31,-63.75
+Daman and Diu,24 April,-86,-53,-82,-60,-49,31,-62.0
+Daman and Diu,25 April,-86,-53,-82,-60,-49,31,-62.0
+Daman and Diu,26 April,-86,-53,-82,-60,-49,31,-62.0
+Daman and Diu,27 April,-86,-54,-82,-65,-45,32,-62.5
+Daman and Diu,28 April,-83,-47,-82,-57,-42,27,-57.25
+Daman and Diu,29 April,-83,-43,-81,-54,-41,28,-55.25
+Daman and Diu,30 April,-81,-44,-80,-49,-39,28,-53.25
+Daman and Diu,01 May,-80,-39,-83,-47,-51,31,-54.25
+Daman and Diu,02 May,-80,-39,-83,-47,-51,31,-54.25
+Daman and Diu,03 May,-80,-39,-83,-47,-51,31,-54.25
+Daman and Diu,04 May,-80,-39,-81,-51,-32,25,-50.5
+Daman and Diu,05 May,-77,-35,-81,-45,-31,24,-47.0
+Daman and Diu,06 May,-76,-33,-81,-41,-30,23,-45.0
+Daman and Diu,07 May,-73,-32,-80,-41,-30,22,-44.0
+Daman and Diu,08 May,-74,-32,-84,-43,-28,22,-44.25
+Daman and Diu,09 May,-74,-32,-84,-43,-28,22,-44.25
+Daman and Diu,10 May,-74,-32,-84,-43,-28,22,-44.25
+Daman and Diu,11 May,-76,-31,-83,-42,-26,23,-43.75
+Daman and Diu,12 May,-74,-30,-81,-39,-26,22,-42.25
+Daman and Diu,13 May,-76,-33,-81,-43,-26,21,-44.5
+Daman and Diu,14 May,-75,-31,-78,-42,-26,20,-43.5
+Daman and Diu,15 May,-74,-31,-79,-40,-21,19,-41.5
+Daman and Diu,16 May,-74,-31,-79,-40,-21,19,-41.5
+Daman and Diu,17 May,-74,-31,-79,-40,-21,19,-41.5
+Daman and Diu,18 May,-76,-23,-79,-43,-22,20,-41.0
+Daman and Diu,19 May,-74,-31,-76,-44,-22,19,-42.75
+Daman and Diu,20 May,-74,-30,-76,-35,-24,19,-40.75
+Daman and Diu,21 May,-74,-33,-75,-41,-24,21,-43.0
+Daman and Diu,22 May,-74,-33,-77,-45,-21,20,-43.25
+Daman and Diu,23 May,-74,-33,-77,-45,-21,20,-43.25
+Daman and Diu,24 May,-74,-33,-77,-45,-21,20,-43.25
+Daman and Diu,25 May,-75,-35,-76,-46,-29,22,-46.25
+Daman and Diu,26 May,-74,-37,-76,-42,-21,19,-43.5
+Daman and Diu,27 May,-74,-34,-75,-44,-21,18,-43.25
+Daman and Diu,28 May,-73,-37,-76,-40,-22,20,-43.0
+Daman and Diu,29 May,-74,-39,-77,-43,-20,20,-44.0
+Daman and Diu,30 May,-74,-39,-77,-43,-20,20,-44.0
+Daman and Diu,31 May,-74,-39,-77,-43,-20,20,-44.0
+Daman and Diu,01 June,-73,-24,-75,-40,-19,18,-39.0
+Daman and Diu,02 June,-72,-27,-73,-30,-17,16,-36.5
+Daman and Diu,03 June,-78,-38,-74,-44,-51,28,-52.75
+Daman and Diu,04 June,-71,-21,-75,-33,-15,16,-35.0
+Daman and Diu,05 June,-72,-26,-76,-38,-13,14,-37.25
+Delhi,15 February,1,2,8,6,4,0,3.25
+Delhi,16 February,2,3,9,6,2,0,3.25
+Delhi,17 February,0,2,12,2,1,0,1.25
+Delhi,18 February,0,3,13,3,3,0,2.25
+Delhi,19 February,-1,3,10,2,3,0,1.75
+Delhi,20 February,0,2,8,4,4,0,2.5
+Delhi,21 February,-7,-5,1,-8,-14,6,-8.5
+Delhi,22 February,-7,-5,1,-8,-14,6,-8.5
+Delhi,23 February,-7,-5,1,-8,-14,6,-8.5
+Delhi,24 February,-1,-2,10,2,2,0,0.25
+Delhi,25 February,-5,-7,6,-2,-3,2,-4.25
+Delhi,26 February,-8,-7,0,-7,-5,2,-6.75
+Delhi,27 February,-5,-6,2,-5,-1,1,-4.25
+Delhi,28 February,-4,-4,4,-4,0,1,-3.0
+Delhi,29 February,-4,-4,4,-4,0,1,-3.0
+Delhi,01 March,-4,-4,4,-4,0,1,-3.0
+Delhi,02 March,-3,-1,4,-5,0,2,-2.25
+Delhi,03 March,-2,1,8,-2,4,0,0.25
+Delhi,04 March,-5,0,1,-3,3,1,-1.25
+Delhi,05 March,-8,-5,-5,-4,3,1,-3.5
+Delhi,06 March,-15,-14,-18,-5,0,3,-8.5
+Delhi,07 March,-15,-14,-18,-5,0,3,-8.5
+Delhi,08 March,-15,-14,-18,-5,0,3,-8.5
+Delhi,09 March,-2,4,-3,-20,-18,5,-9.0
+Delhi,10 March,-51,-56,-34,-60,-79,24,-61.5
+Delhi,11 March,-15,-9,-9,-15,-11,2,-12.5
+Delhi,12 March,-10,-7,-4,-10,-2,1,-7.25
+Delhi,13 March,-11,-5,-2,-12,-2,2,-7.5
+Delhi,14 March,-11,-5,-2,-12,-2,2,-7.5
+Delhi,15 March,-11,-5,-2,-12,-2,2,-7.5
+Delhi,16 March,-10,-4,2,-13,-5,2,-8.0
+Delhi,17 March,-12,-2,0,-17,-8,3,-9.75
+Delhi,18 March,-15,-1,-3,-20,-10,4,-11.5
+Delhi,19 March,-17,0,-9,-24,-12,5,-13.25
+Delhi,20 March,-27,-9,-16,-31,-19,8,-21.5
+Delhi,21 March,-27,-9,-16,-31,-19,8,-21.5
+Delhi,22 March,-27,-9,-16,-31,-19,8,-21.5
+Delhi,23 March,-71,-52,-58,-74,-73,28,-67.5
+Delhi,24 March,-80,-66,-71,-82,-82,32,-77.5
+Delhi,25 March,-86,-76,-78,-87,-85,34,-83.5
+Delhi,26 March,-86,-76,-78,-87,-84,35,-83.25
+Delhi,27 March,-86,-77,-79,-87,-84,36,-83.5
+Delhi,28 March,-86,-77,-79,-87,-84,36,-83.5
+Delhi,29 March,-86,-77,-79,-87,-84,36,-83.5
+Delhi,30 March,-83,-73,-75,-86,-82,34,-81.0
+Delhi,31 March,-84,-74,-76,-86,-83,34,-81.75
+Delhi,01 April,-85,-76,-77,-87,-83,34,-82.75
+Delhi,02 April,-85,-76,-78,-88,-84,36,-83.25
+Delhi,03 April,-84,-73,-76,-87,-82,35,-81.5
+Delhi,04 April,-84,-73,-76,-87,-82,35,-81.5
+Delhi,05 April,-84,-73,-76,-87,-82,35,-81.5
+Delhi,06 April,-84,-73,-76,-87,-84,35,-82.0
+Delhi,07 April,-85,-68,-73,-84,-82,33,-79.75
+Delhi,08 April,-86,-67,-73,-84,-82,34,-79.75
+Delhi,09 April,-86,-67,-75,-85,-83,35,-80.25
+Delhi,10 April,-87,-69,-76,-86,-85,37,-81.75
+Delhi,11 April,-87,-69,-76,-86,-85,37,-81.75
+Delhi,12 April,-87,-69,-76,-86,-85,37,-81.75
+Delhi,13 April,-86,-69,-76,-85,-82,35,-80.5
+Delhi,14 April,-87,-71,-75,-85,-84,34,-81.75
+Delhi,15 April,-87,-68,-76,-84,-81,34,-80.0
+Delhi,16 April,-89,-66,-98,-83,-82,35,-80.0
+Delhi,17 April,-90,-66,-98,-83,-81,36,-80.0
+Delhi,18 April,-90,-66,-98,-83,-81,36,-80.0
+Delhi,19 April,-90,-66,-98,-83,-81,36,-80.0
+Delhi,20 April,-90,-66,-98,-83,-81,35,-80.0
+Delhi,21 April,-90,-68,-98,-84,-82,35,-81.0
+Delhi,22 April,-90,-67,-98,-84,-82,35,-80.75
+Delhi,23 April,-90,-67,-98,-84,-82,36,-80.75
+Delhi,24 April,-90,-66,-98,-84,-81,37,-80.25
+Delhi,25 April,-90,-66,-98,-84,-81,37,-80.25
+Delhi,26 April,-90,-66,-98,-84,-81,37,-80.25
+Delhi,27 April,-89,-65,-98,-83,-80,35,-79.25
+Delhi,28 April,-90,-66,-98,-83,-81,34,-80.0
+Delhi,29 April,-89,-65,-98,-82,-81,35,-79.25
+Delhi,30 April,-89,-66,-96,-82,-81,35,-79.5
+Delhi,01 May,-89,-64,-96,-82,-81,36,-79.0
+Delhi,02 May,-89,-64,-96,-82,-81,36,-79.0
+Delhi,03 May,-89,-64,-96,-82,-81,36,-79.0
+Delhi,04 May,-84,-54,-95,-77,-75,32,-72.5
+Delhi,05 May,-85,-55,-95,-77,-75,32,-73.0
+Delhi,06 May,-84,-52,-95,-76,-73,32,-71.25
+Delhi,07 May,-85,-57,-95,-78,-77,33,-74.25
+Delhi,08 May,-83,-52,-95,-76,-72,32,-70.75
+Delhi,09 May,-83,-52,-95,-76,-72,32,-70.75
+Delhi,10 May,-83,-52,-95,-76,-72,32,-70.75
+Delhi,11 May,-82,-51,-95,-75,-70,31,-69.5
+Delhi,12 May,-83,-53,-95,-75,-71,31,-70.5
+Delhi,13 May,-82,-50,-94,-73,-70,30,-68.75
+Delhi,14 May,-82,-54,-94,-74,-70,30,-70.0
+Delhi,15 May,-81,-48,-94,-73,-68,30,-67.5
+Delhi,16 May,-81,-48,-94,-73,-68,30,-67.5
+Delhi,17 May,-81,-48,-94,-73,-68,30,-67.5
+Delhi,18 May,-79,-46,-93,-71,-63,28,-64.75
+Delhi,19 May,-76,-41,-92,-67,-60,27,-61.0
+Delhi,20 May,-74,-36,-91,-65,-59,26,-58.5
+Delhi,21 May,-73,-37,-92,-65,-58,26,-58.25
+Delhi,22 May,-74,-37,-91,-65,-57,26,-58.25
+Delhi,23 May,-74,-37,-91,-65,-57,26,-58.25
+Delhi,24 May,-74,-37,-91,-65,-57,26,-58.25
+Delhi,25 May,-75,-41,-92,-69,-66,28,-62.75
+Delhi,26 May,-73,-37,-91,-63,-55,24,-57.0
+Delhi,27 May,-73,-35,-91,-63,-55,24,-56.5
+Delhi,28 May,-73,-37,-91,-63,-55,25,-57.0
+Delhi,29 May,-73,-37,-91,-64,-54,26,-57.0
+Delhi,30 May,-73,-37,-91,-64,-54,26,-57.0
+Delhi,31 May,-73,-37,-91,-64,-54,26,-57.0
+Delhi,01 June,-68,-27,-90,-59,-49,22,-50.75
+Delhi,02 June,-69,-28,-90,-59,-50,22,-51.5
+Delhi,03 June,-69,-27,-90,-58,-49,22,-50.75
+Delhi,04 June,-69,-30,-90,-59,-50,23,-52.0
+Delhi,05 June,-67,-28,-88,-59,-49,23,-50.75
+Goa,15 February,-2,-7,-3,0,3,0,-1.5
+Goa,16 February,0,-7,-3,1,-1,1,-1.75
+Goa,17 February,1,-4,-2,1,2,1,0.0
+Goa,18 February,4,-1,1,2,2,1,1.75
+Goa,19 February,2,-5,4,5,1,0,0.75
+Goa,20 February,5,-3,9,6,1,0,2.25
+Goa,21 February,8,-7,27,1,-17,4,-3.75
+Goa,22 February,8,-7,27,1,-17,4,-3.75
+Goa,23 February,8,-7,27,1,-17,4,-3.75
+Goa,24 February,1,-4,2,2,2,1,0.25
+Goa,25 February,2,-7,-3,2,1,1,-0.5
+Goa,26 February,-5,-11,-8,-3,0,1,-4.75
+Goa,27 February,-5,-11,-8,-1,1,2,-4.0
+Goa,28 February,-5,-13,-11,-6,4,2,-5.0
+Goa,29 February,-5,-13,-11,-6,4,2,-5.0
+Goa,01 March,-5,-13,-11,-6,4,2,-5.0
+Goa,02 March,-3,-6,-7,-2,3,1,-2.0
+Goa,03 March,-2,-6,-7,-2,3,1,-1.75
+Goa,04 March,-4,-4,-9,0,3,1,-1.25
+Goa,05 March,-5,-7,-9,-3,3,1,-3.0
+Goa,06 March,-4,-7,-14,-7,5,2,-3.25
+Goa,07 March,-4,-7,-14,-7,5,2,-3.25
+Goa,08 March,-4,-7,-14,-7,5,2,-3.25
+Goa,09 March,8,4,13,0,-1,1,2.75
+Goa,10 March,-4,-20,20,-12,-49,12,-21.25
+Goa,11 March,-4,-4,-6,-2,1,1,-2.25
+Goa,12 March,-8,-7,-13,-5,0,1,-5.0
+Goa,13 March,-11,-11,-19,-11,2,2,-7.75
+Goa,14 March,-11,-11,-19,-11,2,2,-7.75
+Goa,15 March,-11,-11,-19,-11,2,2,-7.75
+Goa,16 March,-15,-8,-27,-14,-8,4,-11.25
+Goa,17 March,-18,-10,-30,-19,-11,4,-14.5
+Goa,18 March,-23,-8,-34,-21,-11,5,-15.75
+Goa,19 March,-25,-9,-40,-24,-13,6,-17.75
+Goa,20 March,-31,-9,-50,-31,-13,7,-21.0
+Goa,21 March,-31,-9,-50,-31,-13,7,-21.0
+Goa,22 March,-31,-9,-50,-31,-13,7,-21.0
+Goa,23 March,-76,-72,-72,-67,-68,30,-70.75
+Goa,24 March,-71,-47,-70,-63,-67,27,-62.0
+Goa,25 March,-83,-81,-76,-74,-76,36,-78.5
+Goa,26 March,-81,-78,-75,-73,-73,35,-76.25
+Goa,27 March,-79,-70,-77,-72,-72,34,-73.25
+Goa,28 March,-79,-70,-77,-72,-72,34,-73.25
+Goa,29 March,-79,-70,-77,-72,-72,34,-73.25
+Goa,30 March,-78,-73,-76,-72,-70,34,-73.25
+Goa,31 March,-76,-70,-74,-71,-69,32,-71.5
+Goa,01 April,-77,-70,-73,-70,-69,32,-71.5
+Goa,02 April,-77,-71,-74,-71,-68,32,-71.75
+Goa,03 April,-79,-71,-76,-73,-66,33,-72.25
+Goa,04 April,-79,-71,-76,-73,-66,33,-72.25
+Goa,05 April,-79,-71,-76,-73,-66,33,-72.25
+Goa,06 April,-78,-69,-73,-71,-65,32,-70.75
+Goa,07 April,-78,-62,-72,-64,-65,31,-67.25
+Goa,08 April,-79,-62,-72,-64,-65,31,-67.5
+Goa,09 April,-78,-60,-73,-64,-65,32,-66.75
+Goa,10 April,-82,-68,-76,-68,-70,34,-72.0
+Goa,11 April,-82,-68,-76,-68,-70,34,-72.0
+Goa,12 April,-82,-68,-76,-68,-70,34,-72.0
+Goa,13 April,-78,-59,-73,-63,-62,31,-65.5
+Goa,14 April,-78,-61,-71,-63,-66,31,-67.0
+Goa,15 April,-77,-57,-70,-60,-59,29,-63.25
+Goa,16 April,-81,-54,-76,-58,-60,30,-63.25
+Goa,17 April,-82,-55,-77,-60,-58,31,-63.75
+Goa,18 April,-82,-55,-77,-60,-58,31,-63.75
+Goa,19 April,-82,-55,-77,-60,-58,31,-63.75
+Goa,20 April,-81,-55,-77,-56,-51,27,-60.75
+Goa,21 April,-79,-51,-75,-54,-50,25,-58.5
+Goa,22 April,-80,-53,-75,-54,-50,25,-59.25
+Goa,23 April,-79,-53,-75,-55,-50,26,-59.25
+Goa,24 April,-80,-53,-77,-56,-48,26,-59.25
+Goa,25 April,-80,-53,-77,-56,-48,26,-59.25
+Goa,26 April,-80,-53,-77,-56,-48,26,-59.25
+Goa,27 April,-78,-49,-76,-54,-45,25,-56.5
+Goa,28 April,-76,-47,-74,-52,-45,22,-55.0
+Goa,29 April,-76,-45,-73,-50,-44,23,-53.75
+Goa,30 April,-75,-45,-74,-50,-43,23,-53.25
+Goa,01 May,-77,-49,-76,-55,-60,28,-60.25
+Goa,02 May,-77,-49,-76,-55,-60,28,-60.25
+Goa,03 May,-77,-49,-76,-55,-60,28,-60.25
+Goa,04 May,-72,-35,-76,-45,-35,19,-46.75
+Goa,05 May,-70,-31,-74,-43,-35,18,-44.75
+Goa,06 May,-70,-27,-73,-39,-34,18,-42.5
+Goa,07 May,-69,-26,-71,-41,-35,18,-42.75
+Goa,08 May,-70,-29,-73,-43,-32,19,-43.5
+Goa,09 May,-70,-29,-73,-43,-32,19,-43.5
+Goa,10 May,-70,-29,-73,-43,-32,19,-43.5
+Goa,11 May,-69,-25,-72,-40,-31,17,-41.25
+Goa,12 May,-68,-25,-70,-40,-31,17,-41.0
+Goa,13 May,-69,-24,-70,-36,-31,15,-40.0
+Goa,14 May,-68,-25,-72,-39,-32,16,-41.0
+Goa,15 May,-68,-24,-72,-39,-29,16,-40.0
+Goa,16 May,-68,-24,-72,-39,-29,16,-40.0
+Goa,17 May,-68,-24,-72,-39,-29,16,-40.0
+Goa,18 May,-68,-26,-73,-39,-29,17,-40.5
+Goa,19 May,-67,-26,-71,-39,-30,17,-40.5
+Goa,20 May,-66,-26,-70,-38,-30,17,-40.0
+Goa,21 May,-67,-27,-71,-38,-31,17,-40.75
+Goa,22 May,-67,-28,-73,-42,-28,17,-41.25
+Goa,23 May,-67,-28,-73,-42,-28,17,-41.25
+Goa,24 May,-67,-28,-73,-42,-28,17,-41.25
+Goa,25 May,-68,-34,-70,-43,-44,20,-47.25
+Goa,26 May,-63,-25,-70,-39,-29,15,-39.0
+Goa,27 May,-65,-24,-69,-35,-29,15,-38.25
+Goa,28 May,-65,-24,-70,-36,-29,15,-38.5
+Goa,29 May,-65,-26,-72,-39,-27,15,-39.25
+Goa,30 May,-65,-26,-72,-39,-27,15,-39.25
+Goa,31 May,-65,-26,-72,-39,-27,15,-39.25
+Goa,01 June,-65,-22,-74,-37,-27,14,-37.75
+Goa,02 June,-68,-31,-76,-44,-29,16,-43.0
+Goa,03 June,-70,-28,-75,-42,-33,16,-43.25
+Goa,04 June,-64,-17,-73,-37,-29,14,-36.75
+Goa,05 June,-66,-26,-75,-42,-27,16,-40.25
+Gujarat,15 February,0,1,4,2,2,0,1.25
+Gujarat,16 February,1,-2,1,2,-2,0,-0.25
+Gujarat,17 February,-1,1,2,0,3,0,0.75
+Gujarat,18 February,0,2,1,0,3,0,1.25
+Gujarat,19 February,-1,2,2,1,3,0,1.25
+Gujarat,20 February,1,4,5,4,2,0,2.75
+Gujarat,21 February,-3,0,14,-5,-20,5,-7.0
+Gujarat,22 February,-3,0,14,-5,-20,5,-7.0
+Gujarat,23 February,-3,0,14,-5,-20,5,-7.0
+Gujarat,24 February,-3,-2,0,-1,1,1,-1.25
+Gujarat,25 February,-1,-2,2,1,-1,0,-0.75
+Gujarat,26 February,-2,-3,1,1,0,-1,-1.0
+Gujarat,27 February,-2,-3,2,-1,0,0,-1.5
+Gujarat,28 February,-3,-2,2,-2,3,1,-1.0
+Gujarat,29 February,-3,-2,2,-2,3,1,-1.0
+Gujarat,01 March,-3,-2,2,-2,3,1,-1.0
+Gujarat,02 March,-4,1,2,-2,5,1,0.0
+Gujarat,03 March,-3,2,1,-2,4,1,0.25
+Gujarat,04 March,-2,3,3,0,4,1,1.25
+Gujarat,05 March,-4,1,0,-2,3,2,-0.5
+Gujarat,06 March,-3,3,0,-1,5,1,1.0
+Gujarat,07 March,-3,3,0,-1,5,1,1.0
+Gujarat,08 March,-3,3,0,-1,5,1,1.0
+Gujarat,09 March,0,7,9,-3,-11,3,-1.75
+Gujarat,10 March,-11,-31,16,-17,-70,14,-32.25
+Gujarat,11 March,-3,1,2,3,-5,0,-1.0
+Gujarat,12 March,-4,-1,1,-3,-2,1,-2.5
+Gujarat,13 March,-6,0,0,-4,2,1,-2.0
+Gujarat,14 March,-6,0,0,-4,2,1,-2.0
+Gujarat,15 March,-6,0,0,-4,2,1,-2.0
+Gujarat,16 March,-7,3,0,-5,-1,3,-2.5
+Gujarat,17 March,-9,0,-2,-7,-3,2,-4.75
+Gujarat,18 March,-9,-1,-1,-8,-4,2,-5.5
+Gujarat,19 March,-11,3,-3,-11,-5,3,-6.0
+Gujarat,20 March,-18,9,-13,-15,-5,4,-7.25
+Gujarat,21 March,-18,9,-13,-15,-5,4,-7.25
+Gujarat,22 March,-18,9,-13,-15,-5,4,-7.25
+Gujarat,23 March,-62,-41,-44,-53,-52,24,-52.0
+Gujarat,24 March,-74,-58,-54,-65,-71,31,-67.0
+Gujarat,25 March,-78,-64,-58,-69,-76,33,-71.75
+Gujarat,26 March,-78,-64,-58,-69,-75,34,-71.5
+Gujarat,27 March,-78,-66,-57,-70,-74,34,-72.0
+Gujarat,28 March,-78,-66,-57,-70,-74,34,-72.0
+Gujarat,29 March,-78,-66,-57,-70,-74,34,-72.0
+Gujarat,30 March,-79,-68,-59,-72,-74,35,-73.25
+Gujarat,31 March,-79,-67,-59,-71,-73,33,-72.5
+Gujarat,01 April,-79,-67,-58,-70,-73,33,-72.25
+Gujarat,02 April,-79,-69,-59,-71,-75,35,-73.5
+Gujarat,03 April,-78,-66,-57,-70,-71,33,-71.25
+Gujarat,04 April,-78,-66,-57,-70,-71,33,-71.25
+Gujarat,05 April,-78,-66,-57,-70,-71,33,-71.25
+Gujarat,06 April,-80,-68,-58,-72,-74,35,-73.5
+Gujarat,07 April,-81,-59,-61,-64,-72,33,-69.0
+Gujarat,08 April,-82,-61,-61,-65,-73,33,-70.25
+Gujarat,09 April,-82,-60,-62,-66,-73,36,-70.25
+Gujarat,10 April,-82,-61,-62,-67,-74,36,-71.0
+Gujarat,11 April,-82,-61,-62,-67,-74,36,-71.0
+Gujarat,12 April,-82,-61,-62,-67,-74,36,-71.0
+Gujarat,13 April,-82,-62,-62,-67,-72,37,-70.75
+Gujarat,14 April,-82,-63,-62,-66,-74,35,-71.25
+Gujarat,15 April,-82,-59,-61,-63,-70,34,-68.5
+Gujarat,16 April,-88,-53,-67,-62,-71,35,-68.5
+Gujarat,17 April,-88,-53,-67,-62,-70,35,-68.25
+Gujarat,18 April,-88,-53,-67,-62,-70,35,-68.25
+Gujarat,19 April,-88,-53,-67,-62,-70,35,-68.25
+Gujarat,20 April,-89,-57,-69,-65,-69,36,-70.0
+Gujarat,21 April,-88,-57,-69,-63,-69,34,-69.25
+Gujarat,22 April,-89,-58,-70,-64,-69,34,-70.0
+Gujarat,23 April,-89,-58,-70,-64,-69,36,-70.0
+Gujarat,24 April,-88,-56,-69,-64,-68,35,-69.0
+Gujarat,25 April,-88,-56,-69,-64,-68,35,-69.0
+Gujarat,26 April,-88,-56,-69,-64,-68,35,-69.0
+Gujarat,27 April,-87,-55,-69,-63,-65,35,-67.5
+Gujarat,28 April,-87,-54,-69,-61,-65,32,-66.75
+Gujarat,29 April,-87,-54,-68,-60,-65,33,-66.5
+Gujarat,30 April,-87,-54,-68,-61,-64,34,-66.5
+Gujarat,01 May,-87,-53,-69,-62,-64,33,-66.5
+Gujarat,02 May,-87,-53,-69,-62,-64,33,-66.5
+Gujarat,03 May,-87,-53,-69,-62,-64,33,-66.5
+Gujarat,04 May,-85,-49,-68,-60,-60,32,-63.5
+Gujarat,05 May,-85,-49,-68,-59,-61,31,-63.5
+Gujarat,06 May,-84,-45,-68,-55,-60,30,-61.0
+Gujarat,07 May,-84,-47,-68,-58,-61,31,-62.5
+Gujarat,08 May,-84,-46,-68,-58,-60,31,-62.0
+Gujarat,09 May,-84,-46,-68,-58,-60,31,-62.0
+Gujarat,10 May,-84,-46,-68,-58,-60,31,-62.0
+Gujarat,11 May,-85,-51,-67,-60,-60,32,-64.0
+Gujarat,12 May,-85,-51,-68,-58,-60,31,-63.5
+Gujarat,13 May,-85,-52,-67,-57,-59,30,-63.25
+Gujarat,14 May,-84,-49,-67,-57,-59,29,-62.25
+Gujarat,15 May,-83,-44,-66,-55,-57,29,-59.75
+Gujarat,16 May,-83,-44,-66,-55,-57,29,-59.75
+Gujarat,17 May,-83,-44,-66,-55,-57,29,-59.75
+Gujarat,18 May,-82,-42,-66,-54,-54,29,-58.0
+Gujarat,19 May,-78,-34,-66,-48,-49,25,-52.25
+Gujarat,20 May,-76,-29,-65,-44,-47,24,-49.0
+Gujarat,21 May,-76,-27,-65,-44,-46,24,-48.25
+Gujarat,22 May,-76,-26,-65,-44,-44,24,-47.5
+Gujarat,23 May,-76,-26,-65,-44,-44,24,-47.5
+Gujarat,24 May,-76,-26,-65,-44,-44,24,-47.5
+Gujarat,25 May,-76,-29,-64,-46,-49,25,-50.0
+Gujarat,26 May,-74,-26,-65,-42,-42,21,-46.0
+Gujarat,27 May,-74,-25,-64,-40,-41,21,-45.0
+Gujarat,28 May,-74,-24,-64,-41,-41,21,-45.0
+Gujarat,29 May,-73,-23,-64,-41,-39,21,-44.0
+Gujarat,30 May,-73,-23,-64,-41,-39,21,-44.0
+Gujarat,31 May,-73,-23,-64,-41,-39,21,-44.0
+Gujarat,01 June,-67,-11,-63,-34,-32,17,-36.0
+Gujarat,02 June,-67,-12,-63,-33,-34,16,-36.5
+Gujarat,03 June,-67,-12,-63,-31,-33,16,-35.75
+Gujarat,04 June,-66,-10,-63,-31,-32,16,-34.75
+Gujarat,05 June,-65,-11,-62,-32,-31,16,-34.75
+Haryana,15 February,3,3,12,5,3,-1,3.5
+Haryana,16 February,4,3,12,6,1,-1,3.5
+Haryana,17 February,4,4,9,5,4,-2,4.25
+Haryana,18 February,4,3,8,7,4,-1,4.5
+Haryana,19 February,0,1,3,0,4,-1,1.25
+Haryana,20 February,1,1,3,6,6,-1,3.5
+Haryana,21 February,-7,-8,-4,-12,-22,7,-12.25
+Haryana,22 February,-7,-8,-4,-12,-22,7,-12.25
+Haryana,23 February,-7,-8,-4,-12,-22,7,-12.25
+Haryana,24 February,5,5,11,7,4,-2,5.25
+Haryana,25 February,7,3,13,9,1,-2,5.0
+Haryana,26 February,2,0,8,3,0,-2,1.25
+Haryana,27 February,3,0,7,4,3,-2,2.5
+Haryana,28 February,3,-1,7,3,4,-1,2.25
+Haryana,29 February,3,-1,7,3,4,-1,2.25
+Haryana,01 March,3,-1,7,3,4,-1,2.25
+Haryana,02 March,5,6,11,5,4,-1,5.0
+Haryana,03 March,4,4,10,7,4,-2,4.75
+Haryana,04 March,-3,-1,2,0,3,0,-0.25
+Haryana,05 March,-4,-3,-1,0,5,0,-0.5
+Haryana,06 March,-12,-17,-15,-2,0,3,-7.75
+Haryana,07 March,-12,-17,-15,-2,0,3,-7.75
+Haryana,08 March,-12,-17,-15,-2,0,3,-7.75
+Haryana,09 March,6,14,8,-9,-20,4,-2.25
+Haryana,10 March,-36,-44,-18,-48,-73,20,-50.25
+Haryana,11 March,-6,-3,-2,0,-14,1,-5.75
+Haryana,12 March,-1,-1,3,2,-2,-1,-0.5
+Haryana,13 March,-4,-3,1,-3,0,0,-2.5
+Haryana,14 March,-4,-3,1,-3,0,0,-2.5
+Haryana,15 March,-4,-3,1,-3,0,0,-2.5
+Haryana,16 March,0,4,9,-1,-3,0,0.0
+Haryana,17 March,-3,1,9,-7,-7,1,-4.0
+Haryana,18 March,-8,2,4,-13,-9,2,-7.0
+Haryana,19 March,-9,11,3,-14,-9,3,-5.25
+Haryana,20 March,-19,0,-6,-22,-16,6,-14.25
+Haryana,21 March,-19,0,-6,-22,-16,6,-14.25
+Haryana,22 March,-19,0,-6,-22,-16,6,-14.25
+Haryana,23 March,-49,-28,-30,-60,-60,22,-49.25
+Haryana,24 March,-66,-50,-48,-72,-71,26,-64.75
+Haryana,25 March,-76,-68,-59,-79,-76,31,-74.75
+Haryana,26 March,-75,-67,-59,-78,-75,32,-73.75
+Haryana,27 March,-77,-70,-62,-80,-76,34,-75.75
+Haryana,28 March,-77,-70,-62,-80,-76,34,-75.75
+Haryana,29 March,-77,-70,-62,-80,-76,34,-75.75
+Haryana,30 March,-73,-64,-57,-78,-73,31,-72.0
+Haryana,31 March,-73,-65,-57,-77,-73,29,-72.0
+Haryana,01 April,-75,-68,-59,-79,-74,31,-74.0
+Haryana,02 April,-75,-67,-59,-78,-74,31,-73.5
+Haryana,03 April,-74,-66,-58,-79,-72,31,-72.75
+Haryana,04 April,-74,-66,-58,-79,-72,31,-72.75
+Haryana,05 April,-74,-66,-58,-79,-72,31,-72.75
+Haryana,06 April,-73,-64,-56,-79,-73,31,-72.25
+Haryana,07 April,-75,-57,-50,-74,-72,29,-69.5
+Haryana,08 April,-76,-57,-53,-76,-73,31,-70.5
+Haryana,09 April,-76,-57,-54,-76,-72,32,-70.25
+Haryana,10 April,-76,-57,-53,-76,-72,33,-70.25
+Haryana,11 April,-76,-57,-53,-76,-72,33,-70.25
+Haryana,12 April,-76,-57,-53,-76,-72,33,-70.25
+Haryana,13 April,-75,-57,-52,-76,-71,32,-69.75
+Haryana,14 April,-75,-58,-51,-74,-73,30,-70.0
+Haryana,15 April,-76,-54,-55,-74,-70,30,-68.5
+Haryana,16 April,-83,-46,-90,-72,-70,31,-67.75
+Haryana,17 April,-84,-47,-90,-73,-70,33,-68.5
+Haryana,18 April,-84,-47,-90,-73,-70,33,-68.5
+Haryana,19 April,-84,-47,-90,-73,-70,33,-68.5
+Haryana,20 April,-83,-44,-90,-73,-67,31,-66.75
+Haryana,21 April,-82,-44,-90,-71,-68,29,-66.25
+Haryana,22 April,-83,-46,-90,-73,-69,30,-67.75
+Haryana,23 April,-83,-46,-90,-73,-68,31,-67.5
+Haryana,24 April,-83,-45,-90,-73,-67,32,-67.0
+Haryana,25 April,-83,-45,-90,-73,-67,32,-67.0
+Haryana,26 April,-83,-45,-90,-73,-67,32,-67.0
+Haryana,27 April,-82,-41,-90,-72,-66,31,-65.25
+Haryana,28 April,-81,-42,-90,-70,-66,28,-64.75
+Haryana,29 April,-82,-42,-89,-71,-66,30,-65.25
+Haryana,30 April,-82,-43,-88,-71,-65,30,-65.25
+Haryana,01 May,-82,-43,-89,-72,-65,31,-65.5
+Haryana,02 May,-82,-43,-89,-72,-65,31,-65.5
+Haryana,03 May,-82,-43,-89,-72,-65,31,-65.5
+Haryana,04 May,-77,-30,-87,-67,-59,27,-58.25
+Haryana,05 May,-76,-31,-87,-65,-58,26,-57.5
+Haryana,06 May,-75,-26,-87,-63,-57,26,-55.25
+Haryana,07 May,-75,-28,-87,-63,-56,27,-55.5
+Haryana,08 May,-75,-27,-87,-63,-53,27,-54.5
+Haryana,09 May,-75,-27,-87,-63,-53,27,-54.5
+Haryana,10 May,-75,-27,-87,-63,-53,27,-54.5
+Haryana,11 May,-72,-21,-86,-61,-50,24,-51.0
+Haryana,12 May,-72,-23,-86,-59,-51,23,-51.25
+Haryana,13 May,-72,-22,-86,-60,-50,24,-51.0
+Haryana,14 May,-72,-23,-86,-60,-49,23,-51.0
+Haryana,15 May,-71,-21,-86,-59,-47,23,-49.5
+Haryana,16 May,-71,-21,-86,-59,-47,23,-49.5
+Haryana,17 May,-71,-21,-86,-59,-47,23,-49.5
+Haryana,18 May,-68,-14,-85,-56,-44,21,-45.5
+Haryana,19 May,-67,-15,-85,-54,-45,20,-45.25
+Haryana,20 May,-66,-14,-84,-54,-44,21,-44.5
+Haryana,21 May,-65,-13,-84,-54,-42,21,-43.5
+Haryana,22 May,-66,-14,-84,-55,-41,21,-44.0
+Haryana,23 May,-66,-14,-84,-55,-41,21,-44.0
+Haryana,24 May,-66,-14,-84,-55,-41,21,-44.0
+Haryana,25 May,-62,-8,-83,-55,-48,21,-43.25
+Haryana,26 May,-63,-10,-84,-51,-40,18,-41.0
+Haryana,27 May,-64,-10,-84,-52,-40,19,-41.5
+Haryana,28 May,-64,-12,-84,-53,-39,19,-42.0
+Haryana,29 May,-65,-16,-84,-54,-39,20,-43.5
+Haryana,30 May,-65,-16,-84,-54,-39,20,-43.5
+Haryana,31 May,-65,-16,-84,-54,-39,20,-43.5
+Haryana,01 June,-59,0,-83,-48,-36,17,-35.75
+Haryana,02 June,-60,-5,-83,-48,-37,16,-37.5
+Haryana,03 June,-61,-6,-83,-49,-37,17,-38.25
+Haryana,04 June,-61,-8,-83,-49,-35,17,-38.25
+Haryana,05 June,-59,-7,-80,-50,-36,18,-38.0
+Himachal Pradesh,15 February,9,8,9,9,19,-2,11.25
+Himachal Pradesh,16 February,4,0,7,4,3,0,2.75
+Himachal Pradesh,17 February,8,8,13,8,10,-1,8.5
+Himachal Pradesh,18 February,15,15,18,14,13,-2,14.25
+Himachal Pradesh,19 February,6,6,9,8,11,0,7.75
+Himachal Pradesh,20 February,11,8,16,14,8,-2,10.25
+Himachal Pradesh,21 February,2,-2,10,-6,-31,5,-9.25
+Himachal Pradesh,22 February,2,-2,10,-6,-31,5,-9.25
+Himachal Pradesh,23 February,2,-2,10,-6,-31,5,-9.25
+Himachal Pradesh,24 February,10,8,11,15,11,-2,11.0
+Himachal Pradesh,25 February,16,12,17,20,11,-3,14.75
+Himachal Pradesh,26 February,9,4,10,14,7,-2,8.5
+Himachal Pradesh,27 February,7,-1,10,12,6,-1,6.0
+Himachal Pradesh,28 February,5,-1,7,8,10,-1,5.5
+Himachal Pradesh,29 February,5,-1,7,8,10,-1,5.5
+Himachal Pradesh,01 March,5,-1,7,8,10,-1,5.5
+Himachal Pradesh,02 March,10,10,15,12,13,-1,11.25
+Himachal Pradesh,03 March,14,12,21,16,14,-2,14.0
+Himachal Pradesh,04 March,6,5,13,12,13,0,9.0
+Himachal Pradesh,05 March,1,-1,8,6,12,1,4.5
+Himachal Pradesh,06 March,-3,-5,-1,0,13,2,1.25
+Himachal Pradesh,07 March,-3,-5,-1,0,13,2,1.25
+Himachal Pradesh,08 March,-3,-5,-1,0,13,2,1.25
+Himachal Pradesh,09 March,21,21,38,20,-4,0,14.5
+Himachal Pradesh,10 March,5,-7,27,2,-47,6,-11.75
+Himachal Pradesh,11 March,5,4,10,18,3,-2,7.5
+Himachal Pradesh,12 March,-1,-4,6,6,5,0,1.5
+Himachal Pradesh,13 March,-7,-7,-2,-1,7,1,-2.0
+Himachal Pradesh,14 March,-7,-7,-2,-1,7,1,-2.0
+Himachal Pradesh,15 March,-7,-7,-2,-1,7,1,-2.0
+Himachal Pradesh,16 March,6,13,13,16,4,-1,9.75
+Himachal Pradesh,17 March,6,10,17,14,3,-2,8.25
+Himachal Pradesh,18 March,-3,2,7,6,0,0,1.25
+Himachal Pradesh,19 March,-5,0,4,2,-1,0,-1.0
+Himachal Pradesh,20 March,-11,-3,-3,0,-1,1,-3.75
+Himachal Pradesh,21 March,-11,-3,-3,0,-1,1,-3.75
+Himachal Pradesh,22 March,-11,-3,-3,0,-1,1,-3.75
+Himachal Pradesh,23 March,-48,-37,-16,-35,-36,10,-39.0
+Himachal Pradesh,24 March,-63,-62,-23,-51,-55,16,-57.75
+Himachal Pradesh,25 March,-68,-69,-30,-56,-62,21,-63.75
+Himachal Pradesh,26 March,-65,-64,-28,-53,-61,20,-60.75
+Himachal Pradesh,27 March,-69,-67,-36,-58,-60,22,-63.5
+Himachal Pradesh,28 March,-69,-67,-36,-58,-60,22,-63.5
+Himachal Pradesh,29 March,-69,-67,-36,-58,-60,22,-63.5
+Himachal Pradesh,30 March,-65,-61,-27,-53,-55,20,-58.5
+Himachal Pradesh,31 March,-63,-61,-23,-51,-55,17,-57.5
+Himachal Pradesh,01 April,-65,-64,-27,-53,-56,18,-59.5
+Himachal Pradesh,02 April,-66,-65,-29,-55,-59,20,-61.25
+Himachal Pradesh,03 April,-65,-63,-29,-54,-52,19,-58.5
+Himachal Pradesh,04 April,-65,-63,-29,-54,-52,19,-58.5
+Himachal Pradesh,05 April,-65,-63,-29,-54,-52,19,-58.5
+Himachal Pradesh,06 April,-65,-59,-26,-52,-54,20,-57.5
+Himachal Pradesh,07 April,-63,-50,-22,-41,-54,17,-52.0
+Himachal Pradesh,08 April,-66,-54,-28,-46,-55,19,-55.25
+Himachal Pradesh,09 April,-65,-52,-28,-44,-55,20,-54.0
+Himachal Pradesh,10 April,-66,-52,-31,-46,-55,21,-54.75
+Himachal Pradesh,11 April,-66,-52,-31,-46,-55,21,-54.75
+Himachal Pradesh,12 April,-66,-52,-31,-46,-55,21,-54.75
+Himachal Pradesh,13 April,-64,-49,-28,-44,-52,20,-52.25
+Himachal Pradesh,14 April,-63,-50,-22,-42,-56,18,-52.75
+Himachal Pradesh,15 April,-66,-50,-26,-43,-56,20,-53.75
+Himachal Pradesh,16 April,-74,-40,-33,-37,-51,18,-50.5
+Himachal Pradesh,17 April,-76,-44,-37,-42,-50,20,-53.0
+Himachal Pradesh,18 April,-76,-44,-37,-42,-50,20,-53.0
+Himachal Pradesh,19 April,-76,-44,-37,-42,-50,20,-53.0
+Himachal Pradesh,20 April,-77,-43,-38,-42,-49,20,-52.75
+Himachal Pradesh,21 April,-74,-40,-34,-37,-48,16,-49.75
+Himachal Pradesh,22 April,-76,-44,-39,-40,-49,18,-52.25
+Himachal Pradesh,23 April,-76,-43,-39,-40,-49,19,-52.0
+Himachal Pradesh,24 April,-76,-43,-41,-42,-46,19,-51.75
+Himachal Pradesh,25 April,-76,-43,-41,-42,-46,19,-51.75
+Himachal Pradesh,26 April,-76,-43,-41,-42,-46,19,-51.75
+Himachal Pradesh,27 April,-73,-35,-37,-37,-43,19,-47.0
+Himachal Pradesh,28 April,-69,-25,-30,-26,-41,12,-40.25
+Himachal Pradesh,29 April,-71,-31,-34,-29,-41,15,-43.0
+Himachal Pradesh,30 April,-72,-33,-34,-31,-42,16,-44.5
+Himachal Pradesh,01 May,-73,-34,-39,-34,-40,16,-45.25
+Himachal Pradesh,02 May,-73,-34,-39,-34,-40,16,-45.25
+Himachal Pradesh,03 May,-73,-34,-39,-34,-40,16,-45.25
+Himachal Pradesh,04 May,-67,-17,-33,-24,-32,13,-35.0
+Himachal Pradesh,05 May,-64,-14,-29,-19,-32,11,-32.25
+Himachal Pradesh,06 May,-66,-18,-33,-21,-32,13,-34.25
+Himachal Pradesh,07 May,-66,-22,-32,-26,-40,14,-38.5
+Himachal Pradesh,08 May,-67,-19,-36,-24,-28,13,-34.5
+Himachal Pradesh,09 May,-67,-19,-36,-24,-28,13,-34.5
+Himachal Pradesh,10 May,-67,-19,-36,-24,-28,13,-34.5
+Himachal Pradesh,11 May,-63,-7,-31,-19,-25,12,-28.5
+Himachal Pradesh,12 May,-61,-9,-27,-16,-25,10,-27.75
+Himachal Pradesh,13 May,-64,-14,-31,-20,-26,12,-31.0
+Himachal Pradesh,14 May,-64,-14,-32,-21,-26,10,-31.25
+Himachal Pradesh,15 May,-63,-13,-34,-20,-21,10,-29.25
+Himachal Pradesh,16 May,-63,-13,-34,-20,-21,10,-29.25
+Himachal Pradesh,17 May,-63,-13,-34,-20,-21,10,-29.25
+Himachal Pradesh,18 May,-61,-3,-31,-16,-21,10,-25.25
+Himachal Pradesh,19 May,-59,-3,-27,-13,-21,8,-24.0
+Himachal Pradesh,20 May,-61,-6,-32,-14,-21,10,-25.5
+Himachal Pradesh,21 May,-61,-9,-31,-17,-22,11,-27.25
+Himachal Pradesh,22 May,-62,-9,-36,-19,-18,11,-27.0
+Himachal Pradesh,23 May,-62,-9,-36,-19,-18,11,-27.0
+Himachal Pradesh,24 May,-62,-9,-36,-19,-18,11,-27.0
+Himachal Pradesh,25 May,-62,-8,-31,-21,-32,12,-30.75
+Himachal Pradesh,26 May,-57,2,-27,-9,-18,7,-20.5
+Himachal Pradesh,27 May,-60,-5,-32,-14,-18,9,-24.25
+Himachal Pradesh,28 May,-61,-10,-32,-17,-19,9,-26.75
+Himachal Pradesh,29 May,-61,-7,-35,-17,-15,9,-25.0
+Himachal Pradesh,30 May,-61,-7,-35,-17,-15,9,-25.0
+Himachal Pradesh,31 May,-61,-7,-35,-17,-15,9,-25.0
+Himachal Pradesh,01 June,-56,10,-31,-7,-13,7,-16.5
+Himachal Pradesh,02 June,-53,11,-27,-2,-13,5,-14.25
+Himachal Pradesh,03 June,-55,5,-31,-4,-14,6,-17.0
+Himachal Pradesh,04 June,-54,5,-32,-6,-14,6,-17.25
+Himachal Pradesh,05 June,-55,-1,-34,-13,-19,8,-22.0
+Jammu and Kashmir,15 February,166,153,248,249,130,-7,174.5
+Jammu and Kashmir,16 February,153,141,212,211,130,-7,158.75
+Jammu and Kashmir,17 February,154,125,173,212,110,-7,150.25
+Jammu and Kashmir,18 February,137,112,146,176,98,-8,130.75
+Jammu and Kashmir,19 February,116,95,137,151,93,-6,113.75
+Jammu and Kashmir,20 February,122,94,144,167,94,-4,119.25
+Jammu and Kashmir,21 February,157,156,223,214,59,1,146.5
+Jammu and Kashmir,22 February,157,156,223,214,59,1,146.5
+Jammu and Kashmir,23 February,157,156,223,214,59,1,146.5
+Jammu and Kashmir,24 February,155,131,168,212,115,-7,153.25
+Jammu and Kashmir,25 February,138,114,155,178,100,-8,132.5
+Jammu and Kashmir,26 February,126,106,149,171,103,-7,126.5
+Jammu and Kashmir,27 February,126,106,152,170,101,-5,125.75
+Jammu and Kashmir,28 February,137,128,197,211,119,-5,148.75
+Jammu and Kashmir,29 February,137,128,197,211,119,-5,148.75
+Jammu and Kashmir,01 March,137,128,197,211,119,-5,148.75
+Jammu and Kashmir,02 March,80,68,94,116,61,-8,81.25
+Jammu and Kashmir,03 March,89,79,119,121,72,-9,90.25
+Jammu and Kashmir,04 March,200,192,,287,166,-21,211.25
+Jammu and Kashmir,05 March,242,223,304,366,198,1,257.25
+Jammu and Kashmir,06 March,280,282,393,448,217,5,306.75
+Jammu and Kashmir,07 March,280,282,393,448,217,5,306.75
+Jammu and Kashmir,08 March,280,282,393,448,217,5,306.75
+Jammu and Kashmir,09 March,268,245,343,415,141,5,267.25
+Jammu and Kashmir,10 March,313,314,347,443,184,0,313.5
+Jammu and Kashmir,11 March,267,248,,409,201,0,281.25
+Jammu and Kashmir,12 March,234,226,287,351,181,4,248.0
+Jammu and Kashmir,13 March,278,294,391,458,207,5,309.25
+Jammu and Kashmir,14 March,278,294,391,458,207,5,309.25
+Jammu and Kashmir,15 March,278,294,391,458,207,5,309.25
+Jammu and Kashmir,16 March,275,284,345,459,192,2,302.5
+Jammu and Kashmir,17 March,260,261,343,435,186,1,285.5
+Jammu and Kashmir,18 March,229,233,323,392,179,3,258.25
+Jammu and Kashmir,19 March,190,193,290,347,152,6,220.5
+Jammu and Kashmir,20 March,142,139,359,339,133,10,188.25
+Jammu and Kashmir,21 March,142,139,359,339,133,10,188.25
+Jammu and Kashmir,22 March,142,139,359,339,133,10,188.25
+Jammu and Kashmir,23 March,61,58,240,174,53,15,86.5
+Jammu and Kashmir,24 March,31,25,205,123,31,18,52.5
+Jammu and Kashmir,25 March,3,-7,,72,12,22,20.0
+Jammu and Kashmir,26 March,7,-1,,76,22,23,26.0
+Jammu and Kashmir,27 March,-2,-5,,80,23,27,24.0
+Jammu and Kashmir,28 March,-2,-5,,80,23,27,24.0
+Jammu and Kashmir,29 March,-2,-5,,80,23,27,24.0
+Jammu and Kashmir,30 March,11,8,,84,34,23,34.25
+Jammu and Kashmir,31 March,6,4,,72,29,21,27.75
+Jammu and Kashmir,01 April,0,-5,,62,25,23,20.5
+Jammu and Kashmir,02 April,5,2,,65,23,25,23.75
+Jammu and Kashmir,03 April,27,29,,118,49,22,55.75
+Jammu and Kashmir,04 April,27,29,,118,49,22,55.75
+Jammu and Kashmir,05 April,27,29,,118,49,22,55.75
+Jammu and Kashmir,06 April,20,18,,99,42,21,44.75
+Jammu and Kashmir,07 April,4,47,,112,40,20,50.75
+Jammu and Kashmir,08 April,0,42,,102,39,21,45.75
+Jammu and Kashmir,09 April,-2,39,,95,34,24,41.5
+Jammu and Kashmir,10 April,4,54,,127,42,25,56.75
+Jammu and Kashmir,11 April,4,54,,127,42,25,56.75
+Jammu and Kashmir,12 April,4,54,,127,42,25,56.75
+Jammu and Kashmir,13 April,-6,33,,94,30,25,37.75
+Jammu and Kashmir,14 April,-6,33,,97,28,22,38.0
+Jammu and Kashmir,15 April,-6,44,,102,44,23,46.0
+Jammu and Kashmir,16 April,-25,68,,112,41,24,49.0
+Jammu and Kashmir,17 April,-24,83,,134,52,26,61.25
+Jammu and Kashmir,18 April,-24,83,,134,52,26,61.25
+Jammu and Kashmir,19 April,-24,83,,134,52,26,61.25
+Jammu and Kashmir,20 April,-22,91,179,142,59,22,67.5
+Jammu and Kashmir,21 April,-19,88,179,137,56,19,65.5
+Jammu and Kashmir,22 April,-25,73,173,120,53,20,55.25
+Jammu and Kashmir,23 April,-24,77,166,122,52,22,56.75
+Jammu and Kashmir,24 April,-15,115,227,165,67,22,83.0
+Jammu and Kashmir,25 April,-15,115,227,165,67,22,83.0
+Jammu and Kashmir,26 April,-15,115,227,165,67,22,83.0
+Jammu and Kashmir,27 April,-21,94,166,132,61,23,66.5
+Jammu and Kashmir,28 April,-20,93,168,138,57,18,67.0
+Jammu and Kashmir,29 April,-23,80,155,125,52,20,58.5
+Jammu and Kashmir,30 April,-20,91,182,139,63,21,68.25
+Jammu and Kashmir,01 May,-11,120,230,180,72,23,90.25
+Jammu and Kashmir,02 May,-11,120,230,180,72,23,90.25
+Jammu and Kashmir,03 May,-11,120,230,180,72,23,90.25
+Jammu and Kashmir,04 May,-9,123,191,176,78,21,92.0
+Jammu and Kashmir,05 May,-10,109,185,163,70,19,83.0
+Jammu and Kashmir,06 May,-41,50,68,66,14,-3,22.25
+Jammu and Kashmir,07 May,-47,25,27,25,-17,27,-3.5
+Jammu and Kashmir,08 May,-34,65,61,67,13,25,27.75
+Jammu and Kashmir,09 May,-34,65,61,67,13,25,27.75
+Jammu and Kashmir,10 May,-34,65,61,67,13,25,27.75
+Jammu and Kashmir,11 May,-24,85,106,109,41,4,52.75
+Jammu and Kashmir,12 May,9,146,244,213,89,10,114.25
+Jammu and Kashmir,13 May,2,128,202,176,81,15,96.75
+Jammu and Kashmir,14 May,1,111,194,170,78,19,90.0
+Jammu and Kashmir,15 May,26,183,286,254,107,19,142.5
+Jammu and Kashmir,16 May,26,183,286,254,107,19,142.5
+Jammu and Kashmir,17 May,26,183,286,254,107,19,142.5
+Jammu and Kashmir,18 May,23,170,223,229,101,17,130.75
+Jammu and Kashmir,19 May,7,130,194,175,74,9,96.5
+Jammu and Kashmir,20 May,14,148,193,174,82,13,104.5
+Jammu and Kashmir,21 May,14,142,182,160,58,17,93.5
+Jammu and Kashmir,22 May,47,230,279,280,99,9,164.0
+Jammu and Kashmir,23 May,47,230,279,280,99,9,164.0
+Jammu and Kashmir,24 May,47,230,279,280,99,9,164.0
+Jammu and Kashmir,25 May,33,194,250,244,69,16,135.0
+Jammu and Kashmir,26 May,48,218,251,273,110,11,162.25
+Jammu and Kashmir,27 May,42,201,240,252,113,12,152.0
+Jammu and Kashmir,28 May,48,216,234,250,113,15,156.75
+Jammu and Kashmir,29 May,65,261,309,326,138,15,197.5
+Jammu and Kashmir,30 May,65,261,309,326,138,15,197.5
+Jammu and Kashmir,31 May,65,261,309,326,138,15,197.5
+Jammu and Kashmir,01 June,63,247,259,304,131,13,186.25
+Jammu and Kashmir,02 June,62,239,254,291,127,12,179.75
+Jammu and Kashmir,03 June,55,220,241,267,123,12,166.25
+Jammu and Kashmir,04 June,57,215,237,267,120,14,164.75
+Jammu and Kashmir,05 June,79,270,322,331,146,14,206.5
+Jharkhand,15 February,-1,-1,2,4,6,0,2.0
+Jharkhand,16 February,0,2,-7,1,3,1,1.5
+Jharkhand,17 February,-1,1,0,3,3,0,1.5
+Jharkhand,18 February,-1,-2,0,0,3,1,0.0
+Jharkhand,19 February,1,1,-2,3,7,0,3.0
+Jharkhand,20 February,1,5,0,7,9,-1,5.5
+Jharkhand,21 February,-3,-1,0,0,-15,4,-4.75
+Jharkhand,22 February,-3,-1,0,0,-15,4,-4.75
+Jharkhand,23 February,-3,-1,0,0,-15,4,-4.75
+Jharkhand,24 February,-3,-1,-3,2,3,1,0.25
+Jharkhand,25 February,-8,-11,-8,-3,1,2,-5.25
+Jharkhand,26 February,2,3,-2,5,4,-1,3.5
+Jharkhand,27 February,1,1,-2,7,8,-1,4.25
+Jharkhand,28 February,1,2,2,7,5,0,3.75
+Jharkhand,29 February,1,2,2,7,5,0,3.75
+Jharkhand,01 March,1,2,2,7,5,0,3.75
+Jharkhand,02 March,1,2,3,5,2,-1,2.5
+Jharkhand,03 March,-1,-3,2,4,0,0,0.0
+Jharkhand,04 March,1,2,2,8,5,-2,4.0
+Jharkhand,05 March,2,7,7,12,7,-2,7.0
+Jharkhand,06 March,4,6,4,13,3,-1,6.5
+Jharkhand,07 March,4,6,4,13,3,-1,6.5
+Jharkhand,08 March,4,6,4,13,3,-1,6.5
+Jharkhand,09 March,5,21,2,6,-22,2,2.5
+Jharkhand,10 March,-47,-53,-17,-36,-57,13,-48.25
+Jharkhand,11 March,-16,-17,-12,-3,-24,2,-15.0
+Jharkhand,12 March,-1,2,-6,13,-4,-3,2.5
+Jharkhand,13 March,-1,2,-1,8,-3,-2,1.5
+Jharkhand,14 March,-1,2,-1,8,-3,-2,1.5
+Jharkhand,15 March,-1,2,-1,8,-3,-2,1.5
+Jharkhand,16 March,1,8,2,9,2,-1,5.0
+Jharkhand,17 March,-1,3,0,5,0,0,1.75
+Jharkhand,18 March,0,7,-2,6,0,-1,3.25
+Jharkhand,19 March,-7,3,-7,2,1,1,-0.25
+Jharkhand,20 March,-6,7,-3,-1,-3,2,-0.75
+Jharkhand,21 March,-6,7,-3,-1,-3,2,-0.75
+Jharkhand,22 March,-6,7,-3,-1,-3,2,-0.75
+Jharkhand,23 March,-42,-21,-22,-42,-34,12,-34.75
+Jharkhand,24 March,-55,-46,-30,-58,-46,17,-51.25
+Jharkhand,25 March,-65,-60,-39,-66,-51,20,-60.5
+Jharkhand,26 March,-66,-62,-39,-66,-50,21,-61.0
+Jharkhand,27 March,-66,-63,-38,-67,-53,22,-62.25
+Jharkhand,28 March,-66,-63,-38,-67,-53,22,-62.25
+Jharkhand,29 March,-66,-63,-38,-67,-53,22,-62.25
+Jharkhand,30 March,-65,-62,-37,-68,-49,22,-61.0
+Jharkhand,31 March,-64,-62,-37,-67,-49,21,-60.5
+Jharkhand,01 April,-66,-63,-39,-67,-50,21,-61.5
+Jharkhand,02 April,-67,-65,-40,-68,-51,22,-62.75
+Jharkhand,03 April,-65,-63,-38,-67,-48,22,-60.75
+Jharkhand,04 April,-65,-63,-38,-67,-48,22,-60.75
+Jharkhand,05 April,-65,-63,-38,-67,-48,22,-60.75
+Jharkhand,06 April,-66,-62,-37,-68,-51,23,-61.75
+Jharkhand,07 April,-67,-51,-29,-64,-49,21,-57.75
+Jharkhand,08 April,-68,-51,-32,-64,-48,21,-57.75
+Jharkhand,09 April,-68,-49,-31,-64,-47,21,-57.0
+Jharkhand,10 April,-69,-51,-31,-65,-51,24,-59.0
+Jharkhand,11 April,-69,-51,-31,-65,-51,24,-59.0
+Jharkhand,12 April,-69,-51,-31,-65,-51,24,-59.0
+Jharkhand,13 April,-69,-51,-31,-65,-48,24,-58.25
+Jharkhand,14 April,-68,-52,-29,-65,-51,23,-59.0
+Jharkhand,15 April,-68,-49,-30,-63,-45,21,-56.25
+Jharkhand,16 April,-80,-38,-45,-61,-45,21,-56.0
+Jharkhand,17 April,-81,-38,-45,-61,-46,23,-56.5
+Jharkhand,18 April,-81,-38,-45,-61,-46,23,-56.5
+Jharkhand,19 April,-81,-38,-45,-61,-46,23,-56.5
+Jharkhand,20 April,-82,-43,-48,-63,-45,23,-58.25
+Jharkhand,21 April,-82,-45,-48,-63,-46,22,-59.0
+Jharkhand,22 April,-81,-41,-49,-61,-43,21,-56.5
+Jharkhand,23 April,-81,-42,-50,-62,-43,22,-57.0
+Jharkhand,24 April,-81,-40,-49,-62,-43,23,-56.5
+Jharkhand,25 April,-81,-40,-49,-62,-43,23,-56.5
+Jharkhand,26 April,-81,-40,-49,-62,-43,23,-56.5
+Jharkhand,27 April,-82,-45,-50,-64,-45,24,-59.0
+Jharkhand,28 April,-82,-44,-48,-63,-45,22,-58.5
+Jharkhand,29 April,-81,-42,-48,-61,-43,22,-56.75
+Jharkhand,30 April,-81,-41,-48,-60,-41,21,-55.75
+Jharkhand,01 May,-82,-42,-49,-61,-47,23,-58.0
+Jharkhand,02 May,-82,-42,-49,-61,-47,23,-58.0
+Jharkhand,03 May,-82,-42,-49,-61,-47,23,-58.0
+Jharkhand,04 May,-80,-37,-47,-60,-41,21,-54.5
+Jharkhand,05 May,-80,-38,-46,-60,-41,21,-54.75
+Jharkhand,06 May,-79,-35,-47,-57,-38,19,-52.25
+Jharkhand,07 May,-78,-34,-46,-57,-41,20,-52.5
+Jharkhand,08 May,-78,-32,-45,-56,-37,20,-50.75
+Jharkhand,09 May,-78,-32,-45,-56,-37,20,-50.75
+Jharkhand,10 May,-78,-32,-45,-56,-37,20,-50.75
+Jharkhand,11 May,-77,-31,-42,-57,-37,19,-50.5
+Jharkhand,12 May,-78,-35,-44,-57,-38,20,-52.0
+Jharkhand,13 May,-77,-31,-43,-54,-35,18,-49.25
+Jharkhand,14 May,-76,-29,-43,-53,-33,17,-47.75
+Jharkhand,15 May,-75,-27,-41,-52,-33,18,-46.75
+Jharkhand,16 May,-75,-27,-41,-52,-33,18,-46.75
+Jharkhand,17 May,-75,-27,-41,-52,-33,18,-46.75
+Jharkhand,18 May,-75,-26,-40,-54,-33,18,-47.0
+Jharkhand,19 May,-74,-24,-40,-51,-32,17,-45.25
+Jharkhand,20 May,-76,-34,-46,-54,-34,19,-49.5
+Jharkhand,21 May,-72,-18,-41,-49,-29,17,-42.0
+Jharkhand,22 May,-72,-20,-40,-49,-29,17,-42.5
+Jharkhand,23 May,-72,-20,-40,-49,-29,17,-42.5
+Jharkhand,24 May,-72,-20,-40,-49,-29,17,-42.5
+Jharkhand,25 May,-73,-25,-39,-53,-40,19,-47.75
+Jharkhand,26 May,-71,-20,-39,-50,-30,15,-42.75
+Jharkhand,27 May,-70,-18,-41,-48,-27,14,-40.75
+Jharkhand,28 May,-69,-15,-39,-46,-24,14,-38.5
+Jharkhand,29 May,-69,-13,-38,-46,-25,15,-38.25
+Jharkhand,30 May,-69,-13,-38,-46,-25,15,-38.25
+Jharkhand,31 May,-69,-13,-38,-46,-25,15,-38.25
+Jharkhand,01 June,-68,-14,-39,-45,-25,14,-38.0
+Jharkhand,02 June,-65,-5,-37,-42,-24,12,-34.0
+Jharkhand,03 June,-63,-1,-37,-39,-21,11,-31.0
+Jharkhand,04 June,-63,-2,-38,-39,-20,11,-31.0
+Jharkhand,05 June,-60,2,-32,-39,-20,11,-29.25
+Karnataka,15 February,2,1,2,3,5,0,2.75
+Karnataka,16 February,1,2,2,3,0,1,1.5
+Karnataka,17 February,0,3,2,1,5,1,2.25
+Karnataka,18 February,-1,2,1,1,4,1,1.5
+Karnataka,19 February,1,4,2,3,5,0,3.25
+Karnataka,20 February,2,6,5,6,4,-1,4.5
+Karnataka,21 February,-2,2,4,-5,-30,7,-8.75
+Karnataka,22 February,-2,2,4,-5,-30,7,-8.75
+Karnataka,23 February,-2,2,4,-5,-30,7,-8.75
+Karnataka,24 February,0,1,2,2,6,0,2.25
+Karnataka,25 February,0,0,1,2,4,0,1.5
+Karnataka,26 February,1,1,2,4,4,0,2.5
+Karnataka,27 February,0,-1,3,0,5,1,1.0
+Karnataka,28 February,3,1,3,2,6,0,3.0
+Karnataka,29 February,3,1,3,2,6,0,3.0
+Karnataka,01 March,3,1,3,2,6,0,3.0
+Karnataka,02 March,1,4,2,0,7,1,3.0
+Karnataka,03 March,0,5,2,0,5,1,2.5
+Karnataka,04 March,2,9,2,3,4,1,4.5
+Karnataka,05 March,0,5,2,0,5,1,2.5
+Karnataka,06 March,1,5,2,1,5,1,3.0
+Karnataka,07 March,1,5,2,1,5,1,3.0
+Karnataka,08 March,1,5,2,1,5,1,3.0
+Karnataka,09 March,-1,5,3,-2,0,2,0.5
+Karnataka,10 March,-5,2,-1,-7,-11,5,-5.25
+Karnataka,11 March,-3,3,-1,-1,0,1,-0.25
+Karnataka,12 March,-4,0,-1,-5,1,2,-2.0
+Karnataka,13 March,-5,6,-3,-5,-1,3,-1.25
+Karnataka,14 March,-5,6,-3,-5,-1,3,-1.25
+Karnataka,15 March,-5,6,-3,-5,-1,3,-1.25
+Karnataka,16 March,-13,-1,-8,-12,-14,7,-10.0
+Karnataka,17 March,-17,-3,-10,-15,-20,8,-13.75
+Karnataka,18 March,-18,-1,-12,-15,-22,8,-14.0
+Karnataka,19 March,-20,-1,-14,-19,-24,10,-16.0
+Karnataka,20 March,-26,-4,-21,-22,-26,11,-19.5
+Karnataka,21 March,-26,-4,-21,-22,-26,11,-19.5
+Karnataka,22 March,-26,-4,-21,-22,-26,11,-19.5
+Karnataka,23 March,-45,3,-28,-37,-47,17,-31.5
+Karnataka,24 March,-73,-43,-49,-61,-73,28,-62.5
+Karnataka,25 March,-81,-65,-56,-71,-81,35,-74.5
+Karnataka,26 March,-80,-61,-55,-71,-77,34,-72.25
+Karnataka,27 March,-81,-61,-56,-71,-77,35,-72.5
+Karnataka,28 March,-81,-61,-56,-71,-77,35,-72.5
+Karnataka,29 March,-81,-61,-56,-71,-77,35,-72.5
+Karnataka,30 March,-80,-62,-56,-72,-75,35,-72.25
+Karnataka,31 March,-79,-58,-55,-70,-75,33,-70.5
+Karnataka,01 April,-80,-60,-55,-70,-76,33,-71.5
+Karnataka,02 April,-80,-61,-55,-71,-75,34,-71.75
+Karnataka,03 April,-80,-59,-54,-71,-74,34,-71.0
+Karnataka,04 April,-80,-59,-54,-71,-74,34,-71.0
+Karnataka,05 April,-80,-59,-54,-71,-74,34,-71.0
+Karnataka,06 April,-80,-61,-53,-71,-75,34,-71.75
+Karnataka,07 April,-81,-49,-50,-62,-74,31,-66.5
+Karnataka,08 April,-81,-50,-51,-62,-74,32,-66.75
+Karnataka,09 April,-82,-53,-52,-64,-74,34,-68.25
+Karnataka,10 April,-81,-42,-50,-63,-76,34,-65.5
+Karnataka,11 April,-81,-42,-50,-63,-76,34,-65.5
+Karnataka,12 April,-81,-42,-50,-63,-76,34,-65.5
+Karnataka,13 April,-81,-51,-52,-64,-73,35,-67.25
+Karnataka,14 April,-82,-53,-51,-64,-75,33,-68.5
+Karnataka,15 April,-81,-50,-52,-61,-72,33,-66.0
+Karnataka,16 April,-86,-46,-70,-61,-72,34,-66.25
+Karnataka,17 April,-86,-45,-70,-61,-71,34,-65.75
+Karnataka,18 April,-86,-45,-70,-61,-71,34,-65.75
+Karnataka,19 April,-86,-45,-70,-61,-71,34,-65.75
+Karnataka,20 April,-86,-49,-71,-63,-70,34,-67.0
+Karnataka,21 April,-86,-47,-71,-61,-71,32,-66.25
+Karnataka,22 April,-86,-48,-72,-61,-71,33,-66.5
+Karnataka,23 April,-86,-48,-72,-62,-70,34,-66.5
+Karnataka,24 April,-85,-44,-72,-60,-69,33,-64.5
+Karnataka,25 April,-85,-44,-72,-60,-69,33,-64.5
+Karnataka,26 April,-85,-44,-72,-60,-69,33,-64.5
+Karnataka,27 April,-85,-45,-71,-61,-68,33,-64.75
+Karnataka,28 April,-84,-44,-71,-59,-68,31,-63.75
+Karnataka,29 April,-84,-43,-71,-58,-68,32,-63.25
+Karnataka,30 April,-83,-41,-70,-58,-67,32,-62.25
+Karnataka,01 May,-83,-37,-71,-59,-72,33,-62.75
+Karnataka,02 May,-83,-37,-71,-59,-72,33,-62.75
+Karnataka,03 May,-83,-37,-71,-59,-72,33,-62.75
+Karnataka,04 May,-75,-25,-69,-47,-57,26,-51.0
+Karnataka,05 May,-75,-25,-70,-46,-57,25,-50.75
+Karnataka,06 May,-74,-22,-70,-44,-55,25,-48.75
+Karnataka,07 May,-74,-21,-69,-45,-55,26,-48.75
+Karnataka,08 May,-74,-18,-69,-45,-53,25,-47.5
+Karnataka,09 May,-74,-18,-69,-45,-53,25,-47.5
+Karnataka,10 May,-74,-18,-69,-45,-53,25,-47.5
+Karnataka,11 May,-72,-17,-69,-44,-51,25,-46.0
+Karnataka,12 May,-72,-17,-69,-43,-52,24,-46.0
+Karnataka,13 May,-72,-17,-69,-42,-51,23,-45.5
+Karnataka,14 May,-70,-17,-68,-43,-51,23,-45.25
+Karnataka,15 May,-70,-13,-68,-42,-49,23,-43.5
+Karnataka,16 May,-70,-13,-68,-42,-49,23,-43.5
+Karnataka,17 May,-70,-13,-68,-42,-49,23,-43.5
+Karnataka,18 May,-68,-14,-68,-42,-47,23,-42.75
+Karnataka,19 May,-67,-12,-69,-39,-48,22,-41.5
+Karnataka,20 May,-65,-10,-68,-36,-47,21,-39.5
+Karnataka,21 May,-65,-10,-68,-38,-46,22,-39.75
+Karnataka,22 May,-66,-10,-68,-39,-45,22,-40.0
+Karnataka,23 May,-66,-10,-68,-39,-45,22,-40.0
+Karnataka,24 May,-66,-10,-68,-39,-45,22,-40.0
+Karnataka,25 May,-64,-8,-67,-39,-57,22,-42.0
+Karnataka,26 May,-64,-11,-68,-36,-46,19,-39.25
+Karnataka,27 May,-63,-10,-67,-34,-45,19,-38.0
+Karnataka,28 May,-62,-8,-67,-35,-44,20,-37.25
+Karnataka,29 May,-64,-11,-68,-36,-42,20,-38.25
+Karnataka,30 May,-64,-11,-68,-36,-42,20,-38.25
+Karnataka,31 May,-64,-11,-68,-36,-42,20,-38.25
+Karnataka,01 June,-58,0,-67,-31,-40,18,-32.25
+Karnataka,02 June,-58,2,-67,-30,-41,17,-31.75
+Karnataka,03 June,-57,2,-67,-28,-41,17,-31.0
+Karnataka,04 June,-57,2,-67,-30,-40,18,-31.25
+Karnataka,05 June,-57,2,-65,-31,-38,18,-31.0
+Kerala,15 February,-3,-2,-3,-3,4,1,-1.0
+Kerala,16 February,-3,-1,-3,-6,3,2,-1.75
+Kerala,17 February,-4,-4,-2,-3,6,1,-1.25
+Kerala,18 February,-2,-3,-2,-2,3,1,-1.0
+Kerala,19 February,-2,0,-1,-1,3,1,0.0
+Kerala,20 February,1,-1,1,6,2,-1,2.0
+Kerala,21 February,-3,-8,3,-8,-30,5,-12.25
+Kerala,22 February,-3,-8,3,-8,-30,5,-12.25
+Kerala,23 February,-3,-8,3,-8,-30,5,-12.25
+Kerala,24 February,-5,-3,-2,-1,6,1,-0.75
+Kerala,25 February,-3,-4,-2,-2,3,1,-1.5
+Kerala,26 February,-4,-1,0,-1,2,1,-1.0
+Kerala,27 February,-6,-3,0,-3,3,2,-2.25
+Kerala,28 February,-6,-5,-10,-6,4,1,-3.25
+Kerala,29 February,-6,-5,-10,-6,4,1,-3.25
+Kerala,01 March,-6,-5,-10,-6,4,1,-3.25
+Kerala,02 March,-4,-2,-5,-5,6,2,-1.25
+Kerala,03 March,-3,-2,-4,-4,3,1,-1.5
+Kerala,04 March,-2,2,-3,-2,3,1,0.25
+Kerala,05 March,-4,0,-2,-2,3,1,-0.75
+Kerala,06 March,-5,-1,-10,-4,5,1,-1.25
+Kerala,07 March,-5,-1,-10,-4,5,1,-1.25
+Kerala,08 March,-5,-1,-10,-4,5,1,-1.25
+Kerala,09 March,-10,-4,-5,-8,-6,5,-7.0
+Kerala,10 March,-8,2,-7,-5,-2,3,-3.25
+Kerala,11 March,-14,1,-9,-11,-10,5,-8.5
+Kerala,12 March,-17,-4,-9,-15,-10,7,-11.5
+Kerala,13 March,-20,-7,-19,-19,-8,7,-13.5
+Kerala,14 March,-20,-7,-19,-19,-8,7,-13.5
+Kerala,15 March,-20,-7,-19,-19,-8,7,-13.5
+Kerala,16 March,-21,-8,-16,-20,-9,8,-14.5
+Kerala,17 March,-23,-12,-16,-20,-13,7,-17.0
+Kerala,18 March,-23,-7,-14,-20,-13,8,-15.75
+Kerala,19 March,-26,-8,-16,-22,-14,9,-17.5
+Kerala,20 March,-29,0,-25,-26,-13,10,-17.0
+Kerala,21 March,-29,0,-25,-26,-13,10,-17.0
+Kerala,22 March,-29,0,-25,-26,-13,10,-17.0
+Kerala,23 March,-46,-9,-27,-42,-38,19,-33.75
+Kerala,24 March,-70,-52,-35,-59,-59,26,-60.0
+Kerala,25 March,-75,-55,-41,-64,-66,31,-65.0
+Kerala,26 March,-77,-63,-43,-67,-66,33,-68.25
+Kerala,27 March,-78,-65,-49,-69,-65,35,-69.25
+Kerala,28 March,-78,-65,-49,-69,-65,35,-69.25
+Kerala,29 March,-78,-65,-49,-69,-65,35,-69.25
+Kerala,30 March,-77,-62,-45,-68,-63,35,-67.5
+Kerala,31 March,-76,-63,-43,-66,-63,32,-67.0
+Kerala,01 April,-76,-62,-41,-66,-64,32,-67.0
+Kerala,02 April,-76,-61,-42,-66,-63,33,-66.5
+Kerala,03 April,-76,-61,-47,-67,-62,34,-66.5
+Kerala,04 April,-76,-61,-47,-67,-62,34,-66.5
+Kerala,05 April,-76,-61,-47,-67,-62,34,-66.5
+Kerala,06 April,-76,-57,-36,-65,-61,34,-64.75
+Kerala,07 April,-80,-48,-20,-54,-63,31,-61.25
+Kerala,08 April,-80,-45,-21,-55,-63,32,-60.75
+Kerala,09 April,-80,-46,-23,-55,-64,34,-61.25
+Kerala,10 April,-83,-58,-31,-61,-67,38,-67.25
+Kerala,11 April,-83,-58,-31,-61,-67,38,-67.25
+Kerala,12 April,-83,-58,-31,-61,-67,38,-67.25
+Kerala,13 April,-77,-34,-21,-53,-59,34,-55.75
+Kerala,14 April,-81,-58,-21,-57,-68,34,-66.0
+Kerala,15 April,-79,-41,-13,-52,-60,31,-58.0
+Kerala,16 April,-86,-32,-7,-49,-59,32,-56.5
+Kerala,17 April,-87,-34,-16,-52,-58,33,-57.75
+Kerala,18 April,-87,-34,-16,-52,-58,33,-57.75
+Kerala,19 April,-87,-34,-16,-52,-58,33,-57.75
+Kerala,20 April,-85,-33,-9,-50,-53,31,-55.25
+Kerala,21 April,-85,-33,-8,-48,-55,29,-55.25
+Kerala,22 April,-85,-31,-7,-48,-55,29,-54.75
+Kerala,23 April,-86,-31,-9,-49,-55,30,-55.25
+Kerala,24 April,-86,-31,-19,-52,-54,32,-55.75
+Kerala,25 April,-86,-31,-19,-52,-54,32,-55.75
+Kerala,26 April,-86,-31,-19,-52,-54,32,-55.75
+Kerala,27 April,-84,-27,-11,-49,-49,30,-52.25
+Kerala,28 April,-84,-31,-10,-48,-52,27,-53.75
+Kerala,29 April,-84,-25,-6,-45,-51,28,-51.25
+Kerala,30 April,-83,-27,-8,-46,-50,29,-51.5
+Kerala,01 May,-85,-34,-19,-53,-58,33,-57.5
+Kerala,02 May,-85,-34,-19,-53,-58,33,-57.5
+Kerala,03 May,-85,-34,-19,-53,-58,33,-57.5
+Kerala,04 May,-79,-15,-9,-44,-41,26,-44.75
+Kerala,05 May,-79,-16,-6,-41,-43,24,-44.75
+Kerala,06 May,-77,-8,-2,-37,-41,23,-40.75
+Kerala,07 May,-76,-9,-2,-36,-41,23,-40.5
+Kerala,08 May,-76,-8,-10,-38,-38,23,-40.0
+Kerala,09 May,-76,-8,-10,-38,-38,23,-40.0
+Kerala,10 May,-76,-8,-10,-38,-38,23,-40.0
+Kerala,11 May,-72,6,-1,-33,-34,21,-33.25
+Kerala,12 May,-73,-2,1,-32,-37,21,-36.0
+Kerala,13 May,-73,0,3,-31,-36,20,-35.0
+Kerala,14 May,-73,-4,-1,-33,-35,20,-36.25
+Kerala,15 May,-73,-1,-8,-35,-33,21,-35.5
+Kerala,16 May,-73,-1,-8,-35,-33,21,-35.5
+Kerala,17 May,-73,-1,-8,-35,-33,21,-35.5
+Kerala,18 May,-70,5,-2,-32,-30,20,-31.75
+Kerala,19 May,-68,5,0,-29,-32,19,-31.0
+Kerala,20 May,-65,11,4,-25,-31,18,-27.5
+Kerala,21 May,-66,8,1,-26,-30,19,-28.5
+Kerala,22 May,-66,14,-8,-28,-28,19,-27.0
+Kerala,23 May,-66,14,-8,-28,-28,19,-27.0
+Kerala,24 May,-66,14,-8,-28,-28,19,-27.0
+Kerala,25 May,-64,11,5,-26,-30,18,-27.25
+Kerala,26 May,-64,8,3,-24,-28,16,-27.0
+Kerala,27 May,-63,12,7,-22,-27,16,-25.0
+Kerala,28 May,-63,11,7,-21,-26,16,-24.75
+Kerala,29 May,-64,12,-3,-25,-24,17,-25.25
+Kerala,30 May,-64,12,-3,-25,-24,17,-25.25
+Kerala,31 May,-64,12,-3,-25,-24,17,-25.25
+Kerala,01 June,-60,22,4,-20,-23,16,-20.25
+Kerala,02 June,-60,16,4,-21,-25,16,-22.5
+Kerala,03 June,-59,22,8,-17,-25,15,-19.75
+Kerala,04 June,-61,17,5,-18,-25,16,-21.75
+Kerala,05 June,-60,13,-5,-24,-23,17,-23.5
+Lakshadweep,15 February,,,1,,9,,
+Lakshadweep,16 February,,,10,,-4,,
+Lakshadweep,17 February,,,5,,7,,
+Lakshadweep,18 February,,,3,,4,,
+Lakshadweep,19 February,,,-4,,1,,
+Lakshadweep,20 February,,,4,,1,,
+Lakshadweep,21 February,,,5,,-6,,
+Lakshadweep,22 February,,,5,,-6,,
+Lakshadweep,23 February,,,5,,-6,,
+Lakshadweep,24 February,,,6,,4,,
+Lakshadweep,25 February,,,6,,6,,
+Lakshadweep,26 February,,,2,,3,,
+Lakshadweep,27 February,,,13,,10,,
+Lakshadweep,28 February,,,19,,8,,
+Lakshadweep,29 February,,,19,,8,,
+Lakshadweep,01 March,,,19,,8,,
+Lakshadweep,02 March,,,-5,,1,,
+Lakshadweep,03 March,,,10,,1,,
+Lakshadweep,04 March,,,7,,-3,,
+Lakshadweep,05 March,,,13,,10,,
+Lakshadweep,06 March,,,1,,11,,
+Lakshadweep,07 March,,,1,,11,,
+Lakshadweep,08 March,,,1,,11,,
+Lakshadweep,09 March,,,7,,8,,
+Lakshadweep,10 March,,,8,,-17,,
+Lakshadweep,11 March,,,4,,1,,
+Lakshadweep,12 March,,,8,,0,,
+Lakshadweep,13 March,,,11,,5,,
+Lakshadweep,14 March,,,11,,5,,
+Lakshadweep,15 March,,,11,,5,,
+Lakshadweep,16 March,,,10,,7,,
+Lakshadweep,17 March,,,13,,1,,
+Lakshadweep,18 March,,,11,,0,,
+Lakshadweep,19 March,,,16,,-6,,
+Lakshadweep,20 March,,,21,,6,,
+Lakshadweep,21 March,,,21,,6,,
+Lakshadweep,22 March,,,21,,6,,
+Lakshadweep,23 March,,,15,,-32,,
+Lakshadweep,24 March,,,12,,-11,,
+Lakshadweep,25 March,,,-6,,-28,,
+Lakshadweep,26 March,,,-16,,-31,,
+Lakshadweep,27 March,,,-19,,-32,,
+Lakshadweep,28 March,,,-19,,-32,,
+Lakshadweep,29 March,,,-19,,-32,,
+Lakshadweep,30 March,,,-23,,-32,,
+Lakshadweep,31 March,,,-23,,-31,,
+Lakshadweep,01 April,,,-24,,-39,,
+Lakshadweep,02 April,,,-12,,-31,,
+Lakshadweep,03 April,,,-23,,-23,,
+Lakshadweep,04 April,,,-23,,-23,,
+Lakshadweep,05 April,,,-23,,-23,,
+Lakshadweep,06 April,,,-20,,-28,,
+Lakshadweep,07 April,,,-4,,-28,,
+Lakshadweep,08 April,,,-7,,-29,,
+Lakshadweep,09 April,,,-8,,-30,,
+Lakshadweep,10 April,,,-1,,-29,,
+Lakshadweep,11 April,,,-1,,-29,,
+Lakshadweep,12 April,,,-1,,-29,,
+Lakshadweep,13 April,,,-3,,-21,,
+Lakshadweep,14 April,,,-2,,-39,,
+Lakshadweep,15 April,,,6,,-18,,
+Lakshadweep,16 April,,,20,,-19,,
+Lakshadweep,17 April,,,15,,-16,,
+Lakshadweep,18 April,,,15,,-16,,
+Lakshadweep,19 April,,,15,,-16,,
+Lakshadweep,20 April,,,18,,-13,,
+Lakshadweep,21 April,,,24,,-7,,
+Lakshadweep,22 April,,,20,,-11,,
+Lakshadweep,23 April,,,33,,-7,,
+Lakshadweep,24 April,,,24,,-3,,
+Lakshadweep,25 April,,,24,,-3,,
+Lakshadweep,26 April,,,24,,-3,,
+Lakshadweep,27 April,,,20,,-14,,
+Lakshadweep,28 April,,,21,,-12,,
+Lakshadweep,29 April,,,21,,-16,,
+Lakshadweep,30 April,,,14,,-13,,
+Lakshadweep,01 May,,,17,,-3,,
+Lakshadweep,02 May,,,17,,-3,,
+Lakshadweep,03 May,,,17,,-3,,
+Lakshadweep,04 May,,,25,,-12,,
+Lakshadweep,05 May,,,21,,-13,,
+Lakshadweep,06 May,,,27,,-11,,
+Lakshadweep,07 May,,,33,,-29,,
+Lakshadweep,08 May,,,34,,-4,,
+Lakshadweep,09 May,,,34,,-4,,
+Lakshadweep,10 May,,,34,,-4,,
+Lakshadweep,11 May,,,33,,-6,,
+Lakshadweep,12 May,,,30,,-11,,
+Lakshadweep,13 May,,,29,,-15,,
+Lakshadweep,14 May,,,36,,-8,,
+Lakshadweep,15 May,,,35,,3,,
+Lakshadweep,16 May,,,35,,3,,
+Lakshadweep,17 May,,,35,,3,,
+Lakshadweep,18 May,,,32,,-3,,
+Lakshadweep,19 May,,,38,,-6,,
+Lakshadweep,20 May,,,36,,-11,,
+Lakshadweep,21 May,,,44,,-26,,
+Lakshadweep,22 May,,,44,,1,,
+Lakshadweep,23 May,,,44,,1,,
+Lakshadweep,24 May,,,44,,1,,
+Lakshadweep,25 May,,,54,,-33,,
+Lakshadweep,26 May,,,41,,-7,,
+Lakshadweep,27 May,,,42,,-9,,
+Lakshadweep,28 May,,,44,,-1,,
+Lakshadweep,29 May,,,35,,10,,
+Lakshadweep,30 May,,,35,,10,,
+Lakshadweep,31 May,,,35,,10,,
+Lakshadweep,01 June,,,23,,-5,,
+Lakshadweep,02 June,,,27,,-1,,
+Lakshadweep,03 June,,,33,,-4,,
+Lakshadweep,04 June,,,36,,-1,,
+Lakshadweep,05 June,,,41,,5,,
+Madhya Pradesh,15 February,2,3,3,4,0,0,2.25
+Madhya Pradesh,16 February,4,0,4,6,-1,0,2.25
+Madhya Pradesh,17 February,0,1,1,4,3,-1,2.0
+Madhya Pradesh,18 February,2,2,3,4,3,0,2.75
+Madhya Pradesh,19 February,1,4,1,6,5,0,4.0
+Madhya Pradesh,20 February,3,4,6,9,3,-1,4.75
+Madhya Pradesh,21 February,-2,-3,8,1,-23,5,-6.75
+Madhya Pradesh,22 February,-2,-3,8,1,-23,5,-6.75
+Madhya Pradesh,23 February,-2,-3,8,1,-23,5,-6.75
+Madhya Pradesh,24 February,0,0,2,3,3,0,1.5
+Madhya Pradesh,25 February,2,1,6,5,0,-1,2.0
+Madhya Pradesh,26 February,3,0,7,6,1,-2,2.5
+Madhya Pradesh,27 February,0,-1,5,4,2,-1,1.25
+Madhya Pradesh,28 February,1,-1,3,2,5,0,1.75
+Madhya Pradesh,29 February,1,-1,3,2,5,0,1.75
+Madhya Pradesh,01 March,1,-1,3,2,5,0,1.75
+Madhya Pradesh,02 March,0,1,2,2,4,0,1.75
+Madhya Pradesh,03 March,0,2,2,2,3,0,1.75
+Madhya Pradesh,04 March,-1,4,-1,3,6,0,3.0
+Madhya Pradesh,05 March,0,3,3,3,5,1,2.75
+Madhya Pradesh,06 March,3,4,2,5,6,0,4.5
+Madhya Pradesh,07 March,3,4,2,5,6,0,4.5
+Madhya Pradesh,08 March,3,4,2,5,6,0,4.5
+Madhya Pradesh,09 March,1,9,4,2,-8,1,1.0
+Madhya Pradesh,10 March,-37,-44,-14,-33,-62,14,-44.0
+Madhya Pradesh,11 March,-11,-10,-5,-6,-20,2,-11.75
+Madhya Pradesh,12 March,-4,-2,1,2,-6,0,-2.5
+Madhya Pradesh,13 March,-1,1,1,3,-2,0,0.25
+Madhya Pradesh,14 March,-1,1,1,3,-2,0,0.25
+Madhya Pradesh,15 March,-1,1,1,3,-2,0,0.25
+Madhya Pradesh,16 March,-4,0,-2,-1,-2,2,-1.75
+Madhya Pradesh,17 March,-7,0,-3,-5,-4,2,-4.0
+Madhya Pradesh,18 March,-8,0,-4,-5,-3,2,-4.0
+Madhya Pradesh,19 March,-11,0,-3,-7,-5,3,-5.75
+Madhya Pradesh,20 March,-12,2,-6,-8,-5,4,-5.75
+Madhya Pradesh,21 March,-12,2,-6,-8,-5,4,-5.75
+Madhya Pradesh,22 March,-12,2,-6,-8,-5,4,-5.75
+Madhya Pradesh,23 March,-58,-48,-36,-59,-47,18,-53.0
+Madhya Pradesh,24 March,-67,-60,-45,-67,-60,23,-63.5
+Madhya Pradesh,25 March,-74,-69,-52,-72,-64,26,-69.75
+Madhya Pradesh,26 March,-73,-66,-49,-71,-63,25,-68.25
+Madhya Pradesh,27 March,-73,-69,-51,-73,-63,27,-69.5
+Madhya Pradesh,28 March,-73,-69,-51,-73,-63,27,-69.5
+Madhya Pradesh,29 March,-73,-69,-51,-73,-63,27,-69.5
+Madhya Pradesh,30 March,-74,-69,-51,-74,-62,26,-69.75
+Madhya Pradesh,31 March,-74,-69,-51,-74,-62,26,-69.75
+Madhya Pradesh,01 April,-76,-72,-53,-74,-64,26,-71.5
+Madhya Pradesh,02 April,-75,-72,-51,-75,-65,27,-71.75
+Madhya Pradesh,03 April,-74,-70,-50,-73,-61,26,-69.5
+Madhya Pradesh,04 April,-74,-70,-50,-73,-61,26,-69.5
+Madhya Pradesh,05 April,-74,-70,-50,-73,-61,26,-69.5
+Madhya Pradesh,06 April,-76,-71,-53,-74,-64,27,-71.25
+Madhya Pradesh,07 April,-77,-61,-54,-69,-62,26,-67.25
+Madhya Pradesh,08 April,-78,-62,-56,-70,-63,27,-68.25
+Madhya Pradesh,09 April,-78,-63,-55,-71,-64,28,-69.0
+Madhya Pradesh,10 April,-78,-63,-56,-72,-65,29,-69.5
+Madhya Pradesh,11 April,-78,-63,-56,-72,-65,29,-69.5
+Madhya Pradesh,12 April,-78,-63,-56,-72,-65,29,-69.5
+Madhya Pradesh,13 April,-77,-60,-56,-71,-61,29,-67.25
+Madhya Pradesh,14 April,-76,-59,-54,-70,-63,27,-67.0
+Madhya Pradesh,15 April,-76,-54,-54,-66,-58,26,-63.5
+Madhya Pradesh,16 April,-84,-46,-70,-65,-60,27,-63.75
+Madhya Pradesh,17 April,-84,-46,-70,-66,-59,28,-63.75
+Madhya Pradesh,18 April,-84,-46,-70,-66,-59,28,-63.75
+Madhya Pradesh,19 April,-84,-46,-70,-66,-59,28,-63.75
+Madhya Pradesh,20 April,-85,-50,-72,-67,-58,27,-65.0
+Madhya Pradesh,21 April,-84,-47,-72,-66,-58,26,-63.75
+Madhya Pradesh,22 April,-84,-48,-72,-66,-57,26,-63.75
+Madhya Pradesh,23 April,-84,-48,-71,-66,-58,27,-64.0
+Madhya Pradesh,24 April,-84,-48,-72,-66,-57,27,-63.75
+Madhya Pradesh,25 April,-84,-48,-72,-66,-57,27,-63.75
+Madhya Pradesh,26 April,-84,-48,-72,-66,-57,27,-63.75
+Madhya Pradesh,27 April,-85,-49,-72,-67,-57,28,-64.5
+Madhya Pradesh,28 April,-84,-46,-71,-66,-57,26,-63.25
+Madhya Pradesh,29 April,-83,-45,-71,-64,-55,26,-61.75
+Madhya Pradesh,30 April,-83,-46,-69,-64,-55,27,-62.0
+Madhya Pradesh,01 May,-83,-47,-70,-65,-55,27,-62.5
+Madhya Pradesh,02 May,-83,-47,-70,-65,-55,27,-62.5
+Madhya Pradesh,03 May,-83,-47,-70,-65,-55,27,-62.5
+Madhya Pradesh,04 May,-82,-41,-70,-62,-51,25,-59.0
+Madhya Pradesh,05 May,-81,-38,-69,-61,-51,24,-57.75
+Madhya Pradesh,06 May,-80,-35,-69,-57,-49,23,-55.25
+Madhya Pradesh,07 May,-80,-36,-67,-57,-53,24,-56.5
+Madhya Pradesh,08 May,-79,-34,-68,-56,-48,24,-54.25
+Madhya Pradesh,09 May,-79,-34,-68,-56,-48,24,-54.25
+Madhya Pradesh,10 May,-79,-34,-68,-56,-48,24,-54.25
+Madhya Pradesh,11 May,-78,-33,-67,-54,-47,23,-53.0
+Madhya Pradesh,12 May,-77,-31,-67,-53,-47,23,-52.0
+Madhya Pradesh,13 May,-77,-30,-67,-51,-45,22,-50.75
+Madhya Pradesh,14 May,-76,-29,-65,-50,-45,21,-50.0
+Madhya Pradesh,15 May,-76,-28,-65,-49,-44,21,-49.25
+Madhya Pradesh,16 May,-76,-28,-65,-49,-44,21,-49.25
+Madhya Pradesh,17 May,-76,-28,-65,-49,-44,21,-49.25
+Madhya Pradesh,18 May,-76,-27,-66,-51,-42,21,-49.0
+Madhya Pradesh,19 May,-76,-26,-65,-50,-43,21,-48.75
+Madhya Pradesh,20 May,-75,-23,-65,-48,-41,21,-46.75
+Madhya Pradesh,21 May,-74,-22,-64,-46,-40,21,-45.5
+Madhya Pradesh,22 May,-74,-22,-64,-46,-39,20,-45.25
+Madhya Pradesh,23 May,-74,-22,-64,-46,-39,20,-45.25
+Madhya Pradesh,24 May,-74,-22,-64,-46,-39,20,-45.25
+Madhya Pradesh,25 May,-76,-27,-65,-53,-48,23,-51.0
+Madhya Pradesh,26 May,-74,-20,-65,-48,-38,19,-45.0
+Madhya Pradesh,27 May,-72,-16,-65,-45,-36,18,-42.25
+Madhya Pradesh,28 May,-72,-16,-64,-45,-36,18,-42.25
+Madhya Pradesh,29 May,-71,-14,-64,-45,-34,18,-41.0
+Madhya Pradesh,30 May,-71,-14,-64,-45,-34,18,-41.0
+Madhya Pradesh,31 May,-71,-14,-64,-45,-34,18,-41.0
+Madhya Pradesh,01 June,-67,-5,-63,-41,-31,16,-36.0
+Madhya Pradesh,02 June,-66,-3,-62,-38,-31,15,-34.5
+Madhya Pradesh,03 June,-65,1,-63,-35,-30,14,-32.25
+Madhya Pradesh,04 June,-69,-12,-64,-42,-33,17,-39.0
+Madhya Pradesh,05 June,-63,3,-62,-34,-28,14,-30.5
+Maharashtra,15 February,-3,-1,2,3,2,0,0.25
+Maharashtra,16 February,0,-1,1,2,0,0,0.25
+Maharashtra,17 February,-2,0,0,0,1,1,-0.25
+Maharashtra,18 February,0,1,1,2,1,0,1.0
+Maharashtra,19 February,-1,-1,7,-3,-12,3,-4.25
+Maharashtra,20 February,0,2,2,2,0,0,1.0
+Maharashtra,21 February,-7,-1,9,-9,-22,6,-9.75
+Maharashtra,22 February,-7,-1,9,-9,-22,6,-9.75
+Maharashtra,23 February,-7,-1,9,-9,-22,6,-9.75
+Maharashtra,24 February,-3,-3,0,0,2,1,-1.0
+Maharashtra,25 February,-3,-2,-2,-1,2,1,-1.0
+Maharashtra,26 February,-1,-3,0,2,3,0,0.25
+Maharashtra,27 February,-2,-3,-2,-1,1,1,-1.25
+Maharashtra,28 February,-3,-1,-1,-1,4,1,-0.25
+Maharashtra,29 February,-3,-1,-1,-1,4,1,-0.25
+Maharashtra,01 March,-3,-1,-1,-1,4,1,-0.25
+Maharashtra,02 March,-2,1,-1,0,4,1,0.75
+Maharashtra,03 March,-1,1,-2,-1,3,1,0.5
+Maharashtra,04 March,0,3,0,2,6,0,2.75
+Maharashtra,05 March,-1,3,0,0,4,1,1.5
+Maharashtra,06 March,0,4,0,1,5,1,2.5
+Maharashtra,07 March,0,4,0,1,5,1,2.5
+Maharashtra,08 March,0,4,0,1,5,1,2.5
+Maharashtra,09 March,-1,6,0,-4,-4,2,-0.75
+Maharashtra,10 March,-17,-21,-4,-32,-60,18,-32.5
+Maharashtra,11 March,-5,0,-3,0,0,0,-1.25
+Maharashtra,12 March,-6,1,-4,-3,-1,1,-2.25
+Maharashtra,13 March,-9,1,-6,-7,-2,3,-4.25
+Maharashtra,14 March,-9,1,-6,-7,-2,3,-4.25
+Maharashtra,15 March,-9,1,-6,-7,-2,3,-4.25
+Maharashtra,16 March,-12,1,-10,-10,-8,5,-7.25
+Maharashtra,17 March,-18,0,-15,-15,-14,7,-11.75
+Maharashtra,18 March,-22,-5,-17,-19,-18,8,-16.0
+Maharashtra,19 March,-28,-8,-23,-26,-24,10,-21.5
+Maharashtra,20 March,-41,-12,-29,-33,-31,14,-29.25
+Maharashtra,21 March,-41,-12,-29,-33,-31,14,-29.25
+Maharashtra,22 March,-41,-12,-29,-33,-31,14,-29.25
+Maharashtra,23 March,-69,-39,-51,-69,-69,29,-61.5
+Maharashtra,24 March,-76,-50,-58,-76,-77,34,-69.75
+Maharashtra,25 March,-82,-67,-63,-81,-81,37,-77.75
+Maharashtra,26 March,-80,-63,-61,-79,-78,36,-75.0
+Maharashtra,27 March,-80,-62,-61,-79,-77,36,-74.5
+Maharashtra,28 March,-80,-62,-61,-79,-77,36,-74.5
+Maharashtra,29 March,-80,-62,-61,-79,-77,36,-74.5
+Maharashtra,30 March,-79,-63,-61,-79,-76,35,-74.25
+Maharashtra,31 March,-80,-64,-61,-80,-76,35,-75.0
+Maharashtra,01 April,-80,-65,-61,-80,-77,35,-75.5
+Maharashtra,02 April,-81,-66,-62,-81,-79,37,-76.75
+Maharashtra,03 April,-80,-64,-61,-80,-76,36,-75.0
+Maharashtra,04 April,-80,-64,-61,-80,-76,36,-75.0
+Maharashtra,05 April,-80,-64,-61,-80,-76,36,-75.0
+Maharashtra,06 April,-80,-64,-61,-80,-78,36,-75.5
+Maharashtra,07 April,-82,-54,-64,-76,-76,35,-72.0
+Maharashtra,08 April,-83,-57,-65,-76,-76,35,-73.0
+Maharashtra,09 April,-83,-55,-65,-77,-77,37,-73.0
+Maharashtra,10 April,-83,-56,-66,-78,-79,39,-74.0
+Maharashtra,11 April,-83,-56,-66,-78,-79,39,-74.0
+Maharashtra,12 April,-83,-56,-66,-78,-79,39,-74.0
+Maharashtra,13 April,-82,-57,-65,-77,-75,37,-72.75
+Maharashtra,14 April,-83,-59,-65,-78,-78,37,-74.5
+Maharashtra,15 April,-82,-53,-64,-75,-74,35,-71.0
+Maharashtra,16 April,-87,-49,-73,-75,-75,36,-71.5
+Maharashtra,17 April,-87,-49,-73,-75,-74,37,-71.25
+Maharashtra,18 April,-87,-49,-73,-75,-74,37,-71.25
+Maharashtra,19 April,-87,-49,-73,-75,-74,37,-71.25
+Maharashtra,20 April,-87,-52,-74,-75,-73,36,-71.75
+Maharashtra,21 April,-87,-52,-74,-75,-74,36,-72.0
+Maharashtra,22 April,-87,-53,-74,-75,-74,36,-72.25
+Maharashtra,23 April,-88,-54,-75,-76,-74,37,-73.0
+Maharashtra,24 April,-87,-51,-75,-76,-74,37,-72.0
+Maharashtra,25 April,-87,-51,-75,-76,-74,37,-72.0
+Maharashtra,26 April,-87,-51,-75,-76,-74,37,-72.0
+Maharashtra,27 April,-87,-53,-74,-76,-73,37,-72.25
+Maharashtra,28 April,-87,-52,-74,-75,-74,36,-72.0
+Maharashtra,29 April,-87,-52,-74,-74,-73,36,-71.5
+Maharashtra,30 April,-87,-52,-74,-75,-73,36,-71.75
+Maharashtra,01 May,-87,-53,-75,-76,-77,38,-73.25
+Maharashtra,02 May,-87,-53,-75,-76,-77,38,-73.25
+Maharashtra,03 May,-87,-53,-75,-76,-77,38,-73.25
+Maharashtra,04 May,-84,-44,-73,-71,-70,34,-67.25
+Maharashtra,05 May,-84,-44,-73,-70,-70,34,-67.0
+Maharashtra,06 May,-83,-41,-72,-68,-68,33,-65.0
+Maharashtra,07 May,-83,-43,-72,-70,-71,34,-66.75
+Maharashtra,08 May,-82,-37,-72,-68,-67,34,-63.5
+Maharashtra,09 May,-82,-37,-72,-68,-67,34,-63.5
+Maharashtra,10 May,-82,-37,-72,-68,-67,34,-63.5
+Maharashtra,11 May,-82,-41,-71,-68,-67,33,-64.5
+Maharashtra,12 May,-82,-40,-71,-68,-67,33,-64.25
+Maharashtra,13 May,-82,-40,-71,-66,-66,32,-63.5
+Maharashtra,14 May,-81,-40,-71,-68,-66,31,-63.75
+Maharashtra,15 May,-81,-37,-70,-66,-65,32,-62.25
+Maharashtra,16 May,-81,-37,-70,-66,-65,32,-62.25
+Maharashtra,17 May,-81,-37,-70,-66,-65,32,-62.25
+Maharashtra,18 May,-80,-36,-70,-67,-63,31,-61.5
+Maharashtra,19 May,-80,-37,-71,-67,-64,31,-62.0
+Maharashtra,20 May,-80,-35,-70,-65,-63,31,-60.75
+Maharashtra,21 May,-80,-35,-70,-66,-63,31,-61.0
+Maharashtra,22 May,-80,-34,-71,-66,-61,31,-60.25
+Maharashtra,23 May,-80,-34,-71,-66,-61,31,-60.25
+Maharashtra,24 May,-80,-34,-71,-66,-61,31,-60.25
+Maharashtra,25 May,-80,-38,-70,-68,-67,32,-63.25
+Maharashtra,26 May,-78,-34,-70,-65,-60,29,-59.25
+Maharashtra,27 May,-78,-32,-69,-63,-59,28,-58.0
+Maharashtra,28 May,-78,-32,-70,-64,-59,29,-58.25
+Maharashtra,29 May,-78,-30,-70,-64,-58,30,-57.5
+Maharashtra,30 May,-78,-30,-70,-64,-58,30,-57.5
+Maharashtra,31 May,-78,-30,-70,-64,-58,30,-57.5
+Maharashtra,01 June,-75,-27,-69,-61,-55,27,-54.5
+Maharashtra,02 June,-76,-28,-70,-62,-56,27,-55.5
+Maharashtra,03 June,-82,-46,-73,-69,-61,30,-64.5
+Maharashtra,04 June,-76,-29,-71,-62,-58,26,-56.25
+Maharashtra,05 June,-73,-21,-68,-59,-54,26,-51.75
+Manipur,15 February,1,-1,2,7,-9,2,-0.5
+Manipur,16 February,-1,3,2,9,4,0,3.75
+Manipur,17 February,-4,-2,-4,4,8,1,1.5
+Manipur,18 February,-2,-2,-4,9,7,1,3.0
+Manipur,19 February,-4,-1,-6,11,10,1,4.0
+Manipur,20 February,-3,-1,-2,6,7,0,2.25
+Manipur,21 February,0,1,-1,7,11,0,4.75
+Manipur,22 February,0,1,-1,7,11,0,4.75
+Manipur,23 February,0,1,-1,7,11,0,4.75
+Manipur,24 February,-4,-3,-6,-1,9,1,0.25
+Manipur,25 February,-1,1,-2,0,6,0,1.5
+Manipur,26 February,-9,-12,-7,-2,0,2,-5.75
+Manipur,27 February,0,2,-2,3,7,0,3.0
+Manipur,28 February,5,2,3,9,6,-1,5.5
+Manipur,29 February,5,2,3,9,6,-1,5.5
+Manipur,01 March,5,2,3,9,6,-1,5.5
+Manipur,02 March,0,0,2,4,5,0,2.25
+Manipur,03 March,-2,-3,-2,1,6,0,0.5
+Manipur,04 March,2,5,-1,7,10,0,6.0
+Manipur,05 March,5,7,2,11,8,-1,7.75
+Manipur,06 March,9,16,4,16,11,-2,13.0
+Manipur,07 March,9,16,4,16,11,-2,13.0
+Manipur,08 March,9,16,4,16,11,-2,13.0
+Manipur,09 March,11,24,12,12,-14,-1,8.25
+Manipur,10 March,-8,-23,10,-5,-38,3,-18.5
+Manipur,11 March,-8,-21,8,-3,-29,3,-15.25
+Manipur,12 March,-5,-17,14,-2,-27,2,-12.75
+Manipur,13 March,-7,-14,9,5,-23,1,-9.75
+Manipur,14 March,-7,-14,9,5,-23,1,-9.75
+Manipur,15 March,-7,-14,9,5,-23,1,-9.75
+Manipur,16 March,-29,-24,-30,-20,-18,-7,-22.75
+Manipur,17 March,-34,-43,-20,-43,-26,-25,-36.5
+Manipur,18 March,0,-1,0,3,-1,-1,0.25
+Manipur,19 March,-1,1,3,4,-2,0,0.5
+Manipur,20 March,6,16,6,19,1,-1,10.5
+Manipur,21 March,6,16,6,19,1,-1,10.5
+Manipur,22 March,6,16,6,19,1,-1,10.5
+Manipur,23 March,-32,-39,-11,-27,-26,8,-31.0
+Manipur,24 March,-52,-57,-22,-43,-46,14,-49.5
+Manipur,25 March,-57,-65,-31,-62,-52,20,-59.0
+Manipur,26 March,-53,-61,-26,-57,-49,18,-55.0
+Manipur,27 March,-51,-56,-25,-57,-45,17,-52.25
+Manipur,28 March,-51,-56,-25,-57,-45,17,-52.25
+Manipur,29 March,-51,-56,-25,-57,-45,17,-52.25
+Manipur,30 March,-51,-57,-22,-59,-44,16,-52.75
+Manipur,31 March,-51,-60,-22,-59,-44,15,-53.5
+Manipur,01 April,-50,-56,-23,-57,-44,16,-51.75
+Manipur,02 April,-53,-63,-24,-58,-46,17,-55.0
+Manipur,03 April,-48,-58,-19,-53,-42,15,-50.25
+Manipur,04 April,-48,-58,-19,-53,-42,15,-50.25
+Manipur,05 April,-48,-58,-19,-53,-42,15,-50.25
+Manipur,06 April,-55,-63,-20,-59,-44,17,-55.25
+Manipur,07 April,-68,-55,-16,-50,-45,16,-54.5
+Manipur,08 April,-68,-53,-18,-51,-44,16,-54.0
+Manipur,09 April,-67,-51,-16,-48,-44,16,-52.5
+Manipur,10 April,-67,-52,-17,-49,-46,18,-53.5
+Manipur,11 April,-67,-52,-17,-49,-46,18,-53.5
+Manipur,12 April,-67,-52,-17,-49,-46,18,-53.5
+Manipur,13 April,-70,-57,-20,-53,-48,19,-57.0
+Manipur,14 April,-67,-53,-15,-50,-44,16,-53.5
+Manipur,15 April,-70,-51,-15,-45,-42,15,-52.0
+Manipur,16 April,-82,-40,,-39,-42,12,-50.75
+Manipur,17 April,-83,-43,,-42,-42,16,-52.5
+Manipur,18 April,-83,-43,,-42,-42,16,-52.5
+Manipur,19 April,-83,-43,,-42,-42,16,-52.5
+Manipur,20 April,-84,-43,-24,-44,-41,16,-53.0
+Manipur,21 April,-81,-33,-19,-38,-39,13,-47.75
+Manipur,22 April,-82,-33,-20,-37,-37,14,-47.25
+Manipur,23 April,-81,-33,-20,-35,-41,13,-47.5
+Manipur,24 April,-81,-33,-24,-36,-36,15,-46.5
+Manipur,25 April,-81,-33,-24,-36,-36,15,-46.5
+Manipur,26 April,-81,-33,-24,-36,-36,15,-46.5
+Manipur,27 April,-80,-30,-21,-37,-35,15,-45.5
+Manipur,28 April,-80,-30,-20,-37,-36,13,-45.75
+Manipur,29 April,-80,-28,-18,-33,-33,14,-43.5
+Manipur,30 April,-81,-25,-16,-34,-34,13,-43.5
+Manipur,01 May,-81,-27,-16,-28,-37,13,-43.25
+Manipur,02 May,-81,-27,-16,-28,-37,13,-43.25
+Manipur,03 May,-81,-27,-16,-28,-37,13,-43.25
+Manipur,04 May,-76,-15,-16,-23,-26,11,-35.0
+Manipur,05 May,-74,-8,-10,-18,-26,9,-31.5
+Manipur,06 May,-78,-13,-12,-22,-27,10,-35.0
+Manipur,07 May,-78,-22,-14,-24,-32,11,-39.0
+Manipur,08 May,-77,-22,-13,-18,-26,10,-35.75
+Manipur,09 May,-77,-22,-13,-18,-26,10,-35.75
+Manipur,10 May,-77,-22,-13,-18,-26,10,-35.75
+Manipur,11 May,-77,-19,-15,-18,-26,10,-35.0
+Manipur,12 May,-75,-17,-12,-17,-28,9,-34.25
+Manipur,13 May,-77,-20,-13,-19,-27,10,-35.75
+Manipur,14 May,-74,-16,-12,-20,-26,9,-34.0
+Manipur,15 May,-75,-15,-12,-15,-23,9,-32.0
+Manipur,16 May,-75,-15,-12,-15,-23,9,-32.0
+Manipur,17 May,-75,-15,-12,-15,-23,9,-32.0
+Manipur,18 May,-81,-34,-21,-39,-32,14,-46.5
+Manipur,19 May,-80,-29,-18,-36,-31,13,-44.0
+Manipur,20 May,-80,-29,-18,-36,-31,14,-44.0
+Manipur,21 May,-81,-32,-19,-42,-33,14,-47.0
+Manipur,22 May,-78,-25,-17,-33,-27,13,-40.75
+Manipur,23 May,-78,-25,-17,-33,-27,13,-40.75
+Manipur,24 May,-78,-25,-17,-33,-27,13,-40.75
+Manipur,25 May,-78,-25,-12,-31,-35,13,-42.25
+Manipur,26 May,-76,-23,-11,-29,-29,11,-39.25
+Manipur,27 May,-79,-29,-15,-32,-30,12,-42.5
+Manipur,28 May,-76,-20,-11,-27,-27,11,-37.5
+Manipur,29 May,-76,-20,-10,-26,-24,12,-36.5
+Manipur,30 May,-76,-20,-10,-26,-24,12,-36.5
+Manipur,31 May,-76,-20,-10,-26,-24,12,-36.5
+Manipur,01 June,-75,-19,-13,-26,-24,12,-36.0
+Manipur,02 June,-76,-21,-13,-26,-27,12,-37.5
+Manipur,03 June,-74,-12,-7,-17,-23,10,-31.5
+Manipur,04 June,-74,-14,-8,-21,-25,11,-33.5
+Manipur,05 June,-72,-11,-6,8,-20,9,-23.75
+Meghalaya,15 February,13,19,4,-1,10,2,10.25
+Meghalaya,16 February,13,15,4,3,3,2,8.5
+Meghalaya,17 February,17,14,3,3,19,1,13.25
+Meghalaya,18 February,13,15,-1,3,19,0,12.5
+Meghalaya,19 February,12,15,1,1,19,0,11.75
+Meghalaya,20 February,12,14,2,2,17,0,11.25
+Meghalaya,21 February,18,18,7,5,13,0,13.5
+Meghalaya,22 February,18,18,7,5,13,0,13.5
+Meghalaya,23 February,18,18,7,5,13,0,13.5
+Meghalaya,24 February,9,5,1,-1,20,1,8.25
+Meghalaya,25 February,5,2,-5,2,20,1,7.25
+Meghalaya,26 February,10,9,-1,0,18,0,9.25
+Meghalaya,27 February,9,9,0,-3,17,-1,8.0
+Meghalaya,28 February,22,-7,3,-7,17,-3,6.25
+Meghalaya,29 February,22,-7,3,-7,17,-3,6.25
+Meghalaya,01 March,22,-7,3,-7,17,-3,6.25
+Meghalaya,02 March,-63,-61,-44,-53,-47,1,-56.0
+Meghalaya,03 March,-63,-66,-41,-57,-44,-4,-57.5
+Meghalaya,04 March,-45,-49,-33,-44,-28,-12,-41.5
+Meghalaya,05 March,8,-13,2,-2,16,-11,2.25
+Meghalaya,06 March,10,-14,-1,2,23,1,5.25
+Meghalaya,07 March,10,-14,-1,2,23,1,5.25
+Meghalaya,08 March,10,-14,-1,2,23,1,5.25
+Meghalaya,09 March,27,1,9,-3,14,1,9.75
+Meghalaya,10 March,12,-17,6,-10,-25,8,-10.0
+Meghalaya,11 March,22,4,3,8,20,-1,13.5
+Meghalaya,12 March,18,1,1,-1,20,0,9.5
+Meghalaya,13 March,22,3,6,0,25,-1,12.5
+Meghalaya,14 March,22,3,6,0,25,-1,12.5
+Meghalaya,15 March,22,3,6,0,25,-1,12.5
+Meghalaya,16 March,25,1,9,10,19,0,13.75
+Meghalaya,17 March,22,0,2,13,8,2,10.75
+Meghalaya,18 March,13,-2,-2,5,7,2,5.75
+Meghalaya,19 March,12,0,-3,-4,6,2,3.5
+Meghalaya,20 March,9,7,-4,0,8,1,6.0
+Meghalaya,21 March,9,7,-4,0,8,1,6.0
+Meghalaya,22 March,9,7,-4,0,8,1,6.0
+Meghalaya,23 March,-16,-16,-10,-19,-15,8,-16.5
+Meghalaya,24 March,-58,-74,-19,-55,-40,18,-56.75
+Meghalaya,25 March,-62,-76,-23,-63,-48,20,-62.25
+Meghalaya,26 March,-58,-66,-24,-62,-45,19,-57.75
+Meghalaya,27 March,-47,-58,-22,-54,-39,18,-49.5
+Meghalaya,28 March,-47,-58,-22,-54,-39,18,-49.5
+Meghalaya,29 March,-47,-58,-22,-54,-39,18,-49.5
+Meghalaya,30 March,-59,-73,-21,-64,-42,21,-59.5
+Meghalaya,31 March,-44,-55,-20,-52,-37,17,-47.0
+Meghalaya,01 April,-59,-73,-22,-63,-42,20,-59.25
+Meghalaya,02 April,-59,-73,-24,-64,-43,21,-59.75
+Meghalaya,03 April,-45,-56,-20,-53,-36,18,-47.5
+Meghalaya,04 April,-45,-56,-20,-53,-36,18,-47.5
+Meghalaya,05 April,-45,-56,-20,-53,-36,18,-47.5
+Meghalaya,06 April,-48,-59,-15,-54,-39,21,-50.0
+Meghalaya,07 April,-61,-57,-16,-38,-38,18,-48.5
+Meghalaya,08 April,-69,-67,-17,-47,-40,19,-55.75
+Meghalaya,09 April,-68,-67,-19,-46,-41,19,-55.5
+Meghalaya,10 April,-69,-62,-22,-50,-49,23,-57.5
+Meghalaya,11 April,-69,-62,-22,-50,-49,23,-57.5
+Meghalaya,12 April,-69,-62,-22,-50,-49,23,-57.5
+Meghalaya,13 April,-64,-63,-18,-46,-39,20,-53.0
+Meghalaya,14 April,-76,-76,-24,-57,-53,24,-65.5
+Meghalaya,15 April,-78,-76,-25,-58,-52,25,-66.0
+Meghalaya,16 April,-74,-46,-18,-33,-45,20,-49.5
+Meghalaya,17 April,-81,-67,-24,-49,-44,23,-60.25
+Meghalaya,18 April,-81,-67,-24,-49,-44,23,-60.25
+Meghalaya,19 April,-81,-67,-24,-49,-44,23,-60.25
+Meghalaya,20 April,-78,-55,-20,-41,-40,22,-53.5
+Meghalaya,21 April,-78,-58,-25,-41,-41,20,-54.5
+Meghalaya,22 April,-79,-57,-22,-40,-40,20,-54.0
+Meghalaya,23 April,-77,-52,-23,-37,-41,21,-51.75
+Meghalaya,24 April,-82,-65,-26,-49,-39,23,-58.75
+Meghalaya,25 April,-82,-65,-26,-49,-39,23,-58.75
+Meghalaya,26 April,-82,-65,-26,-49,-39,23,-58.75
+Meghalaya,27 April,-76,-53,-22,-36,-36,23,-50.25
+Meghalaya,28 April,-77,-54,-23,-36,-36,20,-50.75
+Meghalaya,29 April,-77,-54,-22,-34,-36,20,-50.25
+Meghalaya,30 April,-73,-48,-21,-32,-35,20,-47.0
+Meghalaya,01 May,-81,-63,-26,-46,-36,21,-56.5
+Meghalaya,02 May,-81,-63,-26,-46,-36,21,-56.5
+Meghalaya,03 May,-81,-63,-26,-46,-36,21,-56.5
+Meghalaya,04 May,-70,-44,-19,-27,-27,19,-42.0
+Meghalaya,05 May,-72,-49,-23,-30,-27,18,-44.5
+Meghalaya,06 May,-71,-46,-21,-26,-26,17,-42.25
+Meghalaya,07 May,-69,-41,-20,-22,-31,17,-40.75
+Meghalaya,08 May,-76,-54,-21,-32,-23,17,-46.25
+Meghalaya,09 May,-76,-54,-21,-32,-23,17,-46.25
+Meghalaya,10 May,-76,-54,-21,-32,-23,17,-46.25
+Meghalaya,11 May,-75,-54,-16,-32,-26,19,-46.75
+Meghalaya,12 May,-66,-34,-19,-14,-22,16,-34.0
+Meghalaya,13 May,-70,-40,-17,-21,-22,15,-38.25
+Meghalaya,14 May,-70,-41,-17,-22,-22,13,-38.75
+Meghalaya,15 May,-70,-39,-18,-22,-16,14,-36.75
+Meghalaya,16 May,-70,-39,-18,-22,-16,14,-36.75
+Meghalaya,17 May,-70,-39,-18,-22,-16,14,-36.75
+Meghalaya,18 May,-75,-55,-15,-31,-21,18,-45.5
+Meghalaya,19 May,-74,-53,-20,-27,-22,16,-44.0
+Meghalaya,20 May,-69,-37,-19,-19,-20,16,-36.25
+Meghalaya,21 May,-77,-57,-24,-37,-31,19,-50.5
+Meghalaya,22 May,-70,-42,-19,-25,-16,15,-38.25
+Meghalaya,23 May,-70,-42,-19,-25,-16,15,-38.25
+Meghalaya,24 May,-70,-42,-19,-25,-16,15,-38.25
+Meghalaya,25 May,-77,-60,-12,-38,-41,20,-54.0
+Meghalaya,26 May,-75,-55,-18,-29,-23,13,-45.5
+Meghalaya,27 May,-70,-38,-13,-20,-19,12,-36.75
+Meghalaya,28 May,-69,-38,-16,-19,-18,13,-36.0
+Meghalaya,29 May,-67,-38,-18,-17,-13,14,-33.75
+Meghalaya,30 May,-67,-38,-18,-17,-13,14,-33.75
+Meghalaya,31 May,-67,-38,-18,-17,-13,14,-33.75
+Meghalaya,01 June,-73,-53,-12,-27,-17,16,-42.5
+Meghalaya,02 June,-70,-48,-14,-20,-16,13,-38.5
+Meghalaya,03 June,-63,-31,-12,-9,-14,12,-29.25
+Meghalaya,04 June,-64,-32,-14,-9,-14,12,-29.75
+Meghalaya,05 June,-62,-31,-16,-12,-9,11,-28.5
+Mizoram,15 February,4,10,7,8,7,0,7.25
+Mizoram,16 February,-1,5,1,2,1,3,1.75
+Mizoram,17 February,2,-1,5,4,6,1,2.75
+Mizoram,18 February,0,1,5,7,5,1,3.25
+Mizoram,19 February,1,2,6,3,3,0,2.25
+Mizoram,20 February,-2,-4,15,-4,-32,4,-10.5
+Mizoram,21 February,5,8,13,15,2,1,7.5
+Mizoram,22 February,5,8,13,15,2,1,7.5
+Mizoram,23 February,5,8,13,15,2,1,7.5
+Mizoram,24 February,5,2,16,9,5,0,5.25
+Mizoram,25 February,1,5,14,9,5,1,5.0
+Mizoram,26 February,-10,-12,2,-3,-1,3,-6.5
+Mizoram,27 February,14,9,16,12,1,-1,9.0
+Mizoram,28 February,13,12,17,14,1,0,10.0
+Mizoram,29 February,13,12,17,14,1,0,10.0
+Mizoram,01 March,13,12,17,14,1,0,10.0
+Mizoram,02 March,14,8,26,11,0,-3,8.25
+Mizoram,03 March,6,10,18,16,6,0,9.5
+Mizoram,04 March,10,18,25,16,5,-1,12.25
+Mizoram,05 March,23,23,23,22,2,-2,17.5
+Mizoram,06 March,36,25,28,17,-32,2,11.5
+Mizoram,07 March,36,25,28,17,-32,2,11.5
+Mizoram,08 March,36,25,28,17,-32,2,11.5
+Mizoram,09 March,17,22,19,16,3,-1,14.5
+Mizoram,10 March,4,12,23,11,-31,3,-1.0
+Mizoram,11 March,4,8,14,11,3,-1,6.5
+Mizoram,12 March,5,3,17,12,3,0,5.75
+Mizoram,13 March,6,4,21,13,4,-1,6.75
+Mizoram,14 March,6,4,21,13,4,-1,6.75
+Mizoram,15 March,6,4,21,13,4,-1,6.75
+Mizoram,16 March,3,6,18,14,5,-1,7.0
+Mizoram,17 March,-1,3,5,14,-7,0,2.25
+Mizoram,18 March,-1,4,10,7,-12,0,-0.5
+Mizoram,19 March,-6,-3,8,0,-14,1,-5.75
+Mizoram,20 March,-14,0,3,-9,-13,3,-9.0
+Mizoram,21 March,-14,0,3,-9,-13,3,-9.0
+Mizoram,22 March,-14,0,3,-9,-13,3,-9.0
+Mizoram,23 March,-65,-65,-23,-55,-53,15,-59.5
+Mizoram,24 March,-69,-68,-32,-63,-57,17,-64.25
+Mizoram,25 March,-66,-61,-28,-64,-59,16,-62.5
+Mizoram,26 March,-71,-70,-32,-69,-62,19,-68.0
+Mizoram,27 March,-70,-70,-33,-67,-59,19,-66.5
+Mizoram,28 March,-70,-70,-33,-67,-59,19,-66.5
+Mizoram,29 March,-70,-70,-33,-67,-59,19,-66.5
+Mizoram,30 March,-66,-68,-25,-64,-58,16,-64.0
+Mizoram,31 March,-66,-66,-28,-61,-57,16,-62.5
+Mizoram,01 April,-67,-68,-28,-65,-59,16,-64.75
+Mizoram,02 April,-65,-66,-24,-64,-57,16,-63.0
+Mizoram,03 April,-65,-64,-28,-62,-54,16,-61.25
+Mizoram,04 April,-65,-64,-28,-62,-54,16,-61.25
+Mizoram,05 April,-65,-64,-28,-62,-54,16,-61.25
+Mizoram,06 April,-67,-65,-14,-59,-58,16,-62.25
+Mizoram,07 April,-76,-51,-10,-49,-54,14,-57.5
+Mizoram,08 April,-77,-53,-8,-49,-56,15,-58.75
+Mizoram,09 April,-75,-50,-5,-47,-55,15,-56.75
+Mizoram,10 April,-81,-61,-11,-55,-63,20,-65.0
+Mizoram,11 April,-81,-61,-11,-55,-63,20,-65.0
+Mizoram,12 April,-81,-61,-11,-55,-63,20,-65.0
+Mizoram,13 April,-74,-51,,-46,-52,15,-55.75
+Mizoram,14 April,-76,-49,-4,-44,-57,14,-56.5
+Mizoram,15 April,-73,-46,0,-40,-50,12,-52.25
+Mizoram,16 April,-86,-38,-9,-39,-51,11,-53.5
+Mizoram,17 April,-86,-40,-16,-39,-50,12,-53.75
+Mizoram,18 April,-86,-40,-16,-39,-50,12,-53.75
+Mizoram,19 April,-86,-40,-16,-39,-50,12,-53.75
+Mizoram,20 April,-85,-37,-18,-36,-44,10,-50.5
+Mizoram,21 April,-86,-33,-18,-32,-44,9,-48.75
+Mizoram,22 April,-86,-37,-19,-39,-43,11,-51.25
+Mizoram,23 April,-87,-38,-19,-43,-45,13,-53.25
+Mizoram,24 April,-86,-34,-19,-35,-41,12,-49.0
+Mizoram,25 April,-86,-34,-19,-35,-41,12,-49.0
+Mizoram,26 April,-86,-34,-19,-35,-41,12,-49.0
+Mizoram,27 April,-85,-33,-17,-35,-41,12,-48.5
+Mizoram,28 April,-86,-32,-19,-31,-41,12,-47.5
+Mizoram,29 April,-84,-32,-16,-33,-41,11,-47.5
+Mizoram,30 April,-83,-32,-14,-37,-40,11,-48.0
+Mizoram,01 May,-81,-26,-14,-28,-37,11,-43.0
+Mizoram,02 May,-81,-26,-14,-28,-37,11,-43.0
+Mizoram,03 May,-81,-26,-14,-28,-37,11,-43.0
+Mizoram,04 May,-80,-21,-16,-25,-33,9,-39.75
+Mizoram,05 May,-79,-20,-18,-18,-33,9,-37.5
+Mizoram,06 May,-78,-21,-17,-16,-34,9,-37.25
+Mizoram,07 May,-78,-23,-12,-15,-47,10,-40.75
+Mizoram,08 May,-77,-11,-13,-9,-29,8,-31.5
+Mizoram,09 May,-77,-11,-13,-9,-29,8,-31.5
+Mizoram,10 May,-77,-11,-13,-9,-29,8,-31.5
+Mizoram,11 May,-77,-17,-12,-9,-30,7,-33.25
+Mizoram,12 May,-76,-13,-13,-7,-30,6,-31.5
+Mizoram,13 May,-77,-13,-15,-9,-30,7,-32.25
+Mizoram,14 May,-75,-10,-14,-2,-30,5,-29.25
+Mizoram,15 May,-75,-3,-11,6,-26,6,-24.5
+Mizoram,16 May,-75,-3,-11,6,-26,6,-24.5
+Mizoram,17 May,-75,-3,-11,6,-26,6,-24.5
+Mizoram,18 May,-76,-10,-11,3,-26,5,-27.25
+Mizoram,19 May,-77,-17,-20,-4,-27,7,-31.25
+Mizoram,20 May,-75,-15,-21,-8,-27,8,-31.25
+Mizoram,21 May,-75,-19,-19,-13,-28,9,-33.75
+Mizoram,22 May,-73,-10,-19,-9,-24,8,-29.0
+Mizoram,23 May,-73,-10,-19,-9,-24,8,-29.0
+Mizoram,24 May,-73,-10,-19,-9,-24,8,-29.0
+Mizoram,25 May,-74,-14,-11,0,-43,9,-32.75
+Mizoram,26 May,-74,-11,-17,3,-25,6,-26.75
+Mizoram,27 May,-80,-32,-24,-28,-35,7,-43.75
+Mizoram,28 May,-73,-13,-12,-4,-26,2,-29.0
+Mizoram,29 May,-74,-13,-17,4,-25,8,-27.0
+Mizoram,30 May,-74,-13,-17,4,-25,8,-27.0
+Mizoram,31 May,-74,-13,-17,4,-25,8,-27.0
+Mizoram,01 June,-71,1,-9,8,-22,6,-21.0
+Mizoram,02 June,-77,-16,-14,-4,-27,7,-31.0
+Mizoram,03 June,-79,-24,-13,-6,-29,9,-34.5
+Mizoram,04 June,-74,-18,-16,-5,-26,9,-30.75
+Mizoram,05 June,-71,-2,-14,-2,-21,7,-24.0
+Nagaland,15 February,1,-8,6,1,18,1,3.0
+Nagaland,16 February,-3,-5,-3,-7,4,1,-2.75
+Nagaland,17 February,-7,-9,-3,-8,15,1,-2.25
+Nagaland,18 February,-5,-8,-4,-6,12,2,-1.75
+Nagaland,19 February,-7,-13,-6,-5,23,1,-0.5
+Nagaland,20 February,-5,-10,-5,-4,10,1,-2.25
+Nagaland,21 February,-4,-7,2,-1,14,2,0.5
+Nagaland,22 February,-4,-7,2,-1,14,2,0.5
+Nagaland,23 February,-4,-7,2,-1,14,2,0.5
+Nagaland,24 February,-5,-11,-4,-5,16,2,-1.25
+Nagaland,25 February,-8,-12,-4,-7,13,2,-3.5
+Nagaland,26 February,-7,-8,-4,1,20,1,1.5
+Nagaland,27 February,-4,-9,-1,-4,12,1,-1.25
+Nagaland,28 February,-3,-10,1,1,20,0,2.0
+Nagaland,29 February,-3,-10,1,1,20,0,2.0
+Nagaland,01 March,-3,-10,1,1,20,0,2.0
+Nagaland,02 March,0,-5,6,0,18,0,3.25
+Nagaland,03 March,2,-3,7,-2,14,-1,2.75
+Nagaland,04 March,7,0,12,8,28,-1,10.75
+Nagaland,05 March,4,2,15,5,12,0,5.75
+Nagaland,06 March,0,-2,11,8,19,0,6.25
+Nagaland,07 March,0,-2,11,8,19,0,6.25
+Nagaland,08 March,0,-2,11,8,19,0,6.25
+Nagaland,09 March,10,9,17,3,14,-1,9.0
+Nagaland,10 March,-6,-6,12,-3,-24,3,-9.75
+Nagaland,11 March,7,0,11,5,23,-1,8.75
+Nagaland,12 March,5,2,11,3,11,0,5.25
+Nagaland,13 March,3,2,14,1,18,-1,6.0
+Nagaland,14 March,3,2,14,1,18,-1,6.0
+Nagaland,15 March,3,2,14,1,18,-1,6.0
+Nagaland,16 March,3,0,12,3,16,-1,5.5
+Nagaland,17 March,3,3,17,7,1,1,3.5
+Nagaland,18 March,0,-1,15,11,6,1,4.0
+Nagaland,19 March,0,0,16,1,-6,1,-1.25
+Nagaland,20 March,-1,-3,17,-2,1,2,-1.25
+Nagaland,21 March,-1,-3,17,-2,1,2,-1.25
+Nagaland,22 March,-1,-3,17,-2,1,2,-1.25
+Nagaland,23 March,-35,-41,-6,-39,-27,8,-35.5
+Nagaland,24 March,-50,-65,-18,-54,-36,12,-51.25
+Nagaland,25 March,-58,-73,-26,-62,-36,16,-57.25
+Nagaland,26 March,-56,-71,-28,-60,-44,17,-57.75
+Nagaland,27 March,-57,-68,-28,-63,-39,17,-56.75
+Nagaland,28 March,-57,-68,-28,-63,-39,17,-56.75
+Nagaland,29 March,-57,-68,-28,-63,-39,17,-56.75
+Nagaland,30 March,-54,-65,-25,-62,-38,16,-54.75
+Nagaland,31 March,-57,-72,-26,-64,-39,16,-58.0
+Nagaland,01 April,-62,-79,-30,-65,-39,18,-61.25
+Nagaland,02 April,-61,-79,-34,-66,-44,18,-62.5
+Nagaland,03 April,-60,-76,-30,-63,-37,16,-59.0
+Nagaland,04 April,-60,-76,-30,-63,-37,16,-59.0
+Nagaland,05 April,-60,-76,-30,-63,-37,16,-59.0
+Nagaland,06 April,-53,-61,-23,-62,-36,15,-53.0
+Nagaland,07 April,-67,-62,-31,-61,-39,15,-57.25
+Nagaland,08 April,-68,-62,-35,-60,-33,16,-55.75
+Nagaland,09 April,-71,-67,-44,-64,-43,18,-61.25
+Nagaland,10 April,-74,-67,-41,-66,-42,20,-62.25
+Nagaland,11 April,-74,-67,-41,-66,-42,20,-62.25
+Nagaland,12 April,-74,-67,-41,-66,-42,20,-62.25
+Nagaland,13 April,-72,-67,-42,-68,-40,18,-61.75
+Nagaland,14 April,-74,-72,-43,-69,-44,20,-64.75
+Nagaland,15 April,-74,-69,-46,-69,-37,18,-62.25
+Nagaland,16 April,-80,-54,-63,-61,-42,13,-59.25
+Nagaland,17 April,-82,-58,-65,-64,-38,18,-60.5
+Nagaland,18 April,-82,-58,-65,-64,-38,18,-60.5
+Nagaland,19 April,-82,-58,-65,-64,-38,18,-60.5
+Nagaland,20 April,-80,-55,-66,-68,-39,18,-60.5
+Nagaland,21 April,-82,-59,-67,-67,-42,17,-62.5
+Nagaland,22 April,-81,-58,-65,-65,-35,16,-59.75
+Nagaland,23 April,-82,-59,-64,-64,-42,17,-61.75
+Nagaland,24 April,-80,-54,-67,-66,-36,19,-59.0
+Nagaland,25 April,-80,-54,-67,-66,-36,19,-59.0
+Nagaland,26 April,-80,-54,-67,-66,-36,19,-59.0
+Nagaland,27 April,-78,-52,-65,-65,-35,17,-57.5
+Nagaland,28 April,-78,-52,-62,-60,-36,16,-56.5
+Nagaland,29 April,-77,-49,-65,-60,-27,16,-53.25
+Nagaland,30 April,-78,-52,-61,-61,-36,16,-56.75
+Nagaland,01 May,-76,-45,-62,-62,-29,15,-53.0
+Nagaland,02 May,-76,-45,-62,-62,-29,15,-53.0
+Nagaland,03 May,-76,-45,-62,-62,-29,15,-53.0
+Nagaland,04 May,-73,-40,-61,-58,-27,13,-49.5
+Nagaland,05 May,-74,-44,-62,-57,-29,14,-51.0
+Nagaland,06 May,-67,-31,-60,-49,-19,12,-41.5
+Nagaland,07 May,-69,-35,-58,-46,-30,12,-45.0
+Nagaland,08 May,-63,-22,-56,-41,-20,10,-36.5
+Nagaland,09 May,-63,-22,-56,-41,-20,10,-36.5
+Nagaland,10 May,-63,-22,-56,-41,-20,10,-36.5
+Nagaland,11 May,-71,-38,-60,-55,-24,10,-47.0
+Nagaland,12 May,-73,-41,-60,-50,-27,11,-47.75
+Nagaland,13 May,-67,-32,-60,-49,-16,9,-41.0
+Nagaland,14 May,-71,-37,-63,-50,-28,11,-46.5
+Nagaland,15 May,-66,-27,-59,-49,-18,10,-40.0
+Nagaland,16 May,-66,-27,-59,-49,-18,10,-40.0
+Nagaland,17 May,-66,-27,-59,-49,-18,10,-40.0
+Nagaland,18 May,-68,-36,-62,-54,-21,10,-44.75
+Nagaland,19 May,-72,-42,-60,-52,-24,11,-47.5
+Nagaland,20 May,-68,-37,-61,-53,-16,11,-43.5
+Nagaland,21 May,-71,-42,-62,-53,-26,11,-48.0
+Nagaland,22 May,-74,-48,-63,-55,-24,14,-50.25
+Nagaland,23 May,-74,-48,-63,-55,-24,14,-50.25
+Nagaland,24 May,-74,-48,-63,-55,-24,14,-50.25
+Nagaland,25 May,-73,-46,-62,-58,-29,13,-51.5
+Nagaland,26 May,-74,-52,-65,-59,-27,13,-53.0
+Nagaland,27 May,-70,-43,-62,-57,-15,9,-46.25
+Nagaland,28 May,-72,-45,-64,-53,-25,12,-48.75
+Nagaland,29 May,-69,-37,-61,-54,-17,12,-44.25
+Nagaland,30 May,-69,-37,-61,-54,-17,12,-44.25
+Nagaland,31 May,-69,-37,-61,-54,-17,12,-44.25
+Nagaland,01 June,-69,-38,-62,-51,-17,11,-43.75
+Nagaland,02 June,-72,-45,-63,-53,-21,12,-47.75
+Nagaland,03 June,-68,-38,-61,-51,-11,11,-42.0
+Nagaland,04 June,-70,-43,-60,-49,-22,12,-46.0
+Nagaland,05 June,-76,-59,-64,-54,-29,16,-54.5
+Odisha,15 February,-1,0,1,4,6,0,2.25
+Odisha,16 February,-1,1,0,2,0,1,0.5
+Odisha,17 February,-3,0,3,1,2,0,0.0
+Odisha,18 February,-3,-2,2,0,2,1,-0.75
+Odisha,19 February,2,8,1,8,6,-3,6.0
+Odisha,20 February,0,7,4,9,3,-1,4.75
+Odisha,21 February,-12,-7,2,-7,-28,5,-13.5
+Odisha,22 February,-12,-7,2,-7,-28,5,-13.5
+Odisha,23 February,-12,-7,2,-7,-28,5,-13.5
+Odisha,24 February,-5,-2,-1,0,1,2,-1.5
+Odisha,25 February,-14,-15,-8,-8,-5,5,-10.5
+Odisha,26 February,2,7,1,9,3,-3,5.25
+Odisha,27 February,-1,1,2,3,2,0,1.25
+Odisha,28 February,1,1,3,3,2,0,1.75
+Odisha,29 February,1,1,3,3,2,0,1.75
+Odisha,01 March,1,1,3,3,2,0,1.75
+Odisha,02 March,-1,1,4,1,2,0,0.75
+Odisha,03 March,-3,-2,3,1,1,0,-0.75
+Odisha,04 March,1,9,1,11,5,-3,6.5
+Odisha,05 March,-4,-3,1,0,-7,3,-3.5
+Odisha,06 March,0,2,0,3,4,1,2.25
+Odisha,07 March,0,2,0,3,4,1,2.25
+Odisha,08 March,0,2,0,3,4,1,2.25
+Odisha,09 March,4,11,10,1,-18,2,-0.5
+Odisha,10 March,-29,-24,1,-23,-52,11,-32.0
+Odisha,11 March,2,11,4,14,-2,-6,6.25
+Odisha,12 March,-5,-1,2,2,0,-2,-1.0
+Odisha,13 March,-2,3,2,2,2,-1,1.25
+Odisha,14 March,-2,3,2,2,2,-1,1.25
+Odisha,15 March,-2,3,2,2,2,-1,1.25
+Odisha,16 March,-8,4,-1,1,-5,1,-2.0
+Odisha,17 March,-16,-7,-4,-5,-8,2,-9.0
+Odisha,18 March,-14,-1,-6,-3,-5,0,-5.75
+Odisha,19 March,-27,-21,-12,-18,-10,4,-19.0
+Odisha,20 March,-21,-11,-7,-15,-10,3,-14.25
+Odisha,21 March,-21,-11,-7,-15,-10,3,-14.25
+Odisha,22 March,-21,-11,-7,-15,-10,3,-14.25
+Odisha,23 March,-52,-36,-18,-46,-36,13,-42.5
+Odisha,24 March,-62,-48,-23,-59,-46,16,-53.75
+Odisha,25 March,-68,-53,-30,-65,-51,18,-59.25
+Odisha,26 March,-70,-62,-30,-69,-53,21,-63.5
+Odisha,27 March,-71,-61,-31,-70,-52,23,-63.5
+Odisha,28 March,-71,-61,-31,-70,-52,23,-63.5
+Odisha,29 March,-71,-61,-31,-70,-52,23,-63.5
+Odisha,30 March,-70,-62,-30,-71,-52,24,-63.75
+Odisha,31 March,-71,-64,-30,-70,-52,22,-64.25
+Odisha,01 April,-70,-61,-32,-68,-52,19,-62.75
+Odisha,02 April,-71,-65,-31,-71,-54,23,-65.25
+Odisha,03 April,-69,-60,-30,-69,-49,22,-61.75
+Odisha,04 April,-69,-60,-30,-69,-49,22,-61.75
+Odisha,05 April,-69,-60,-30,-69,-49,22,-61.75
+Odisha,06 April,-72,-64,-29,-72,-53,26,-65.25
+Odisha,07 April,-76,-58,-24,-69,-54,23,-64.25
+Odisha,08 April,-75,-53,-26,-66,-51,20,-61.25
+Odisha,09 April,-76,-57,-25,-68,-53,24,-63.5
+Odisha,10 April,-75,-54,-27,-67,-54,25,-62.5
+Odisha,11 April,-75,-54,-27,-67,-54,25,-62.5
+Odisha,12 April,-75,-54,-27,-67,-54,25,-62.5
+Odisha,13 April,-75,-55,-26,-69,-53,27,-63.0
+Odisha,14 April,-75,-56,-24,-67,-54,24,-63.0
+Odisha,15 April,-74,-46,-23,-62,-45,19,-56.75
+Odisha,16 April,-85,-44,-35,-64,-49,22,-60.5
+Odisha,17 April,-84,-41,-37,-64,-47,23,-59.0
+Odisha,18 April,-84,-41,-37,-64,-47,23,-59.0
+Odisha,19 April,-84,-41,-37,-64,-47,23,-59.0
+Odisha,20 April,-84,-45,-39,-65,-45,23,-59.75
+Odisha,21 April,-85,-49,-40,-65,-47,21,-61.5
+Odisha,22 April,-83,-40,-40,-60,-43,17,-56.5
+Odisha,23 April,-84,-46,-41,-63,-45,21,-59.5
+Odisha,24 April,-85,-50,-43,-66,-45,23,-61.5
+Odisha,25 April,-85,-50,-43,-66,-45,23,-61.5
+Odisha,26 April,-85,-50,-43,-66,-45,23,-61.5
+Odisha,27 April,-83,-41,-40,-63,-43,23,-57.5
+Odisha,28 April,-83,-42,-39,-61,-43,19,-57.25
+Odisha,29 April,-82,-36,-39,-57,-39,17,-53.5
+Odisha,30 April,-81,-39,-33,-59,-39,19,-54.5
+Odisha,01 May,-82,-40,-37,-60,-42,21,-56.0
+Odisha,02 May,-82,-40,-37,-60,-42,21,-56.0
+Odisha,03 May,-82,-40,-37,-60,-42,21,-56.0
+Odisha,04 May,-79,-35,-34,-58,-36,19,-52.0
+Odisha,05 May,-78,-34,-33,-55,-35,17,-50.5
+Odisha,06 May,-76,-24,-35,-50,-31,13,-45.25
+Odisha,07 May,-75,-26,-33,-52,-32,16,-46.25
+Odisha,08 May,-75,-26,-35,-52,-30,17,-45.75
+Odisha,09 May,-75,-26,-35,-52,-30,17,-45.75
+Odisha,10 May,-75,-26,-35,-52,-30,17,-45.75
+Odisha,11 May,-74,-25,-32,-52,-31,17,-45.5
+Odisha,12 May,-75,-27,-33,-51,-31,16,-46.0
+Odisha,13 May,-73,-19,-33,-46,-27,12,-41.25
+Odisha,14 May,-74,-27,-31,-50,-29,14,-45.0
+Odisha,15 May,-71,-18,-30,-46,-26,14,-40.25
+Odisha,16 May,-71,-18,-30,-46,-26,14,-40.25
+Odisha,17 May,-71,-18,-30,-46,-26,14,-40.25
+Odisha,18 May,-70,-15,-29,-46,-27,15,-39.5
+Odisha,19 May,-72,-22,-32,-48,-29,15,-42.75
+Odisha,20 May,-78,-41,-36,-56,-40,17,-53.75
+Odisha,21 May,-67,-11,-29,-40,-26,11,-36.0
+Odisha,22 May,-71,-23,-32,-48,-30,15,-43.0
+Odisha,23 May,-71,-23,-32,-48,-30,15,-43.0
+Odisha,24 May,-71,-23,-32,-48,-30,15,-43.0
+Odisha,25 May,-67,-14,-27,-44,-35,15,-40.0
+Odisha,26 May,-67,-16,-28,-41,-25,11,-37.25
+Odisha,27 May,-65,-6,-30,-36,-20,8,-31.75
+Odisha,28 May,-67,-17,-29,-41,-23,11,-37.0
+Odisha,29 May,-65,-10,-29,-39,-21,11,-33.75
+Odisha,30 May,-65,-10,-29,-39,-21,11,-33.75
+Odisha,31 May,-65,-10,-29,-39,-21,11,-33.75
+Odisha,01 June,-65,-11,-29,-39,-22,11,-34.25
+Odisha,02 June,-66,-15,-29,-40,-23,11,-36.0
+Odisha,03 June,-62,2,-28,-29,-18,6,-26.75
+Odisha,04 June,-63,-4,-26,-34,-20,9,-30.25
+Odisha,05 June,-57,7,-21,-31,-19,8,-25.0
+Puducherry,15 February,-1,-3,18,5,7,1,2.0
+Puducherry,16 February,-4,1,17,2,1,3,0.0
+Puducherry,17 February,-5,-6,10,-2,10,2,-0.75
+Puducherry,18 February,-3,-7,12,-3,6,1,-1.75
+Puducherry,19 February,-6,-3,8,-4,10,1,-0.75
+Puducherry,20 February,-7,-4,9,2,9,2,0.0
+Puducherry,21 February,-1,-1,47,4,6,1,2.0
+Puducherry,22 February,-1,-1,47,4,6,1,2.0
+Puducherry,23 February,-1,-1,47,4,6,1,2.0
+Puducherry,24 February,-8,-6,8,-5,10,2,-2.25
+Puducherry,25 February,-5,-8,12,-2,4,1,-2.75
+Puducherry,26 February,-5,-6,11,1,6,0,-1.0
+Puducherry,27 February,-10,-9,10,0,8,2,-2.75
+Puducherry,28 February,0,-5,27,-1,8,2,0.5
+Puducherry,29 February,0,-5,27,-1,8,2,0.5
+Puducherry,01 March,0,-5,27,-1,8,2,0.5
+Puducherry,02 March,-3,-4,26,-3,11,1,0.25
+Puducherry,03 March,-4,-5,26,-2,7,1,-1.0
+Puducherry,04 March,-5,1,29,0,11,0,1.75
+Puducherry,05 March,-6,-6,30,3,8,1,-0.25
+Puducherry,06 March,-4,-3,29,1,9,1,0.75
+Puducherry,07 March,-4,-3,29,1,9,1,0.75
+Puducherry,08 March,-4,-3,29,1,9,1,0.75
+Puducherry,09 March,-2,-8,56,1,1,2,-2.0
+Puducherry,10 March,-4,-3,40,2,2,2,-0.75
+Puducherry,11 March,-6,-1,32,1,9,1,0.75
+Puducherry,12 March,-7,-5,28,1,9,2,-0.5
+Puducherry,13 March,-7,-7,27,-2,8,2,-2.0
+Puducherry,14 March,-7,-7,27,-2,8,2,-2.0
+Puducherry,15 March,-7,-7,27,-2,8,2,-2.0
+Puducherry,16 March,-9,-8,21,-4,8,3,-3.25
+Puducherry,17 March,-9,-8,19,-4,0,4,-5.25
+Puducherry,18 March,-12,6,12,-7,-3,5,-4.0
+Puducherry,19 March,-21,-1,5,-12,-5,7,-9.75
+Puducherry,20 March,-24,6,-6,-18,-7,8,-10.75
+Puducherry,21 March,-24,6,-6,-18,-7,8,-10.75
+Puducherry,22 March,-24,6,-6,-18,-7,8,-10.75
+Puducherry,23 March,-43,-4,-31,-42,-24,15,-28.25
+Puducherry,24 March,-70,-37,-48,-60,-56,26,-55.75
+Puducherry,25 March,-84,-73,-62,-72,-69,37,-74.5
+Puducherry,26 March,-83,-69,-64,-70,-69,38,-72.75
+Puducherry,27 March,-83,-62,-64,-72,-68,38,-71.25
+Puducherry,28 March,-83,-62,-64,-72,-68,38,-71.25
+Puducherry,29 March,-83,-62,-64,-72,-68,38,-71.25
+Puducherry,30 March,-81,-60,-61,-72,-64,36,-69.25
+Puducherry,31 March,-81,-72,-60,-67,-66,35,-71.5
+Puducherry,01 April,-82,-67,-61,-67,-66,36,-70.5
+Puducherry,02 April,-82,-68,-61,-66,-67,38,-70.75
+Puducherry,03 April,-82,-64,-60,-67,-65,38,-69.5
+Puducherry,04 April,-82,-64,-60,-67,-65,38,-69.5
+Puducherry,05 April,-82,-64,-60,-67,-65,38,-69.5
+Puducherry,06 April,-82,-68,-59,-69,-65,38,-71.0
+Puducherry,07 April,-87,-62,-53,-57,-65,35,-67.75
+Puducherry,08 April,-87,-58,-51,-57,-63,35,-66.25
+Puducherry,09 April,-87,-58,-54,-56,-64,38,-66.25
+Puducherry,10 April,-88,-60,-56,-59,-68,40,-68.75
+Puducherry,11 April,-88,-60,-56,-59,-68,40,-68.75
+Puducherry,12 April,-88,-60,-56,-59,-68,40,-68.75
+Puducherry,13 April,-87,-56,-55,-60,-61,37,-66.0
+Puducherry,14 April,-89,-67,-55,-60,-70,38,-71.5
+Puducherry,15 April,-87,-58,-53,-57,-59,35,-65.25
+Puducherry,16 April,-88,-54,-76,-51,-59,37,-63.0
+Puducherry,17 April,-89,-52,-77,-54,-58,38,-63.25
+Puducherry,18 April,-89,-52,-77,-54,-58,38,-63.25
+Puducherry,19 April,-89,-52,-77,-54,-58,38,-63.25
+Puducherry,20 April,-87,-53,-77,-53,-50,34,-60.75
+Puducherry,21 April,-87,-54,-76,-50,-54,33,-61.25
+Puducherry,22 April,-88,-50,-76,-50,-53,33,-60.25
+Puducherry,23 April,-87,-52,-76,-49,-53,36,-60.25
+Puducherry,24 April,-88,-47,-78,-51,-53,36,-59.75
+Puducherry,25 April,-88,-47,-78,-51,-53,36,-59.75
+Puducherry,26 April,-88,-47,-78,-51,-53,36,-59.75
+Puducherry,27 April,-88,-53,-78,-56,-53,37,-62.5
+Puducherry,28 April,-87,-54,-75,-51,-55,33,-61.75
+Puducherry,29 April,-87,-48,-75,-49,-52,34,-59.0
+Puducherry,30 April,-86,-50,-75,-47,-51,35,-58.5
+Puducherry,01 May,-87,-49,-78,-53,-62,38,-62.75
+Puducherry,02 May,-87,-49,-78,-53,-62,38,-62.75
+Puducherry,03 May,-87,-49,-78,-53,-62,38,-62.75
+Puducherry,04 May,-74,-29,-77,-47,-38,29,-47.0
+Puducherry,05 May,-74,-31,-75,-42,-41,28,-47.0
+Puducherry,06 May,-72,-17,-74,-40,-37,28,-41.5
+Puducherry,07 May,-72,-19,-75,-35,-38,29,-41.0
+Puducherry,08 May,-73,-20,-75,-39,-35,30,-41.75
+Puducherry,09 May,-73,-20,-75,-39,-35,30,-41.75
+Puducherry,10 May,-73,-20,-75,-39,-35,30,-41.75
+Puducherry,11 May,-70,-18,-74,-40,-32,28,-40.0
+Puducherry,12 May,-72,-25,-74,-38,-37,27,-43.0
+Puducherry,13 May,-69,-16,-73,-34,-32,25,-37.75
+Puducherry,14 May,-68,-17,-74,-34,-31,26,-37.5
+Puducherry,15 May,-69,-15,-75,-36,-30,27,-37.5
+Puducherry,16 May,-69,-15,-75,-36,-30,27,-37.5
+Puducherry,17 May,-69,-15,-75,-36,-30,27,-37.5
+Puducherry,18 May,-65,-15,-74,-37,-26,25,-35.75
+Puducherry,19 May,-63,-18,-74,-34,-31,24,-36.5
+Puducherry,20 May,-60,-6,-73,-32,-27,23,-31.25
+Puducherry,21 May,-62,-12,-74,-30,-27,25,-32.75
+Puducherry,22 May,-64,-11,-75,-35,-26,26,-34.0
+Puducherry,23 May,-64,-11,-75,-35,-26,26,-34.0
+Puducherry,24 May,-64,-11,-75,-35,-26,26,-34.0
+Puducherry,25 May,-61,-15,-73,-34,-40,27,-37.5
+Puducherry,26 May,-61,-22,-72,-31,-28,23,-35.5
+Puducherry,27 May,-60,-10,-72,-27,-25,22,-30.5
+Puducherry,28 May,-62,-15,-74,-26,-24,24,-31.75
+Puducherry,29 May,-63,-12,-74,-31,-23,25,-32.25
+Puducherry,30 May,-63,-12,-74,-31,-23,25,-32.25
+Puducherry,31 May,-63,-12,-74,-31,-23,25,-32.25
+Puducherry,01 June,-55,-1,-72,-27,-21,21,-26.0
+Puducherry,02 June,-55,-10,-70,-24,-25,20,-28.5
+Puducherry,03 June,-55,3,-70,-21,-23,19,-24.0
+Puducherry,04 June,-57,-3,-71,-20,-22,21,-25.5
+Puducherry,05 June,-57,-7,-73,-31,-20,22,-28.75
+Punjab,15 February,1,2,4,3,6,-1,3.0
+Punjab,16 February,-1,-1,3,0,2,0,0.0
+Punjab,17 February,5,8,12,8,7,-2,7.0
+Punjab,18 February,2,3,6,4,4,-2,3.25
+Punjab,19 February,-2,-2,3,2,6,0,1.0
+Punjab,20 February,-2,-4,1,5,5,0,1.0
+Punjab,21 February,-2,-1,6,-5,-21,5,-7.25
+Punjab,22 February,-2,-1,6,-5,-21,5,-7.25
+Punjab,23 February,-2,-1,6,-5,-21,5,-7.25
+Punjab,24 February,5,8,13,10,7,-2,7.5
+Punjab,25 February,2,2,6,3,3,-2,2.5
+Punjab,26 February,0,-2,6,2,4,-1,1.0
+Punjab,27 February,1,-2,5,1,4,0,1.0
+Punjab,28 February,0,-3,4,0,5,0,0.5
+Punjab,29 February,0,-3,4,0,5,0,0.5
+Punjab,01 March,0,-3,4,0,5,0,0.5
+Punjab,02 March,7,10,14,8,7,-2,8.0
+Punjab,03 March,2,4,7,4,4,-2,3.5
+Punjab,04 March,1,3,5,4,6,-1,3.5
+Punjab,05 March,-3,-1,0,0,6,0,0.5
+Punjab,06 March,-16,-18,-16,-9,3,3,-10.0
+Punjab,07 March,-16,-18,-16,-9,3,3,-10.0
+Punjab,08 March,-16,-18,-16,-9,3,3,-10.0
+Punjab,09 March,8,14,17,8,-3,-1,6.75
+Punjab,10 March,-11,-17,4,-14,-53,9,-23.75
+Punjab,11 March,-9,-9,-8,1,-1,1,-4.5
+Punjab,12 March,-2,1,-1,0,4,-1,0.75
+Punjab,13 March,-3,-1,-1,-1,5,0,0.0
+Punjab,14 March,-3,-1,-1,-1,5,0,0.0
+Punjab,15 March,-3,-1,-1,-1,5,0,0.0
+Punjab,16 March,0,12,11,5,0,-1,4.25
+Punjab,17 March,-6,4,4,-4,-5,-1,-2.75
+Punjab,18 March,-8,3,2,-6,-4,1,-3.75
+Punjab,19 March,-8,18,0,-8,-5,1,-0.75
+Punjab,20 March,-22,-1,-10,-20,-12,5,-13.75
+Punjab,21 March,-22,-1,-10,-20,-12,5,-13.75
+Punjab,22 March,-22,-1,-10,-20,-12,5,-13.75
+Punjab,23 March,-69,-56,-46,-67,-58,20,-62.5
+Punjab,24 March,-81,-77,-58,-78,-74,26,-77.5
+Punjab,25 March,-81,-76,-60,-79,-74,29,-77.5
+Punjab,26 March,-79,-73,-59,-78,-73,28,-75.75
+Punjab,27 March,-80,-73,-59,-78,-72,29,-75.75
+Punjab,28 March,-80,-73,-59,-78,-72,29,-75.75
+Punjab,29 March,-80,-73,-59,-78,-72,29,-75.75
+Punjab,30 March,-75,-64,-51,-74,-66,24,-69.75
+Punjab,31 March,-77,-70,-56,-75,-68,24,-72.5
+Punjab,01 April,-78,-73,-56,-76,-69,26,-74.0
+Punjab,02 April,-78,-73,-58,-77,-70,28,-74.5
+Punjab,03 April,-77,-71,-56,-76,-66,27,-72.5
+Punjab,04 April,-77,-71,-56,-76,-66,27,-72.5
+Punjab,05 April,-77,-71,-56,-76,-66,27,-72.5
+Punjab,06 April,-77,-67,-51,-75,-67,25,-71.5
+Punjab,07 April,-79,-61,-48,-72,-67,24,-69.75
+Punjab,08 April,-79,-62,-49,-72,-67,27,-70.0
+Punjab,09 April,-79,-61,-50,-72,-67,27,-69.75
+Punjab,10 April,-80,-62,-50,-74,-69,29,-71.25
+Punjab,11 April,-80,-62,-50,-74,-69,29,-71.25
+Punjab,12 April,-80,-62,-50,-74,-69,29,-71.25
+Punjab,13 April,-78,-58,-46,-72,-65,26,-68.25
+Punjab,14 April,-78,-61,-48,-72,-69,25,-70.0
+Punjab,15 April,-78,-57,-50,-70,-64,26,-67.25
+Punjab,16 April,-84,-49,-75,-70,-64,26,-66.75
+Punjab,17 April,-84,-49,-74,-70,-63,27,-66.5
+Punjab,18 April,-84,-49,-74,-70,-63,27,-66.5
+Punjab,19 April,-84,-49,-74,-70,-63,27,-66.5
+Punjab,20 April,-84,-49,-75,-70,-63,25,-66.5
+Punjab,21 April,-84,-49,-75,-70,-64,23,-66.75
+Punjab,22 April,-84,-51,-77,-70,-64,25,-67.25
+Punjab,23 April,-84,-52,-76,-71,-64,26,-67.75
+Punjab,24 April,-84,-51,-76,-71,-62,27,-67.0
+Punjab,25 April,-84,-51,-76,-71,-62,27,-67.0
+Punjab,26 April,-84,-51,-76,-71,-62,27,-67.0
+Punjab,27 April,-83,-46,-74,-69,-61,25,-64.75
+Punjab,28 April,-83,-48,-75,-68,-62,23,-65.25
+Punjab,29 April,-83,-48,-75,-68,-61,25,-65.0
+Punjab,30 April,-83,-48,-75,-69,-61,26,-65.25
+Punjab,01 May,-84,-49,-75,-70,-60,26,-65.75
+Punjab,02 May,-84,-49,-75,-70,-60,26,-65.75
+Punjab,03 May,-84,-49,-75,-70,-60,26,-65.75
+Punjab,04 May,-81,-38,-72,-65,-55,22,-59.75
+Punjab,05 May,-80,-40,-73,-64,-56,22,-60.0
+Punjab,06 May,-79,-38,-74,-62,-53,23,-58.0
+Punjab,07 May,-78,-34,-73,-61,-52,23,-56.25
+Punjab,08 May,-77,-32,-73,-61,-49,22,-54.75
+Punjab,09 May,-77,-32,-73,-61,-49,22,-54.75
+Punjab,10 May,-77,-32,-73,-61,-49,22,-54.75
+Punjab,11 May,-74,-21,-70,-55,-44,18,-48.5
+Punjab,12 May,-74,-25,-71,-56,-46,18,-50.25
+Punjab,13 May,-74,-25,-72,-55,-44,19,-49.5
+Punjab,14 May,-73,-25,-72,-56,-43,18,-49.25
+Punjab,15 May,-69,-14,-71,-51,-39,17,-43.25
+Punjab,16 May,-69,-14,-71,-51,-39,17,-43.25
+Punjab,17 May,-69,-14,-71,-51,-39,17,-43.25
+Punjab,18 May,-64,0,-69,-46,-34,14,-36.0
+Punjab,19 May,-64,-5,-70,-46,-36,13,-37.75
+Punjab,20 May,-64,-8,-70,-45,-34,15,-37.75
+Punjab,21 May,-64,-7,-71,-48,-33,15,-38.0
+Punjab,22 May,-64,-7,-71,-47,-32,15,-37.5
+Punjab,23 May,-64,-7,-71,-47,-32,15,-37.5
+Punjab,24 May,-64,-7,-71,-47,-32,15,-37.5
+Punjab,25 May,-60,4,-68,-44,-39,14,-34.75
+Punjab,26 May,-62,-4,-70,-46,-35,12,-36.75
+Punjab,27 May,-61,-4,-71,-43,-30,13,-34.5
+Punjab,28 May,-62,-5,-71,-46,-30,14,-35.75
+Punjab,29 May,-61,-1,-70,-44,-29,14,-33.75
+Punjab,30 May,-61,-1,-70,-44,-29,14,-33.75
+Punjab,31 May,-61,-1,-70,-44,-29,14,-33.75
+Punjab,01 June,-55,13,-68,-38,-25,10,-26.25
+Punjab,02 June,-57,4,-69,-41,-28,10,-30.5
+Punjab,03 June,-57,2,-70,-40,-27,11,-30.5
+Punjab,04 June,-58,1,-70,-42,-26,11,-31.25
+Punjab,05 June,-55,3,-67,-42,-28,12,-30.5
+Rajasthan,15 February,2,2,4,4,5,-1,3.25
+Rajasthan,16 February,3,1,4,3,0,-1,1.75
+Rajasthan,17 February,2,1,4,4,3,-2,2.5
+Rajasthan,18 February,3,4,7,5,5,-1,4.25
+Rajasthan,19 February,3,5,5,4,7,0,4.75
+Rajasthan,20 February,2,6,5,8,5,-1,5.25
+Rajasthan,21 February,-3,1,7,-2,-17,4,-5.25
+Rajasthan,22 February,-3,1,7,-2,-17,4,-5.25
+Rajasthan,23 February,-3,1,7,-2,-17,4,-5.25
+Rajasthan,24 February,3,3,8,8,1,-2,3.75
+Rajasthan,25 February,6,3,16,9,-3,-3,3.75
+Rajasthan,26 February,5,2,11,8,0,-3,3.75
+Rajasthan,27 February,1,2,7,5,2,-1,2.5
+Rajasthan,28 February,0,1,7,3,4,-1,2.0
+Rajasthan,29 February,0,1,7,3,4,-1,2.0
+Rajasthan,01 March,0,1,7,3,4,-1,2.0
+Rajasthan,02 March,2,4,7,5,4,-1,3.75
+Rajasthan,03 March,1,4,9,6,6,0,4.25
+Rajasthan,04 March,1,6,5,6,7,0,5.0
+Rajasthan,05 March,-4,1,0,3,4,1,1.0
+Rajasthan,06 March,-5,0,-1,2,5,1,0.5
+Rajasthan,07 March,-5,0,-1,2,5,1,0.5
+Rajasthan,08 March,-5,0,-1,2,5,1,0.5
+Rajasthan,09 March,-3,8,4,-2,-25,3,-5.5
+Rajasthan,10 March,-34,-40,-7,-31,-64,11,-42.25
+Rajasthan,11 March,-3,2,2,9,-12,-2,-1.0
+Rajasthan,12 March,-3,2,2,8,-2,-1,1.25
+Rajasthan,13 March,-4,3,2,3,1,0,0.75
+Rajasthan,14 March,-4,3,2,3,1,0,0.75
+Rajasthan,15 March,-4,3,2,3,1,0,0.75
+Rajasthan,16 March,-9,-6,0,-4,-11,2,-7.5
+Rajasthan,17 March,-8,-1,3,-2,-4,0,-3.75
+Rajasthan,18 March,-8,0,0,-5,-2,1,-3.75
+Rajasthan,19 March,-12,4,-5,-7,-5,2,-5.0
+Rajasthan,20 March,-22,-1,-14,-12,-8,4,-10.75
+Rajasthan,21 March,-22,-1,-14,-12,-8,4,-10.75
+Rajasthan,22 March,-22,-1,-14,-12,-8,4,-10.75
+Rajasthan,23 March,-63,-50,-45,-62,-55,18,-57.5
+Rajasthan,24 March,-71,-61,-50,-69,-63,23,-66.0
+Rajasthan,25 March,-74,-65,-54,-72,-66,25,-69.25
+Rajasthan,26 March,-74,-65,-54,-72,-65,25,-69.0
+Rajasthan,27 March,-74,-65,-53,-72,-64,25,-68.75
+Rajasthan,28 March,-74,-65,-53,-72,-64,25,-68.75
+Rajasthan,29 March,-74,-65,-53,-72,-64,25,-68.75
+Rajasthan,30 March,-73,-64,-53,-72,-63,24,-68.0
+Rajasthan,31 March,-73,-63,-51,-72,-62,23,-67.5
+Rajasthan,01 April,-73,-64,-53,-72,-63,24,-68.0
+Rajasthan,02 April,-74,-65,-54,-73,-65,25,-69.25
+Rajasthan,03 April,-74,-64,-54,-72,-61,24,-67.75
+Rajasthan,04 April,-74,-64,-54,-72,-61,24,-67.75
+Rajasthan,05 April,-74,-64,-54,-72,-61,24,-67.75
+Rajasthan,06 April,-74,-64,-55,-73,-64,25,-68.75
+Rajasthan,07 April,-74,-51,-58,-67,-62,23,-63.5
+Rajasthan,08 April,-74,-51,-59,-68,-61,24,-63.5
+Rajasthan,09 April,-75,-52,-60,-68,-62,26,-64.25
+Rajasthan,10 April,-75,-51,-60,-69,-62,26,-64.25
+Rajasthan,11 April,-75,-51,-60,-69,-62,26,-64.25
+Rajasthan,12 April,-75,-51,-60,-69,-62,26,-64.25
+Rajasthan,13 April,-75,-53,-60,-69,-61,26,-64.5
+Rajasthan,14 April,-74,-51,-57,-67,-62,25,-63.5
+Rajasthan,15 April,-74,-46,-60,-66,-58,25,-61.0
+Rajasthan,16 April,-83,-35,-76,-65,-60,26,-60.75
+Rajasthan,17 April,-83,-35,-76,-66,-59,26,-60.75
+Rajasthan,18 April,-83,-35,-76,-66,-59,26,-60.75
+Rajasthan,19 April,-83,-35,-76,-66,-59,26,-60.75
+Rajasthan,20 April,-83,-41,-77,-66,-58,25,-62.0
+Rajasthan,21 April,-82,-37,-76,-64,-57,24,-60.0
+Rajasthan,22 April,-83,-38,-78,-65,-57,24,-60.75
+Rajasthan,23 April,-83,-40,-78,-66,-58,26,-61.75
+Rajasthan,24 April,-83,-37,-78,-66,-56,25,-60.5
+Rajasthan,25 April,-83,-37,-78,-66,-56,25,-60.5
+Rajasthan,26 April,-83,-37,-78,-66,-56,25,-60.5
+Rajasthan,27 April,-82,-38,-78,-65,-56,25,-60.25
+Rajasthan,28 April,-82,-35,-77,-63,-55,23,-58.75
+Rajasthan,29 April,-81,-33,-77,-62,-54,24,-57.5
+Rajasthan,30 April,-81,-34,-76,-62,-54,24,-57.75
+Rajasthan,01 May,-82,-34,-77,-63,-54,24,-58.25
+Rajasthan,02 May,-82,-34,-77,-63,-54,24,-58.25
+Rajasthan,03 May,-82,-34,-77,-63,-54,24,-58.25
+Rajasthan,04 May,-78,-28,-76,-58,-48,21,-53.0
+Rajasthan,05 May,-78,-24,-75,-56,-47,20,-51.25
+Rajasthan,06 May,-77,-22,-75,-55,-45,21,-49.75
+Rajasthan,07 May,-77,-22,-74,-55,-46,21,-50.0
+Rajasthan,08 May,-77,-21,-75,-56,-44,21,-49.5
+Rajasthan,09 May,-77,-21,-75,-56,-44,21,-49.5
+Rajasthan,10 May,-77,-21,-75,-56,-44,21,-49.5
+Rajasthan,11 May,-77,-23,-74,-56,-44,21,-50.0
+Rajasthan,12 May,-77,-20,-73,-54,-44,20,-48.75
+Rajasthan,13 May,-76,-19,-73,-53,-42,19,-47.5
+Rajasthan,14 May,-75,-17,-73,-51,-42,18,-46.25
+Rajasthan,15 May,-74,-13,-72,-50,-39,18,-44.0
+Rajasthan,16 May,-74,-13,-72,-50,-39,18,-44.0
+Rajasthan,17 May,-74,-13,-72,-50,-39,18,-44.0
+Rajasthan,18 May,-72,-12,-72,-48,-37,17,-42.25
+Rajasthan,19 May,-71,-8,-71,-46,-35,16,-40.0
+Rajasthan,20 May,-69,-3,-71,-44,-33,16,-37.25
+Rajasthan,21 May,-69,-4,-71,-44,-34,17,-37.75
+Rajasthan,22 May,-70,-5,-71,-46,-33,17,-38.5
+Rajasthan,23 May,-70,-5,-71,-46,-33,17,-38.5
+Rajasthan,24 May,-70,-5,-71,-46,-33,17,-38.5
+Rajasthan,25 May,-69,-7,-71,-47,-41,17,-41.0
+Rajasthan,26 May,-67,1,-70,-41,-30,14,-34.25
+Rajasthan,27 May,-66,4,-70,-39,-28,14,-32.25
+Rajasthan,28 May,-66,4,-70,-39,-29,14,-32.5
+Rajasthan,29 May,-66,5,-70,-40,-28,14,-32.25
+Rajasthan,30 May,-66,5,-70,-40,-28,14,-32.25
+Rajasthan,31 May,-66,5,-70,-40,-28,14,-32.25
+Rajasthan,01 June,-61,12,-69,-35,-25,10,-27.25
+Rajasthan,02 June,-61,16,-68,-32,-25,10,-25.5
+Rajasthan,03 June,-60,16,-68,-31,-23,10,-24.5
+Rajasthan,04 June,-59,17,-68,-30,-24,10,-24.0
+Rajasthan,05 June,-58,16,-66,-32,-23,9,-24.25
+Sikkim,15 February,6,16,7,7,13,0,10.5
+Sikkim,16 February,1,13,5,6,2,2,5.5
+Sikkim,17 February,6,1,2,7,14,0,7.0
+Sikkim,18 February,6,6,5,6,14,0,8.0
+Sikkim,19 February,4,2,4,7,16,1,7.25
+Sikkim,20 February,8,8,11,5,17,1,9.5
+Sikkim,21 February,11,17,13,9,14,0,12.75
+Sikkim,22 February,11,17,13,9,14,0,12.75
+Sikkim,23 February,11,17,13,9,14,0,12.75
+Sikkim,24 February,-3,-10,-2,-27,-19,1,-14.75
+Sikkim,25 February,-8,-6,-4,-11,9,0,-4.0
+Sikkim,26 February,0,-5,2,-7,12,1,0.0
+Sikkim,27 February,8,8,9,3,17,0,9.0
+Sikkim,28 February,14,15,13,15,16,0,15.0
+Sikkim,29 February,14,15,13,15,16,0,15.0
+Sikkim,01 March,14,15,13,15,16,0,15.0
+Sikkim,02 March,3,1,8,2,14,0,5.0
+Sikkim,03 March,8,1,7,6,16,0,7.75
+Sikkim,04 March,13,8,12,12,18,1,12.75
+Sikkim,05 March,17,17,17,18,19,1,17.75
+Sikkim,06 March,22,28,23,17,18,-1,21.25
+Sikkim,07 March,22,28,23,17,18,-1,21.25
+Sikkim,08 March,22,28,23,17,18,-1,21.25
+Sikkim,09 March,18,11,31,-9,-21,3,-0.25
+Sikkim,10 March,0,0,19,-16,-37,5,-13.25
+Sikkim,11 March,16,14,21,19,14,-3,15.75
+Sikkim,12 March,17,16,20,28,14,-1,18.75
+Sikkim,13 March,11,16,11,12,15,-1,13.5
+Sikkim,14 March,11,16,11,12,15,-1,13.5
+Sikkim,15 March,11,16,11,12,15,-1,13.5
+Sikkim,16 March,17,6,7,11,16,0,12.5
+Sikkim,17 March,10,4,3,-4,13,0,5.75
+Sikkim,18 March,1,-5,-8,-7,7,1,-1.0
+Sikkim,19 March,-5,-12,-15,-18,4,3,-7.75
+Sikkim,20 March,-13,-15,-31,-33,2,3,-14.75
+Sikkim,21 March,-13,-15,-31,-33,2,3,-14.75
+Sikkim,22 March,-13,-15,-31,-33,2,3,-14.75
+Sikkim,23 March,-20,-25,-37,-45,-6,5,-24.0
+Sikkim,24 March,-16,-17,-32,-41,-11,3,-21.25
+Sikkim,25 March,-58,-71,-43,-71,-39,14,-59.75
+Sikkim,26 March,-57,-70,-41,-69,-39,15,-58.75
+Sikkim,27 March,-58,-67,-42,-72,-38,16,-58.75
+Sikkim,28 March,-58,-67,-42,-72,-38,16,-58.75
+Sikkim,29 March,-58,-67,-42,-72,-38,16,-58.75
+Sikkim,30 March,-56,-70,-45,-73,-39,16,-59.5
+Sikkim,31 March,-56,-71,-42,-69,-38,15,-58.5
+Sikkim,01 April,-59,-71,-41,-71,-39,15,-60.0
+Sikkim,02 April,-55,-70,-39,-71,-40,15,-59.0
+Sikkim,03 April,-55,-68,-39,-73,-36,16,-58.0
+Sikkim,04 April,-55,-68,-39,-73,-36,16,-58.0
+Sikkim,05 April,-55,-68,-39,-73,-36,16,-58.0
+Sikkim,06 April,-60,-71,-42,-75,-38,17,-61.0
+Sikkim,07 April,-65,-67,-39,-80,-38,15,-62.5
+Sikkim,08 April,-67,-65,-38,-78,-38,15,-62.0
+Sikkim,09 April,-66,-67,-40,-81,-38,17,-63.0
+Sikkim,10 April,-67,-65,-38,-81,-41,17,-63.5
+Sikkim,11 April,-67,-65,-38,-81,-41,17,-63.5
+Sikkim,12 April,-67,-65,-38,-81,-41,17,-63.5
+Sikkim,13 April,-66,-66,-41,-81,-37,18,-62.5
+Sikkim,14 April,-69,-68,-40,-81,-39,17,-64.25
+Sikkim,15 April,-65,-63,-37,-80,-32,15,-60.0
+Sikkim,16 April,-78,-65,-45,-75,-35,17,-63.25
+Sikkim,17 April,-77,-59,-42,-76,-32,16,-61.0
+Sikkim,18 April,-77,-59,-42,-76,-32,16,-61.0
+Sikkim,19 April,-77,-59,-42,-76,-32,16,-61.0
+Sikkim,20 April,-74,-60,-47,-70,-25,15,-57.25
+Sikkim,21 April,-75,-62,-47,-71,-28,13,-59.0
+Sikkim,22 April,-76,-63,-48,-72,-30,15,-60.25
+Sikkim,23 April,-75,-63,-46,-73,-30,16,-60.25
+Sikkim,24 April,-74,-61,-46,-74,-30,16,-59.75
+Sikkim,25 April,-74,-61,-46,-74,-30,16,-59.75
+Sikkim,26 April,-74,-61,-46,-74,-30,16,-59.75
+Sikkim,27 April,-75,-61,-47,-72,-28,16,-59.0
+Sikkim,28 April,-75,-63,-46,-70,-30,13,-59.5
+Sikkim,29 April,-73,-60,-43,-69,-27,14,-57.25
+Sikkim,30 April,-76,-61,-42,-69,-27,15,-58.25
+Sikkim,01 May,-75,-60,-44,-73,-35,17,-60.75
+Sikkim,02 May,-75,-60,-44,-73,-35,17,-60.75
+Sikkim,03 May,-75,-60,-44,-73,-35,17,-60.75
+Sikkim,04 May,-69,-45,-47,-67,-20,13,-50.25
+Sikkim,05 May,-68,-36,-43,-64,-20,11,-47.0
+Sikkim,06 May,-66,-35,-45,-62,-16,12,-44.75
+Sikkim,07 May,-68,-40,-43,-65,-25,13,-49.5
+Sikkim,08 May,-65,-27,-43,-58,-14,10,-41.0
+Sikkim,09 May,-65,-27,-43,-58,-14,10,-41.0
+Sikkim,10 May,-65,-27,-43,-58,-14,10,-41.0
+Sikkim,11 May,-64,-31,-46,-61,-13,11,-42.25
+Sikkim,12 May,-67,-35,-44,-59,-14,11,-43.75
+Sikkim,13 May,-65,-31,-43,-60,-14,10,-42.5
+Sikkim,14 May,-64,-34,-42,-58,-14,10,-42.5
+Sikkim,15 May,-63,-28,-42,-61,-11,9,-40.75
+Sikkim,16 May,-63,-28,-42,-61,-11,9,-40.75
+Sikkim,17 May,-63,-28,-42,-61,-11,9,-40.75
+Sikkim,18 May,-60,-25,-44,-57,-8,9,-37.5
+Sikkim,19 May,-62,-28,-43,-52,-11,8,-38.25
+Sikkim,20 May,-65,-32,-45,-56,-12,10,-41.25
+Sikkim,21 May,-63,-31,-40,-56,-12,10,-40.5
+Sikkim,22 May,-61,-20,-40,-56,-9,9,-36.5
+Sikkim,23 May,-61,-20,-40,-56,-9,9,-36.5
+Sikkim,24 May,-61,-20,-40,-56,-9,9,-36.5
+Sikkim,25 May,-67,-40,-47,-67,-28,12,-50.5
+Sikkim,26 May,-62,-31,-47,-55,-10,7,-39.5
+Sikkim,27 May,-62,-29,-46,-53,-7,9,-37.75
+Sikkim,28 May,-59,-27,-44,-54,-7,10,-36.75
+Sikkim,29 May,-61,-26,-45,-55,-6,10,-37.0
+Sikkim,30 May,-61,-26,-45,-55,-6,10,-37.0
+Sikkim,31 May,-61,-26,-45,-55,-6,10,-37.0
+Sikkim,01 June,-61,-24,-49,-52,-5,9,-35.5
+Sikkim,02 June,-61,-26,-44,-54,-7,8,-37.0
+Sikkim,03 June,-61,-20,-41,-50,-5,9,-34.0
+Sikkim,04 June,-60,-19,-42,-51,-5,9,-33.75
+Sikkim,05 June,-58,-31,-44,-66,-18,11,-43.25
+Tamil Nadu,15 February,1,0,3,2,6,0,2.25
+Tamil Nadu,16 February,0,3,2,-2,1,2,0.5
+Tamil Nadu,17 February,-4,1,-1,-3,8,2,0.5
+Tamil Nadu,18 February,0,1,2,-1,5,1,1.25
+Tamil Nadu,19 February,-1,1,0,1,7,1,2.0
+Tamil Nadu,20 February,-3,0,1,2,6,1,1.25
+Tamil Nadu,21 February,3,2,12,8,2,0,3.75
+Tamil Nadu,22 February,3,2,12,8,2,0,3.75
+Tamil Nadu,23 February,3,2,12,8,2,0,3.75
+Tamil Nadu,24 February,-4,0,-2,-2,8,2,0.5
+Tamil Nadu,25 February,5,0,1,3,4,0,3.0
+Tamil Nadu,26 February,2,-1,2,6,2,-1,2.25
+Tamil Nadu,27 February,-5,-2,-1,-1,7,2,-0.25
+Tamil Nadu,28 February,2,1,2,1,7,1,2.75
+Tamil Nadu,29 February,2,1,2,1,7,1,2.75
+Tamil Nadu,01 March,2,1,2,1,7,1,2.75
+Tamil Nadu,02 March,-1,3,-1,-2,8,1,2.0
+Tamil Nadu,03 March,1,3,3,-1,5,1,2.0
+Tamil Nadu,04 March,3,6,2,5,6,0,5.0
+Tamil Nadu,05 March,3,3,3,5,3,0,3.5
+Tamil Nadu,06 March,4,5,5,5,4,0,4.5
+Tamil Nadu,07 March,4,5,5,5,4,0,4.5
+Tamil Nadu,08 March,4,5,5,5,4,0,4.5
+Tamil Nadu,09 March,-1,4,3,0,5,1,2.0
+Tamil Nadu,10 March,1,4,4,-1,2,2,1.5
+Tamil Nadu,11 March,-1,4,1,2,5,0,2.5
+Tamil Nadu,12 March,-2,2,0,0,4,1,1.0
+Tamil Nadu,13 March,0,3,2,1,4,1,2.0
+Tamil Nadu,14 March,0,3,2,1,4,1,2.0
+Tamil Nadu,15 March,0,3,2,1,4,1,2.0
+Tamil Nadu,16 March,-7,5,-3,-5,5,3,-0.5
+Tamil Nadu,17 March,-8,7,-1,-5,-5,4,-2.75
+Tamil Nadu,18 March,-13,10,-7,-7,-6,5,-4.0
+Tamil Nadu,19 March,-17,7,-10,-12,-7,7,-7.25
+Tamil Nadu,20 March,-18,11,-12,-14,-10,7,-7.75
+Tamil Nadu,21 March,-18,11,-12,-14,-10,7,-7.75
+Tamil Nadu,22 March,-18,11,-12,-14,-10,7,-7.75
+Tamil Nadu,23 March,-26,21,-15,-24,-29,13,-14.5
+Tamil Nadu,24 March,-41,5,-17,-31,-48,17,-28.75
+Tamil Nadu,25 March,-79,-65,-39,-70,-75,34,-72.25
+Tamil Nadu,26 March,-80,-66,-41,-71,-74,37,-72.75
+Tamil Nadu,27 March,-80,-65,-41,-71,-74,36,-72.5
+Tamil Nadu,28 March,-80,-65,-41,-71,-74,36,-72.5
+Tamil Nadu,29 March,-80,-65,-41,-71,-74,36,-72.5
+Tamil Nadu,30 March,-79,-63,-41,-71,-72,36,-71.25
+Tamil Nadu,31 March,-77,-61,-38,-68,-72,33,-69.5
+Tamil Nadu,01 April,-78,-61,-40,-68,-72,34,-69.75
+Tamil Nadu,02 April,-78,-61,-40,-68,-72,35,-69.75
+Tamil Nadu,03 April,-77,-59,-39,-68,-71,35,-68.75
+Tamil Nadu,04 April,-77,-59,-39,-68,-71,35,-68.75
+Tamil Nadu,05 April,-77,-59,-39,-68,-71,35,-68.75
+Tamil Nadu,06 April,-79,-63,-37,-70,-72,36,-71.0
+Tamil Nadu,07 April,-82,-51,-27,-61,-71,33,-66.25
+Tamil Nadu,08 April,-82,-51,-29,-61,-71,33,-66.25
+Tamil Nadu,09 April,-83,-52,-31,-62,-71,36,-67.0
+Tamil Nadu,10 April,-83,-50,-30,-63,-73,36,-67.25
+Tamil Nadu,11 April,-83,-50,-30,-63,-73,36,-67.25
+Tamil Nadu,12 April,-83,-50,-30,-63,-73,36,-67.25
+Tamil Nadu,13 April,-82,-50,-31,-63,-69,36,-66.0
+Tamil Nadu,14 April,-83,-55,-29,-64,-74,36,-69.0
+Tamil Nadu,15 April,-82,-51,-28,-60,-69,34,-65.5
+Tamil Nadu,16 April,-87,-46,-40,-59,-69,36,-65.25
+Tamil Nadu,17 April,-86,-44,-40,-59,-69,36,-64.5
+Tamil Nadu,18 April,-86,-44,-40,-59,-69,36,-64.5
+Tamil Nadu,19 April,-86,-44,-40,-59,-69,36,-64.5
+Tamil Nadu,20 April,-87,-48,-43,-61,-66,35,-65.5
+Tamil Nadu,21 April,-86,-45,-41,-59,-68,33,-64.5
+Tamil Nadu,22 April,-86,-46,-42,-59,-67,33,-64.5
+Tamil Nadu,23 April,-87,-47,-43,-60,-67,36,-65.25
+Tamil Nadu,24 April,-86,-44,-43,-60,-67,35,-64.25
+Tamil Nadu,25 April,-86,-44,-43,-60,-67,35,-64.25
+Tamil Nadu,26 April,-86,-44,-43,-60,-67,35,-64.25
+Tamil Nadu,27 April,-90,-64,-45,-67,-70,39,-72.75
+Tamil Nadu,28 April,-89,-62,-42,-64,-71,35,-71.5
+Tamil Nadu,29 April,-88,-59,-42,-62,-69,35,-69.5
+Tamil Nadu,30 April,-84,-32,-41,-56,-65,34,-59.25
+Tamil Nadu,01 May,-86,-42,-43,-60,-70,36,-64.5
+Tamil Nadu,02 May,-86,-42,-43,-60,-70,36,-64.5
+Tamil Nadu,03 May,-86,-42,-43,-60,-70,36,-64.5
+Tamil Nadu,04 May,-82,-36,-42,-56,-58,32,-58.0
+Tamil Nadu,05 May,-81,-35,-40,-54,-60,31,-57.5
+Tamil Nadu,06 May,-80,-29,-41,-50,-57,29,-54.0
+Tamil Nadu,07 May,-79,-29,-39,-49,-56,30,-53.25
+Tamil Nadu,08 May,-79,-27,-40,-50,-55,29,-52.75
+Tamil Nadu,09 May,-79,-27,-40,-50,-55,29,-52.75
+Tamil Nadu,10 May,-79,-27,-40,-50,-55,29,-52.75
+Tamil Nadu,11 May,-75,-21,-41,-48,-48,28,-48.0
+Tamil Nadu,12 May,-74,-20,-39,-45,-50,27,-47.25
+Tamil Nadu,13 May,-74,-17,-39,-42,-47,25,-45.0
+Tamil Nadu,14 May,-73,-18,-40,-44,-47,26,-45.5
+Tamil Nadu,15 May,-72,-14,-39,-43,-46,26,-43.75
+Tamil Nadu,16 May,-72,-14,-39,-43,-46,26,-43.75
+Tamil Nadu,17 May,-72,-14,-39,-43,-46,26,-43.75
+Tamil Nadu,18 May,-70,-12,-40,-42,-41,24,-41.25
+Tamil Nadu,19 May,-69,-13,-38,-40,-44,23,-41.5
+Tamil Nadu,20 May,-67,-11,-38,-38,-42,23,-39.5
+Tamil Nadu,21 May,-68,-12,-39,-39,-42,25,-40.25
+Tamil Nadu,22 May,-67,-10,-39,-40,-41,24,-39.5
+Tamil Nadu,23 May,-67,-10,-39,-40,-41,24,-39.5
+Tamil Nadu,24 May,-67,-10,-39,-40,-41,24,-39.5
+Tamil Nadu,25 May,-66,-12,-37,-42,-48,25,-42.0
+Tamil Nadu,26 May,-64,-9,-37,-37,-40,21,-37.5
+Tamil Nadu,27 May,-64,-7,-36,-35,-39,20,-36.25
+Tamil Nadu,28 May,-66,-11,-40,-38,-38,23,-38.25
+Tamil Nadu,29 May,-64,-3,-38,-36,-37,22,-35.0
+Tamil Nadu,30 May,-64,-3,-38,-36,-37,22,-35.0
+Tamil Nadu,31 May,-64,-3,-38,-36,-37,22,-35.0
+Tamil Nadu,01 June,-60,1,-36,-33,-34,19,-31.5
+Tamil Nadu,02 June,-58,3,-35,-30,-36,19,-30.25
+Tamil Nadu,03 June,-58,5,-32,-26,-35,17,-28.5
+Tamil Nadu,04 June,-60,2,-36,-29,-34,20,-30.25
+Tamil Nadu,05 June,-56,3,-34,-31,-33,19,-29.25
+Telangana,15 February,2,0,1,4,1,0,1.75
+Telangana,16 February,1,4,7,2,0,1,1.75
+Telangana,17 February,0,3,5,2,4,1,2.25
+Telangana,18 February,1,3,5,3,4,1,2.75
+Telangana,19 February,0,4,5,5,6,0,3.75
+Telangana,20 February,2,9,5,7,4,0,5.5
+Telangana,21 February,-7,6,8,-5,-26,9,-8.0
+Telangana,22 February,-7,6,8,-5,-26,9,-8.0
+Telangana,23 February,-7,6,8,-5,-26,9,-8.0
+Telangana,24 February,2,2,6,4,5,1,3.25
+Telangana,25 February,2,2,7,6,4,0,3.5
+Telangana,26 February,3,1,10,7,3,-1,3.5
+Telangana,27 February,2,2,6,5,2,0,2.75
+Telangana,28 February,4,2,10,9,3,0,4.5
+Telangana,29 February,4,2,10,9,3,0,4.5
+Telangana,01 March,4,2,10,9,3,0,4.5
+Telangana,02 March,1,4,5,4,5,1,3.5
+Telangana,03 March,1,5,4,3,5,1,3.5
+Telangana,04 March,1,12,4,5,7,1,6.25
+Telangana,05 March,-2,7,1,1,2,2,2.0
+Telangana,06 March,-1,8,5,6,4,2,4.25
+Telangana,07 March,-1,8,5,6,4,2,4.25
+Telangana,08 March,-1,8,5,6,4,2,4.25
+Telangana,09 March,-9,-1,1,-15,-26,9,-12.75
+Telangana,10 March,-1,3,5,-1,-13,4,-3.0
+Telangana,11 March,0,4,5,5,2,0,2.75
+Telangana,12 March,-1,2,4,1,0,1,0.5
+Telangana,13 March,-2,3,7,4,0,1,1.25
+Telangana,14 March,-2,3,7,4,0,1,1.25
+Telangana,15 March,-2,3,7,4,0,1,1.25
+Telangana,16 March,-8,4,0,-2,-8,4,-3.5
+Telangana,17 March,-10,3,-1,-6,-12,4,-6.25
+Telangana,18 March,-10,5,-2,-4,-12,4,-5.25
+Telangana,19 March,-18,1,-9,-12,-19,6,-12.0
+Telangana,20 March,-20,8,-7,-12,-21,8,-11.25
+Telangana,21 March,-20,8,-7,-12,-21,8,-11.25
+Telangana,22 March,-20,8,-7,-12,-21,8,-11.25
+Telangana,23 March,-68,-23,-38,-58,-60,26,-52.25
+Telangana,24 March,-79,-45,-50,-70,-72,32,-66.5
+Telangana,25 March,-82,-57,-57,-75,-79,35,-73.25
+Telangana,26 March,-82,-59,-56,-76,-75,35,-73.0
+Telangana,27 March,-83,-59,-56,-76,-74,37,-73.0
+Telangana,28 March,-83,-59,-56,-76,-74,37,-73.0
+Telangana,29 March,-83,-59,-56,-76,-74,37,-73.0
+Telangana,30 March,-82,-61,-56,-76,-72,36,-72.75
+Telangana,31 March,-81,-60,-55,-75,-72,33,-72.0
+Telangana,01 April,-81,-61,-55,-75,-72,33,-72.25
+Telangana,02 April,-82,-63,-57,-76,-75,35,-74.0
+Telangana,03 April,-82,-60,-54,-74,-71,35,-71.75
+Telangana,04 April,-82,-60,-54,-74,-71,35,-71.75
+Telangana,05 April,-82,-60,-54,-74,-71,35,-71.75
+Telangana,06 April,-81,-62,-54,-75,-71,35,-72.25
+Telangana,07 April,-84,-52,-52,-70,-71,33,-69.25
+Telangana,08 April,-84,-52,-53,-69,-71,32,-69.0
+Telangana,09 April,-84,-52,-54,-70,-71,34,-69.25
+Telangana,10 April,-85,-52,-53,-70,-73,36,-70.0
+Telangana,11 April,-85,-52,-53,-70,-73,36,-70.0
+Telangana,12 April,-85,-52,-53,-70,-73,36,-70.0
+Telangana,13 April,-84,-54,-53,-71,-70,35,-69.75
+Telangana,14 April,-84,-54,-53,-70,-73,33,-70.25
+Telangana,15 April,-84,-52,-52,-68,-69,32,-68.25
+Telangana,16 April,-89,-47,-67,-68,-70,34,-68.5
+Telangana,17 April,-89,-48,-66,-68,-70,35,-68.75
+Telangana,18 April,-89,-48,-66,-68,-70,35,-68.75
+Telangana,19 April,-89,-48,-66,-68,-70,35,-68.75
+Telangana,20 April,-90,-53,-68,-71,-69,35,-70.75
+Telangana,21 April,-90,-53,-68,-70,-70,33,-70.75
+Telangana,22 April,-90,-55,-68,-71,-70,34,-71.5
+Telangana,23 April,-90,-53,-69,-71,-71,35,-71.25
+Telangana,24 April,-90,-50,-68,-70,-70,35,-70.0
+Telangana,25 April,-90,-50,-68,-70,-70,35,-70.0
+Telangana,26 April,-90,-50,-68,-70,-70,35,-70.0
+Telangana,27 April,-90,-52,-69,-71,-69,36,-70.5
+Telangana,28 April,-89,-51,-68,-69,-70,32,-69.75
+Telangana,29 April,-89,-49,-67,-68,-68,32,-68.5
+Telangana,30 April,-89,-49,-67,-69,-68,33,-68.75
+Telangana,01 May,-89,-48,-68,-69,-71,35,-69.25
+Telangana,02 May,-89,-48,-68,-69,-71,35,-69.25
+Telangana,03 May,-89,-48,-68,-69,-71,35,-69.25
+Telangana,04 May,-88,-46,-67,-67,-65,32,-66.5
+Telangana,05 May,-87,-44,-66,-65,-65,30,-65.25
+Telangana,06 May,-84,-33,-65,-57,-62,28,-59.0
+Telangana,07 May,-84,-34,-65,-58,-61,29,-59.25
+Telangana,08 May,-83,-30,-65,-55,-59,29,-56.75
+Telangana,09 May,-83,-30,-65,-55,-59,29,-56.75
+Telangana,10 May,-83,-30,-65,-55,-59,29,-56.75
+Telangana,11 May,-83,-33,-65,-57,-57,28,-57.5
+Telangana,12 May,-83,-32,-65,-56,-58,26,-57.25
+Telangana,13 May,-83,-31,-65,-55,-56,25,-56.25
+Telangana,14 May,-82,-31,-65,-56,-57,26,-56.5
+Telangana,15 May,-82,-29,-64,-54,-56,27,-55.25
+Telangana,16 May,-82,-29,-64,-54,-56,27,-55.25
+Telangana,17 May,-82,-29,-64,-54,-56,27,-55.25
+Telangana,18 May,-81,-30,-65,-55,-53,26,-54.75
+Telangana,19 May,-78,-24,-64,-50,-52,23,-51.0
+Telangana,20 May,-75,-19,-63,-47,-49,22,-47.5
+Telangana,21 May,-75,-20,-64,-48,-50,23,-48.25
+Telangana,22 May,-76,-20,-64,-48,-48,25,-48.0
+Telangana,23 May,-76,-20,-64,-48,-48,25,-48.0
+Telangana,24 May,-76,-20,-64,-48,-48,25,-48.0
+Telangana,25 May,-76,-24,-63,-52,-60,26,-53.0
+Telangana,26 May,-74,-20,-64,-47,-50,21,-47.75
+Telangana,27 May,-72,-15,-63,-43,-46,19,-44.0
+Telangana,28 May,-72,-15,-64,-44,-46,21,-44.25
+Telangana,29 May,-72,-13,-63,-43,-44,22,-43.0
+Telangana,30 May,-72,-13,-63,-43,-44,22,-43.0
+Telangana,31 May,-72,-13,-63,-43,-44,22,-43.0
+Telangana,01 June,-67,-4,-63,-39,-41,18,-37.75
+Telangana,02 June,-66,-3,-63,-38,-42,18,-37.25
+Telangana,03 June,-66,-1,-62,-35,-39,17,-35.25
+Telangana,04 June,-66,-3,-63,-37,-41,18,-36.75
+Telangana,05 June,-64,-2,-60,-36,-39,19,-35.25
+Tripura,15 February,3,9,2,5,6,0,5.75
+Tripura,16 February,1,0,-1,0,1,1,0.5
+Tripura,17 February,-2,-2,-1,-2,4,0,-0.5
+Tripura,18 February,0,0,-1,-4,5,1,0.25
+Tripura,19 February,-2,0,0,4,18,1,5.0
+Tripura,20 February,-1,1,3,3,8,0,2.75
+Tripura,21 February,2,1,1,-8,-16,5,-5.25
+Tripura,22 February,2,1,1,-8,-16,5,-5.25
+Tripura,23 February,2,1,1,-8,-16,5,-5.25
+Tripura,24 February,-2,0,-1,-1,5,0,0.5
+Tripura,25 February,-3,-3,-3,-4,3,2,-1.75
+Tripura,26 February,-5,-5,-1,2,16,1,2.0
+Tripura,27 February,-6,0,-1,-2,8,0,0.0
+Tripura,28 February,0,2,-1,-3,7,1,1.5
+Tripura,29 February,0,2,-1,-3,7,1,1.5
+Tripura,01 March,0,2,-1,-3,7,1,1.5
+Tripura,02 March,-3,1,0,-3,6,0,0.25
+Tripura,03 March,-2,0,-2,-3,4,1,-0.25
+Tripura,04 March,-1,4,-4,6,21,1,7.5
+Tripura,05 March,-1,5,-2,0,9,0,3.25
+Tripura,06 March,3,7,-3,0,10,1,5.0
+Tripura,07 March,3,7,-3,0,10,1,5.0
+Tripura,08 March,3,7,-3,0,10,1,5.0
+Tripura,09 March,-1,-3,-1,-9,-19,5,-8.0
+Tripura,10 March,-14,-6,-1,-8,-18,5,-11.5
+Tripura,11 March,0,3,-1,10,15,0,7.0
+Tripura,12 March,-5,1,-2,0,7,0,0.75
+Tripura,13 March,-2,2,-2,1,3,0,1.0
+Tripura,14 March,-2,2,-2,1,3,0,1.0
+Tripura,15 March,-2,2,-2,1,3,0,1.0
+Tripura,16 March,-5,-1,-4,1,2,1,-0.75
+Tripura,17 March,-7,-1,-4,2,-5,2,-2.75
+Tripura,18 March,-7,1,-4,7,6,2,1.75
+Tripura,19 March,-7,2,-2,-3,-2,2,-2.5
+Tripura,20 March,-9,1,-5,-6,-3,3,-4.25
+Tripura,21 March,-9,1,-5,-6,-3,3,-4.25
+Tripura,22 March,-9,1,-5,-6,-3,3,-4.25
+Tripura,23 March,-19,2,-10,-30,-14,6,-15.25
+Tripura,24 March,-47,-29,-20,-49,-30,13,-38.75
+Tripura,25 March,-68,-56,-29,-70,-44,23,-59.5
+Tripura,26 March,-69,-56,-28,-70,-49,23,-61.0
+Tripura,27 March,-67,-55,-30,-72,-50,24,-61.0
+Tripura,28 March,-67,-55,-30,-72,-50,24,-61.0
+Tripura,29 March,-67,-55,-30,-72,-50,24,-61.0
+Tripura,30 March,-67,-55,-27,-71,-48,23,-60.25
+Tripura,31 March,-65,-54,-27,-70,-47,22,-59.0
+Tripura,01 April,-66,-54,-28,-68,-40,22,-57.0
+Tripura,02 April,-66,-52,-28,-70,-44,21,-58.0
+Tripura,03 April,-63,-52,-26,-69,-44,19,-57.0
+Tripura,04 April,-63,-52,-26,-69,-44,19,-57.0
+Tripura,05 April,-63,-52,-26,-69,-44,19,-57.0
+Tripura,06 April,-64,-51,-22,-69,-45,21,-57.25
+Tripura,07 April,-70,-48,-18,-70,-49,23,-59.25
+Tripura,08 April,-70,-49,-19,-68,-43,24,-57.5
+Tripura,09 April,-68,-47,-18,-69,-46,23,-57.5
+Tripura,10 April,-69,-47,-20,-71,-51,24,-59.5
+Tripura,11 April,-69,-47,-20,-71,-51,24,-59.5
+Tripura,12 April,-69,-47,-20,-71,-51,24,-59.5
+Tripura,13 April,-68,-48,-17,-71,-51,26,-59.5
+Tripura,14 April,-66,-42,-14,-68,-55,23,-57.75
+Tripura,15 April,-70,-46,-13,-65,-36,21,-54.25
+Tripura,16 April,-84,-36,-10,-62,-40,18,-55.5
+Tripura,17 April,-84,-35,-12,-64,-41,21,-56.0
+Tripura,18 April,-84,-35,-12,-64,-41,21,-56.0
+Tripura,19 April,-84,-35,-12,-64,-41,21,-56.0
+Tripura,20 April,-86,-43,-15,-64,-50,22,-60.75
+Tripura,21 April,-84,-36,-14,-60,-44,20,-56.0
+Tripura,22 April,-84,-35,-15,-57,-27,18,-50.75
+Tripura,23 April,-84,-37,-15,-61,-33,19,-53.75
+Tripura,24 April,-82,-33,-16,-60,-33,18,-52.0
+Tripura,25 April,-82,-33,-16,-60,-33,18,-52.0
+Tripura,26 April,-82,-33,-16,-60,-33,18,-52.0
+Tripura,27 April,-82,-29,-15,-59,-31,18,-50.25
+Tripura,28 April,-81,-31,-15,-58,-31,18,-50.25
+Tripura,29 April,-80,-25,-12,-51,-19,17,-43.75
+Tripura,30 April,-81,-28,-11,-54,-26,17,-47.25
+Tripura,01 May,-80,-27,-14,-56,-28,17,-47.75
+Tripura,02 May,-80,-27,-14,-56,-28,17,-47.75
+Tripura,03 May,-80,-27,-14,-56,-28,17,-47.75
+Tripura,04 May,-76,-22,-11,-50,-24,16,-43.0
+Tripura,05 May,-77,-25,-13,-49,-24,17,-43.75
+Tripura,06 May,-77,-25,-13,-46,-15,16,-40.75
+Tripura,07 May,-75,-20,-10,-48,-34,16,-44.25
+Tripura,08 May,-74,-18,-12,-50,-28,15,-42.5
+Tripura,09 May,-74,-18,-12,-50,-28,15,-42.5
+Tripura,10 May,-74,-18,-12,-50,-28,15,-42.5
+Tripura,11 May,-74,-18,-11,-49,-20,15,-40.25
+Tripura,12 May,-74,-18,-10,-46,-21,15,-39.75
+Tripura,13 May,-75,-18,-12,-37,-9,15,-34.75
+Tripura,14 May,-71,-14,-10,-42,-15,12,-35.5
+Tripura,15 May,-69,-13,-9,-42,-14,13,-34.5
+Tripura,16 May,-69,-13,-9,-42,-14,13,-34.5
+Tripura,17 May,-69,-13,-9,-42,-14,13,-34.5
+Tripura,18 May,-69,-12,-9,-35,-17,12,-33.25
+Tripura,19 May,-69,-13,-10,-39,-17,13,-34.5
+Tripura,20 May,-71,-15,-11,-38,-5,14,-32.25
+Tripura,21 May,-72,-18,-11,-42,-14,13,-36.5
+Tripura,22 May,-67,-10,-10,-37,-13,12,-31.75
+Tripura,23 May,-67,-10,-10,-37,-13,12,-31.75
+Tripura,24 May,-67,-10,-10,-37,-13,12,-31.75
+Tripura,25 May,-68,-12,-1,-44,-35,16,-39.75
+Tripura,26 May,-67,-9,-4,-40,-16,11,-33.0
+Tripura,27 May,-76,-30,-11,-48,-15,13,-42.25
+Tripura,28 May,-68,-6,-1,-36,-14,7,-31.0
+Tripura,29 May,-67,-6,-6,-38,-13,10,-31.0
+Tripura,30 May,-67,-6,-6,-38,-13,10,-31.0
+Tripura,31 May,-67,-6,-6,-38,-13,10,-31.0
+Tripura,01 June,-63,-1,-5,-36,-13,10,-28.25
+Tripura,02 June,-65,-2,-7,-34,-13,11,-28.5
+Tripura,03 June,-67,-6,-9,-33,-1,12,-26.75
+Tripura,04 June,-69,-8,-7,-37,-9,11,-30.75
+Tripura,05 June,-59,3,-3,-32,-7,9,-23.75
+Uttar Pradesh,15 February,4,6,7,5,3,-1,4.5
+Uttar Pradesh,16 February,6,9,8,9,-1,-1,5.75
+Uttar Pradesh,17 February,3,7,7,8,3,-2,5.25
+Uttar Pradesh,18 February,6,7,7,8,2,-1,5.75
+Uttar Pradesh,19 February,2,6,5,5,3,-1,4.0
+Uttar Pradesh,20 February,4,6,8,11,4,-2,6.25
+Uttar Pradesh,21 February,-7,-5,3,-5,-22,5,-9.75
+Uttar Pradesh,22 February,-7,-5,3,-5,-22,5,-9.75
+Uttar Pradesh,23 February,-7,-5,3,-5,-22,5,-9.75
+Uttar Pradesh,24 February,0,4,4,6,2,-1,3.0
+Uttar Pradesh,25 February,5,5,8,7,-1,-1,4.0
+Uttar Pradesh,26 February,2,3,6,5,-2,-2,2.0
+Uttar Pradesh,27 February,2,3,6,6,2,-2,3.25
+Uttar Pradesh,28 February,1,3,7,5,2,-2,2.75
+Uttar Pradesh,29 February,1,3,7,5,2,-2,2.75
+Uttar Pradesh,01 March,1,3,7,5,2,-2,2.75
+Uttar Pradesh,02 March,4,8,7,6,2,-1,5.0
+Uttar Pradesh,03 March,3,8,7,7,3,-1,5.25
+Uttar Pradesh,04 March,1,8,3,4,4,0,4.25
+Uttar Pradesh,05 March,1,8,4,7,5,-1,5.25
+Uttar Pradesh,06 March,-3,0,0,8,1,1,1.5
+Uttar Pradesh,07 March,-3,0,0,8,1,1,1.5
+Uttar Pradesh,08 March,-3,0,0,8,1,1,1.5
+Uttar Pradesh,09 March,7,21,11,0,-27,4,0.25
+Uttar Pradesh,10 March,-40,-44,-9,-41,-65,15,-47.5
+Uttar Pradesh,11 March,-8,-6,4,-2,-30,2,-11.5
+Uttar Pradesh,12 March,2,4,7,11,-6,-2,2.75
+Uttar Pradesh,13 March,-5,-2,2,3,-3,0,-1.75
+Uttar Pradesh,14 March,-5,-2,2,3,-3,0,-1.75
+Uttar Pradesh,15 March,-5,-2,2,3,-3,0,-1.75
+Uttar Pradesh,16 March,-2,6,4,4,-4,1,1.0
+Uttar Pradesh,17 March,-3,4,3,-1,-6,1,-1.5
+Uttar Pradesh,18 March,-7,4,1,-5,-6,2,-3.5
+Uttar Pradesh,19 March,-9,5,0,-8,-7,2,-4.75
+Uttar Pradesh,20 March,-14,3,-3,-13,-11,3,-8.75
+Uttar Pradesh,21 March,-14,3,-3,-13,-11,3,-8.75
+Uttar Pradesh,22 March,-14,3,-3,-13,-11,3,-8.75
+Uttar Pradesh,23 March,-50,-33,-29,-58,-49,18,-47.5
+Uttar Pradesh,24 March,-57,-41,-35,-65,-57,20,-55.0
+Uttar Pradesh,25 March,-71,-63,-45,-76,-65,25,-68.75
+Uttar Pradesh,26 March,-70,-61,-44,-75,-63,24,-67.25
+Uttar Pradesh,27 March,-71,-63,-43,-75,-63,25,-68.0
+Uttar Pradesh,28 March,-71,-63,-43,-75,-63,25,-68.0
+Uttar Pradesh,29 March,-71,-63,-43,-75,-63,25,-68.0
+Uttar Pradesh,30 March,-69,-60,-43,-75,-61,24,-66.25
+Uttar Pradesh,31 March,-68,-60,-42,-75,-61,23,-66.0
+Uttar Pradesh,01 April,-70,-62,-44,-76,-62,24,-67.5
+Uttar Pradesh,02 April,-70,-62,-43,-76,-61,24,-67.25
+Uttar Pradesh,03 April,-69,-60,-41,-75,-59,23,-65.75
+Uttar Pradesh,04 April,-69,-60,-41,-75,-59,23,-65.75
+Uttar Pradesh,05 April,-69,-60,-41,-75,-59,23,-65.75
+Uttar Pradesh,06 April,-69,-58,-41,-76,-60,24,-65.75
+Uttar Pradesh,07 April,-69,-46,-33,-72,-60,23,-61.75
+Uttar Pradesh,08 April,-68,-39,-33,-71,-61,24,-59.75
+Uttar Pradesh,09 April,-72,-51,-38,-74,-62,26,-64.75
+Uttar Pradesh,10 April,-72,-50,-36,-74,-62,26,-64.5
+Uttar Pradesh,11 April,-72,-50,-36,-74,-62,26,-64.5
+Uttar Pradesh,12 April,-72,-50,-36,-74,-62,26,-64.5
+Uttar Pradesh,13 April,-71,-47,-36,-73,-59,26,-62.5
+Uttar Pradesh,14 April,-70,-47,-33,-72,-61,24,-62.5
+Uttar Pradesh,15 April,-70,-42,-34,-71,-58,24,-60.25
+Uttar Pradesh,16 April,-81,-32,-55,-70,-58,24,-60.25
+Uttar Pradesh,17 April,-82,-32,-54,-71,-58,25,-60.75
+Uttar Pradesh,18 April,-82,-32,-54,-71,-58,25,-60.75
+Uttar Pradesh,19 April,-82,-32,-54,-71,-58,25,-60.75
+Uttar Pradesh,20 April,-83,-36,-57,-71,-57,25,-61.75
+Uttar Pradesh,21 April,-82,-35,-57,-71,-58,24,-61.5
+Uttar Pradesh,22 April,-83,-36,-58,-71,-58,25,-62.0
+Uttar Pradesh,23 April,-83,-36,-57,-71,-58,25,-62.0
+Uttar Pradesh,24 April,-83,-35,-57,-71,-57,25,-61.5
+Uttar Pradesh,25 April,-83,-35,-57,-71,-57,25,-61.5
+Uttar Pradesh,26 April,-83,-35,-57,-71,-57,25,-61.5
+Uttar Pradesh,27 April,-83,-37,-57,-72,-57,26,-62.25
+Uttar Pradesh,28 April,-82,-34,-57,-70,-57,24,-60.75
+Uttar Pradesh,29 April,-82,-35,-56,-70,-57,25,-61.0
+Uttar Pradesh,30 April,-82,-36,-56,-70,-56,25,-61.0
+Uttar Pradesh,01 May,-83,-37,-56,-70,-56,24,-61.5
+Uttar Pradesh,02 May,-83,-37,-56,-70,-56,24,-61.5
+Uttar Pradesh,03 May,-83,-37,-56,-70,-56,24,-61.5
+Uttar Pradesh,04 May,-79,-27,-55,-67,-51,23,-56.0
+Uttar Pradesh,05 May,-79,-27,-56,-66,-51,22,-55.75
+Uttar Pradesh,06 May,-78,-23,-54,-64,-49,21,-53.5
+Uttar Pradesh,07 May,-78,-24,-54,-63,-52,22,-54.25
+Uttar Pradesh,08 May,-76,-20,-53,-61,-46,21,-50.75
+Uttar Pradesh,09 May,-76,-20,-53,-61,-46,21,-50.75
+Uttar Pradesh,10 May,-76,-20,-53,-61,-46,21,-50.75
+Uttar Pradesh,11 May,-76,-20,-52,-61,-45,20,-50.5
+Uttar Pradesh,12 May,-75,-18,-51,-60,-46,20,-49.75
+Uttar Pradesh,13 May,-75,-18,-51,-59,-45,20,-49.25
+Uttar Pradesh,14 May,-74,-17,-49,-57,-43,19,-47.75
+Uttar Pradesh,15 May,-73,-12,-47,-55,-41,18,-45.25
+Uttar Pradesh,16 May,-73,-12,-47,-55,-41,18,-45.25
+Uttar Pradesh,17 May,-73,-12,-47,-55,-41,18,-45.25
+Uttar Pradesh,18 May,-73,-10,-47,-56,-40,19,-44.75
+Uttar Pradesh,19 May,-71,-8,-46,-53,-39,18,-42.75
+Uttar Pradesh,20 May,-70,-6,-47,-53,-38,18,-41.75
+Uttar Pradesh,21 May,-69,-5,-46,-51,-37,18,-40.5
+Uttar Pradesh,22 May,-69,-4,-45,-51,-36,17,-40.0
+Uttar Pradesh,23 May,-69,-4,-45,-51,-36,17,-40.0
+Uttar Pradesh,24 May,-69,-4,-45,-51,-36,17,-40.0
+Uttar Pradesh,25 May,-72,-11,-45,-58,-48,20,-47.25
+Uttar Pradesh,26 May,-67,0,-45,-51,-35,16,-38.25
+Uttar Pradesh,27 May,-67,1,-46,-51,-35,15,-38.0
+Uttar Pradesh,28 May,-66,1,-44,-50,-33,16,-37.0
+Uttar Pradesh,29 May,-66,4,-43,-50,-32,15,-36.0
+Uttar Pradesh,30 May,-66,4,-43,-50,-32,15,-36.0
+Uttar Pradesh,31 May,-66,4,-43,-50,-32,15,-36.0
+Uttar Pradesh,01 June,-63,13,-43,-47,-30,13,-31.75
+Uttar Pradesh,02 June,-61,15,-42,-44,-30,12,-30.0
+Uttar Pradesh,03 June,-61,16,-43,-42,-29,12,-29.0
+Uttar Pradesh,04 June,-61,14,-43,-43,-28,13,-29.5
+Uttar Pradesh,05 June,-61,7,-42,-46,-29,13,-32.25
+Uttarakhand,15 February,5,4,7,13,4,-1,6.5
+Uttarakhand,16 February,5,2,6,12,0,0,4.75
+Uttarakhand,17 February,5,5,9,11,4,-1,6.25
+Uttarakhand,18 February,3,4,8,12,6,-1,6.25
+Uttarakhand,19 February,2,2,7,9,11,0,6.0
+Uttarakhand,20 February,5,6,13,17,7,-2,8.75
+Uttarakhand,21 February,-12,-15,7,-2,-26,8,-13.75
+Uttarakhand,22 February,-12,-15,7,-2,-26,8,-13.75
+Uttarakhand,23 February,-12,-15,7,-2,-26,8,-13.75
+Uttarakhand,24 February,6,7,8,13,5,-1,7.75
+Uttarakhand,25 February,2,2,5,11,5,-1,5.0
+Uttarakhand,26 February,2,1,6,10,8,-1,5.25
+Uttarakhand,27 February,2,-1,3,10,5,-1,4.0
+Uttarakhand,28 February,3,1,1,8,7,-1,4.75
+Uttarakhand,29 February,3,1,1,8,7,-1,4.75
+Uttarakhand,01 March,3,1,1,8,7,-1,4.75
+Uttarakhand,02 March,6,8,5,10,5,-1,7.25
+Uttarakhand,03 March,4,6,7,15,6,-1,7.75
+Uttarakhand,04 March,2,7,5,14,10,-1,8.25
+Uttarakhand,05 March,1,3,3,14,6,0,6.0
+Uttarakhand,06 March,-18,-21,-16,0,1,5,-9.5
+Uttarakhand,07 March,-18,-21,-16,0,1,5,-9.5
+Uttarakhand,08 March,-18,-21,-16,0,1,5,-9.5
+Uttarakhand,09 March,11,17,29,10,-27,4,2.75
+Uttarakhand,10 March,-37,-48,7,-21,-63,14,-42.25
+Uttarakhand,11 March,0,0,11,25,-12,0,3.25
+Uttarakhand,12 March,0,-1,5,18,-2,0,3.75
+Uttarakhand,13 March,-10,-10,-6,6,-3,4,-4.25
+Uttarakhand,14 March,-10,-10,-6,6,-3,4,-4.25
+Uttarakhand,15 March,-10,-10,-6,6,-3,4,-4.25
+Uttarakhand,16 March,3,10,8,13,-3,0,5.75
+Uttarakhand,17 March,-2,7,4,11,-4,1,3.0
+Uttarakhand,18 March,-6,3,0,6,-1,1,0.5
+Uttarakhand,19 March,-8,3,-3,0,-4,2,-2.25
+Uttarakhand,20 March,-15,0,-9,-5,-6,4,-6.5
+Uttarakhand,21 March,-15,0,-9,-5,-6,4,-6.5
+Uttarakhand,22 March,-15,0,-9,-5,-6,4,-6.5
+Uttarakhand,23 March,-57,-43,-34,-55,-49,17,-51.0
+Uttarakhand,24 March,-69,-61,-43,-65,-59,21,-63.5
+Uttarakhand,25 March,-70,-62,-46,-66,-61,24,-64.75
+Uttarakhand,26 March,-71,-65,-46,-67,-61,24,-66.0
+Uttarakhand,27 March,-72,-66,-48,-69,-60,25,-66.75
+Uttarakhand,28 March,-72,-66,-48,-69,-60,25,-66.75
+Uttarakhand,29 March,-72,-66,-48,-69,-60,25,-66.75
+Uttarakhand,30 March,-70,-62,-44,-67,-58,24,-64.25
+Uttarakhand,31 March,-69,-63,-44,-66,-57,22,-63.75
+Uttarakhand,01 April,-71,-65,-46,-68,-57,24,-65.25
+Uttarakhand,02 April,-72,-67,-48,-69,-60,25,-67.0
+Uttarakhand,03 April,-70,-64,-47,-68,-55,24,-64.25
+Uttarakhand,04 April,-70,-64,-47,-68,-55,24,-64.25
+Uttarakhand,05 April,-70,-64,-47,-68,-55,24,-64.25
+Uttarakhand,06 April,-70,-61,-46,-67,-56,24,-63.5
+Uttarakhand,07 April,-70,-50,-49,-61,-56,23,-59.25
+Uttarakhand,08 April,-71,-52,-52,-62,-55,24,-60.0
+Uttarakhand,09 April,-71,-52,-52,-64,-56,26,-60.75
+Uttarakhand,10 April,-72,-53,-53,-65,-58,27,-62.0
+Uttarakhand,11 April,-72,-53,-53,-65,-58,27,-62.0
+Uttarakhand,12 April,-72,-53,-53,-65,-58,27,-62.0
+Uttarakhand,13 April,-70,-50,-51,-63,-55,26,-59.5
+Uttarakhand,14 April,-70,-52,-50,-62,-57,24,-60.25
+Uttarakhand,15 April,-70,-47,-50,-59,-50,24,-56.5
+Uttarakhand,16 April,-77,-39,-60,-59,-53,25,-57.0
+Uttarakhand,17 April,-78,-39,-61,-61,-51,26,-57.25
+Uttarakhand,18 April,-78,-39,-61,-61,-51,26,-57.25
+Uttarakhand,19 April,-78,-39,-61,-61,-51,26,-57.25
+Uttarakhand,20 April,-78,-39,-60,-60,-52,25,-57.25
+Uttarakhand,21 April,-78,-39,-60,-59,-51,23,-56.75
+Uttarakhand,22 April,-78,-40,-61,-59,-49,24,-56.5
+Uttarakhand,23 April,-78,-41,-62,-61,-50,25,-57.5
+Uttarakhand,24 April,-78,-40,-62,-61,-48,25,-56.75
+Uttarakhand,25 April,-78,-40,-62,-61,-48,25,-56.75
+Uttarakhand,26 April,-78,-40,-62,-61,-48,25,-56.75
+Uttarakhand,27 April,-77,-37,-61,-60,-49,25,-55.75
+Uttarakhand,28 April,-77,-36,-60,-57,-48,22,-54.5
+Uttarakhand,29 April,-77,-36,-60,-56,-45,24,-53.5
+Uttarakhand,30 April,-78,-39,-60,-58,-46,24,-55.25
+Uttarakhand,01 May,-78,-38,-61,-60,-46,25,-55.5
+Uttarakhand,02 May,-78,-38,-61,-60,-46,25,-55.5
+Uttarakhand,03 May,-78,-38,-61,-60,-46,25,-55.5
+Uttarakhand,04 May,-70,-21,-57,-50,-38,20,-44.75
+Uttarakhand,05 May,-70,-20,-56,-48,-37,20,-43.75
+Uttarakhand,06 May,-68,-15,-56,-44,-32,19,-39.75
+Uttarakhand,07 May,-69,-20,-55,-47,-41,21,-44.25
+Uttarakhand,08 May,-67,-14,-55,-46,-31,19,-39.5
+Uttarakhand,09 May,-67,-14,-55,-46,-31,19,-39.5
+Uttarakhand,10 May,-67,-14,-55,-46,-31,19,-39.5
+Uttarakhand,11 May,-65,-9,-53,-44,-32,18,-37.5
+Uttarakhand,12 May,-66,-14,-52,-43,-32,18,-38.75
+Uttarakhand,13 May,-65,-11,-51,-42,-27,17,-36.25
+Uttarakhand,14 May,-65,-15,-52,-42,-29,16,-37.75
+Uttarakhand,15 May,-65,-14,-52,-44,-27,17,-37.5
+Uttarakhand,16 May,-65,-14,-52,-44,-27,17,-37.5
+Uttarakhand,17 May,-65,-14,-52,-44,-27,17,-37.5
+Uttarakhand,18 May,-63,-6,-50,-41,-28,17,-34.5
+Uttarakhand,19 May,-63,-8,-50,-40,-27,16,-34.5
+Uttarakhand,20 May,-60,-4,-49,-38,-22,17,-31.0
+Uttarakhand,21 May,-61,-5,-50,-39,-24,17,-32.25
+Uttarakhand,22 May,-62,-8,-51,-42,-23,17,-33.75
+Uttarakhand,23 May,-62,-8,-51,-42,-23,17,-33.75
+Uttarakhand,24 May,-62,-8,-51,-42,-23,17,-33.75
+Uttarakhand,25 May,-62,-10,-49,-46,-38,19,-39.0
+Uttarakhand,26 May,-60,-5,-50,-38,-24,15,-31.75
+Uttarakhand,27 May,-60,-4,-48,-37,-20,15,-30.25
+Uttarakhand,28 May,-60,-6,-50,-38,-22,16,-31.5
+Uttarakhand,29 May,-60,-6,-49,-40,-20,16,-31.5
+Uttarakhand,30 May,-60,-6,-49,-40,-20,16,-31.5
+Uttarakhand,31 May,-60,-6,-49,-40,-20,16,-31.5
+Uttarakhand,01 June,-56,4,-47,-37,-22,14,-27.75
+Uttarakhand,02 June,-56,3,-46,-32,-20,13,-26.25
+Uttarakhand,03 June,-56,2,-46,-31,-17,14,-25.5
+Uttarakhand,04 June,-56,1,-48,-32,-19,14,-26.5
+Uttarakhand,05 June,-54,4,-47,-35,-17,14,-25.5
+West Bengal,15 February,-3,1,-2,-1,6,1,0.75
+West Bengal,16 February,-2,1,-5,-2,2,1,-0.25
+West Bengal,17 February,-3,-2,-3,-1,3,1,-0.75
+West Bengal,18 February,-2,-1,-1,-2,2,1,-0.75
+West Bengal,19 February,-4,1,-3,3,11,-1,2.75
+West Bengal,20 February,-3,1,-3,0,6,0,1.0
+West Bengal,21 February,-6,0,-3,-6,-7,3,-4.75
+West Bengal,22 February,-6,0,-3,-6,-7,3,-4.75
+West Bengal,23 February,-6,0,-3,-6,-7,3,-4.75
+West Bengal,24 February,-5,-3,-4,-3,2,1,-2.25
+West Bengal,25 February,-10,-11,-10,-8,-1,3,-7.5
+West Bengal,26 February,-2,2,-2,5,9,-2,3.5
+West Bengal,27 February,-1,1,-2,1,6,0,1.75
+West Bengal,28 February,-1,2,0,2,6,0,2.25
+West Bengal,29 February,-1,2,0,2,6,0,2.25
+West Bengal,01 March,-1,2,0,2,6,0,2.25
+West Bengal,02 March,-2,1,1,0,3,0,0.5
+West Bengal,03 March,-8,-8,-5,-4,2,1,-4.5
+West Bengal,04 March,0,7,0,7,11,-2,6.25
+West Bengal,05 March,0,5,0,3,6,0,3.5
+West Bengal,06 March,-1,5,2,4,6,0,3.5
+West Bengal,07 March,-1,5,2,4,6,0,3.5
+West Bengal,08 March,-1,5,2,4,6,0,3.5
+West Bengal,09 March,-22,-20,-10,-33,-51,13,-31.5
+West Bengal,10 March,-15,-15,-9,-19,-36,7,-21.25
+West Bengal,11 March,-3,3,-1,6,5,-3,2.75
+West Bengal,12 March,-3,2,-1,1,4,-1,1.0
+West Bengal,13 March,-4,1,0,0,3,0,0.0
+West Bengal,14 March,-4,1,0,0,3,0,0.0
+West Bengal,15 March,-4,1,0,0,3,0,0.0
+West Bengal,16 March,-6,-1,-3,-5,-2,2,-3.5
+West Bengal,17 March,-8,-2,-5,-10,-7,3,-6.75
+West Bengal,18 March,-10,2,-7,-6,1,2,-3.25
+West Bengal,19 March,-13,2,-11,-14,-5,4,-7.5
+West Bengal,20 March,-19,-1,-14,-18,-9,6,-11.75
+West Bengal,21 March,-19,-1,-14,-18,-9,6,-11.75
+West Bengal,22 March,-19,-1,-14,-18,-9,6,-11.75
+West Bengal,23 March,-42,-14,-33,-50,-41,16,-36.75
+West Bengal,24 March,-67,-56,-52,-73,-64,26,-65.0
+West Bengal,25 March,-71,-58,-56,-75,-65,26,-67.25
+West Bengal,26 March,-71,-61,-56,-77,-66,28,-68.75
+West Bengal,27 March,-71,-60,-55,-76,-65,28,-68.0
+West Bengal,28 March,-71,-60,-55,-76,-65,28,-68.0
+West Bengal,29 March,-71,-60,-55,-76,-65,28,-68.0
+West Bengal,30 March,-70,-62,-56,-77,-64,29,-68.25
+West Bengal,31 March,-69,-60,-54,-76,-64,27,-67.25
+West Bengal,01 April,-69,-59,-55,-75,-62,25,-66.25
+West Bengal,02 April,-68,-58,-54,-75,-62,26,-65.75
+West Bengal,03 April,-68,-58,-54,-75,-62,27,-65.75
+West Bengal,04 April,-68,-58,-54,-75,-62,27,-65.75
+West Bengal,05 April,-68,-58,-54,-75,-62,27,-65.75
+West Bengal,06 April,-68,-58,-52,-75,-62,27,-65.75
+West Bengal,07 April,-69,-48,-46,-71,-62,26,-62.5
+West Bengal,08 April,-70,-46,-47,-70,-60,24,-61.5
+West Bengal,09 April,-69,-46,-47,-71,-61,26,-61.75
+West Bengal,10 April,-70,-47,-47,-71,-63,27,-62.75
+West Bengal,11 April,-70,-47,-47,-71,-63,27,-62.75
+West Bengal,12 April,-70,-47,-47,-71,-63,27,-62.75
+West Bengal,13 April,-69,-48,-47,-72,-61,28,-62.5
+West Bengal,14 April,-69,-49,-46,-72,-64,27,-63.5
+West Bengal,15 April,-72,-48,-46,-70,-58,25,-62.0
+West Bengal,16 April,-85,-37,-53,-70,-60,26,-63.0
+West Bengal,17 April,-85,-39,-53,-70,-60,27,-63.5
+West Bengal,18 April,-85,-39,-53,-70,-60,27,-63.5
+West Bengal,19 April,-85,-39,-53,-70,-60,27,-63.5
+West Bengal,20 April,-86,-45,-56,-72,-60,27,-65.75
+West Bengal,21 April,-87,-49,-55,-73,-63,27,-68.0
+West Bengal,22 April,-86,-41,-55,-69,-58,24,-63.5
+West Bengal,23 April,-86,-44,-57,-71,-60,27,-65.25
+West Bengal,24 April,-86,-43,-56,-71,-60,27,-65.0
+West Bengal,25 April,-86,-43,-56,-71,-60,27,-65.0
+West Bengal,26 April,-86,-43,-56,-71,-60,27,-65.0
+West Bengal,27 April,-86,-45,-57,-72,-60,29,-65.75
+West Bengal,28 April,-86,-46,-55,-72,-61,27,-66.25
+West Bengal,29 April,-85,-38,-54,-67,-56,25,-61.5
+West Bengal,30 April,-86,-38,-53,-68,-57,26,-62.25
+West Bengal,01 May,-88,-45,-56,-72,-63,28,-67.0
+West Bengal,02 May,-88,-45,-56,-72,-63,28,-67.0
+West Bengal,03 May,-88,-45,-56,-72,-63,28,-67.0
+West Bengal,04 May,-85,-38,-54,-68,-56,26,-61.75
+West Bengal,05 May,-84,-37,-53,-67,-56,25,-61.0
+West Bengal,06 May,-83,-32,-52,-64,-52,22,-57.75
+West Bengal,07 May,-83,-32,-52,-66,-56,25,-59.25
+West Bengal,08 May,-83,-32,-52,-66,-55,25,-59.0
+West Bengal,09 May,-83,-32,-52,-66,-55,25,-59.0
+West Bengal,10 May,-83,-32,-52,-66,-55,25,-59.0
+West Bengal,11 May,-82,-31,-51,-65,-52,24,-57.5
+West Bengal,12 May,-83,-32,-51,-65,-53,25,-58.25
+West Bengal,13 May,-82,-29,-51,-62,-48,21,-55.25
+West Bengal,14 May,-81,-29,-50,-63,-50,22,-55.75
+West Bengal,15 May,-81,-27,-48,-62,-49,22,-54.75
+West Bengal,16 May,-81,-27,-48,-62,-49,22,-54.75
+West Bengal,17 May,-81,-27,-48,-62,-49,22,-54.75
+West Bengal,18 May,-80,-26,-48,-62,-47,23,-53.75
+West Bengal,19 May,-80,-27,-49,-62,-49,23,-54.5
+West Bengal,20 May,-89,-58,-59,-74,-61,22,-70.5
+West Bengal,21 May,-85,-51,-57,-70,-62,13,-67.0
+West Bengal,22 May,-80,-34,-53,-62,-53,10,-57.25
+West Bengal,23 May,-80,-34,-53,-62,-53,10,-57.25
+West Bengal,24 May,-80,-34,-53,-62,-53,10,-57.25
+West Bengal,25 May,-78,-30,-48,-62,-55,19,-56.25
+West Bengal,26 May,-76,-24,-47,-58,-48,17,-51.5
+West Bengal,27 May,-76,-21,-48,-55,-42,15,-48.5
+West Bengal,28 May,-77,-23,-46,-58,-47,16,-51.25
+West Bengal,29 May,-75,-15,-45,-54,-41,17,-46.25
+West Bengal,30 May,-75,-15,-45,-54,-41,17,-46.25
+West Bengal,31 May,-75,-15,-45,-54,-41,17,-46.25
+West Bengal,01 June,-72,-12,-44,-52,-38,17,-43.5
+West Bengal,02 June,-73,-14,-44,-52,-39,17,-44.5
+West Bengal,03 June,-70,-4,-42,-45,-33,14,-38.0
+West Bengal,04 June,-72,-9,-44,-50,-36,16,-41.75
+West Bengal,05 June,-69,-6,-41,-48,-34,16,-39.25
