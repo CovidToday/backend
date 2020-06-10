@@ -1171,18 +1171,18 @@
 			"totalrecovered": "123848"
 		},
 		{
-			"dailyconfirmed": "8444",
+			"dailyconfirmed": "8536",
 			"dailydeceased": "271",
-			"dailyrecovered": "5189",
+			"dailyrecovered": "5171",
 			"date": "08 June ",
-			"totalconfirmed": "265929",
+			"totalconfirmed": "266021",
 			"totaldeceased": "7477",
-			"totalrecovered": "129037"
+			"totalrecovered": "129019"
 		},
 		{
-			"dailyconfirmed": "10071",
+			"dailyconfirmed": "9979",
 			"dailydeceased": "272",
-			"dailyrecovered": "5616",
+			"dailyrecovered": "5634",
 			"date": "09 June ",
 			"totalconfirmed": "276000",
 			"totaldeceased": "7749",
@@ -1191,15 +1191,15 @@
 	],
 	"statewise": [
 		{
-			"active": "134434",
-			"confirmed": "277514",
-			"deaths": "7755",
-			"deltaconfirmed": "1515",
-			"deltadeaths": "5",
-			"deltarecovered": "657",
-			"lastupdatedtime": "10/06/2020 16:45:46",
+			"active": "134276",
+			"confirmed": "277521",
+			"deaths": "7756",
+			"deltaconfirmed": "1522",
+			"deltadeaths": "6",
+			"deltarecovered": "821",
+			"lastupdatedtime": "10/06/2020 17:45:46",
 			"migratedother": "15",
-			"recovered": "135310",
+			"recovered": "135474",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1345,15 +1345,15 @@
 			"statenotes": "Two active cases in KA reduced as these confirmed patients died of non-CoViD19 related reasons"
 		},
 		{
-			"active": "2780",
+			"active": "2615",
 			"confirmed": "5583",
-			"deaths": "33",
+			"deaths": "34",
 			"deltaconfirmed": "128",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/06/2020 12:42:50",
+			"deltadeaths": "1",
+			"deltarecovered": "164",
+			"lastupdatedtime": "10/06/2020 17:24:48",
 			"migratedother": "0",
-			"recovered": "2770",
+			"recovered": "2934",
 			"state": "Bihar",
 			"statecode": "BR",
 			"statenotes": ""
@@ -1611,10 +1611,10 @@
 			"statenotes": ""
 		},
 		{
-			"active": "57",
-			"confirmed": "108",
+			"active": "64",
+			"confirmed": "115",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "7",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/06/2020 18:05:51",
