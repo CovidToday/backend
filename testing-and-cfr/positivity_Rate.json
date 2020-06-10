@@ -134,7 +134,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -268,7 +268,7 @@
             "33",
             ""
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -1206,7 +1206,7 @@
             "",
             ""
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -1476,7 +1476,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -1610,7 +1610,7 @@
             "3843",
             "3990"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -2548,7 +2548,7 @@
             14246,
             15085
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -2818,7 +2818,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -2952,7 +2952,7 @@
             "57",
             "57"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -3890,7 +3890,7 @@
             496,
             443
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -4160,7 +4160,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -4294,7 +4294,7 @@
             "",
             "2937"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -5232,7 +5232,7 @@
             "",
             ""
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -5502,7 +5502,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -5636,7 +5636,7 @@
             "5176",
             "5364"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -6574,7 +6574,7 @@
             3210,
             3270
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -6844,7 +6844,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -6978,7 +6978,7 @@
             "318",
             ""
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -7916,7 +7916,7 @@
             73,
             ""
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -8186,7 +8186,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -8320,7 +8320,7 @@
             "1160",
             ""
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -9258,7 +9258,7 @@
             4021,
             ""
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -9528,7 +9528,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -9662,7 +9662,7 @@
             "22",
             ""
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -10600,7 +10600,7 @@
             731,
             ""
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -10870,7 +10870,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -11004,7 +11004,7 @@
             "29943",
             "31309"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -11942,7 +11942,7 @@
             3700,
             5464
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -12212,7 +12212,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -12346,7 +12346,7 @@
             "330",
             "359"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -13284,7 +13284,7 @@
             1716,
             739
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -13554,7 +13554,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -13688,7 +13688,7 @@
             "20574",
             "21044"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -14626,7 +14626,7 @@
             4603,
             5298
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -14896,7 +14896,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -15030,7 +15030,7 @@
             "4854",
             "5209"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -15968,7 +15968,7 @@
             4498,
             3472
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -16238,7 +16238,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -16372,7 +16372,7 @@
             "421",
             "437"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -17310,7 +17310,7 @@
             528,
             1239
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -17580,7 +17580,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -17714,7 +17714,7 @@
             "4285",
             "4346"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -18652,7 +18652,7 @@
             9425,
             7910
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -18922,7 +18922,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -19056,7 +19056,7 @@
             "1290",
             "1416"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -19994,7 +19994,7 @@
             4604,
             2774
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -20264,7 +20264,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -20398,7 +20398,7 @@
             "5760",
             "5921"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -21336,7 +21336,7 @@
             8779,
             7036
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -21606,7 +21606,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -21740,7 +21740,7 @@
             "2006",
             "2097"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -22678,7 +22678,7 @@
             2026,
             12132
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -22948,7 +22948,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -23082,7 +23082,7 @@
             "",
             "108"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -24020,7 +24020,7 @@
             "",
             ""
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -24290,7 +24290,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -24424,7 +24424,7 @@
             "9638",
             "9849"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -25362,7 +25362,7 @@
             6680,
             5742
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -25632,7 +25632,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -25766,7 +25766,7 @@
             "85975",
             "88528"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -26704,7 +26704,7 @@
             12227,
             14004
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -26974,7 +26974,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -27108,7 +27108,7 @@
             "",
             "304"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -28046,7 +28046,7 @@
             "",
             ""
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -28316,7 +28316,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -28450,7 +28450,7 @@
             "36",
             "40"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -29388,7 +29388,7 @@
             680,
             501
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -29658,7 +29658,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -29792,7 +29792,7 @@
             "42",
             "88"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -30730,7 +30730,7 @@
             244,
             251
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -31000,7 +31000,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -31134,7 +31134,7 @@
             "123",
             "127"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -32072,7 +32072,7 @@
             358,
             167
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -32342,7 +32342,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -32476,7 +32476,7 @@
             "2994",
             "3140"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -33414,7 +33414,7 @@
             3317,
             2969
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -33684,7 +33684,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -33818,7 +33818,7 @@
             "142",
             "143"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -34756,7 +34756,7 @@
             198,
             3280
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -35026,7 +35026,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -35160,7 +35160,7 @@
             "2663",
             "2719"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -36098,7 +36098,7 @@
             5555,
             6522
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -36368,7 +36368,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -36502,7 +36502,7 @@
             "10876",
             "11245"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -37440,7 +37440,7 @@
             11566,
             11681
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -37710,7 +37710,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -37844,7 +37844,7 @@
             "6",
             "12"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -38782,7 +38782,7 @@
             "",
             268
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -39052,7 +39052,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -39186,7 +39186,7 @@
             "33229",
             "34914"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -40124,7 +40124,7 @@
             14982,
             13219
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -40394,7 +40394,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -40528,7 +40528,7 @@
             "",
             ""
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -41466,7 +41466,7 @@
             "",
             ""
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -41736,7 +41736,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -41870,7 +41870,7 @@
             "840",
             "866"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -42808,7 +42808,7 @@
             2190,
             1119
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -43078,7 +43078,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -43212,7 +43212,7 @@
             "10947",
             "11335"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -44150,7 +44150,7 @@
             20465,
             10563
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -44420,7 +44420,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -44554,7 +44554,7 @@
             "1380",
             "1488"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -45492,7 +45492,7 @@
             1967,
             1131
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -45762,7 +45762,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "",
             "",
             "",
@@ -45896,7 +45896,7 @@
             "8613",
             "8985"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -46834,7 +46834,7 @@
             9024,
             7802
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -47104,7 +47104,7 @@
             "08 June",
             "09 June"
         ],
-        "total_cases": [
+        "cum_positive_cases": [
             "1",
             "1",
             "1",
@@ -47238,7 +47238,7 @@
             "266021",
             "276000"
         ],
-        "positivity_rate_cumulative": [
+        "cum_positivity_rate": [
             "",
             "",
             "",
@@ -48176,7 +48176,7 @@
             108048,
             141682
         ],
-        "cum_tested": [
+        "cum_tests": [
             "",
             "",
             "",
@@ -48311,5 +48311,5 @@
             "4916116"
         ]
     },
-    "datetime": "2020-06-10 13:55:23.600901"
+    "datetime": "2020-06-10 14:49:55.769514"
 }

@@ -1,4 +1,4 @@
-dates,state,total_cases,positivity_rate_cumulative,daily_positive_cases,daily_positivity_rate,daily_positive_cases_ma,daily_positivity_rate_ma,test_per_million,daily_tested,cum_tested
+dates,state,cum_positive_cases,cum_positivity_rate,daily_positive_cases,daily_positivity_rate,daily_positive_cases_ma,daily_positivity_rate_ma,test_per_million,daily_tested,cum_tested
 30 January,Andaman and Nicobar Islands,,,,,,,,,
 31 January,Andaman and Nicobar Islands,,,,,,,,,
 01 February,Andaman and Nicobar Islands,,,,,,,,,
