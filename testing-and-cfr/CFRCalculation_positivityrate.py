@@ -4,7 +4,7 @@
 # In[1]:
 
 
-get_ipython().system('pip install wget')
+get_ipython().system(u'pip install wget')
 
 
 # In[2]:
@@ -19,9 +19,9 @@ import json
 import wget
 import os
 import os.path
-from google.colab import drive
+# from google.colab import drive
 # os.chdir('/content/gdrive/My Drive')
-drive.mount('/content/gdrive')
+# drive.mount('/content/gdrive')
 
 
 # In[3]:
@@ -44,10 +44,10 @@ if os.path.exists(os.getcwd()+"\\test.json"):
 wget.download('https://api.covid19india.org/state_test_data.json', os.getcwd()+"//test.json")
 
 
-# In[ ]:
+# In[4]:
 
 
-dataset=pd.read_csv('/content/gdrive/My Drive/population.csv')
+dataset=pd.read_csv('./population.csv')
 
 
 # In[5]:
@@ -59,7 +59,7 @@ population["Population"]=dataset['Population'][:37]
 population
 
 
-# In[ ]:
+# In[6]:
 
 
 def fn(mon):
@@ -91,7 +91,7 @@ def convert(dat):
     return  str(dat[:2]) + fn(str(dat[3:5]))
 
 
-# In[ ]:
+# In[7]:
 
 
 dates = np.array([pd.to_datetime(i['date']+"2020") for i in json.load(open('national.json',))['cases_time_series']])
@@ -137,7 +137,7 @@ inds = np.where(np.isnan(CFR))
 CFR[inds] = np.take(col_mean, inds[1])
 
 
-# In[ ]:
+# In[10]:
 
 
 temp=dates
@@ -159,38 +159,44 @@ for i in range(len(temp)):
 # In[11]:
 
 
+list(100*n2z(np.quantile(CFR,0.025,axis=0)))
+
+
+# In[12]:
+
+
 json_data = {}
 india = {
         'dates':dates,
-        'cfr1_point':list(n2z(np.cumsum(deceased)/np.cumsum(confirmed))),
-        'cfr2_point':list(n2z(np.cumsum(deceased)/(np.cumsum(deceased)+np.cumsum(recovered)))),
-        'cfr3_point':list(n2z(np.mean(CFR,axis=0))),
-        'cfr3_l95':list(n2z(np.quantile(CFR,0.025,axis=0))),
-        'cfr3_u95':list(n2z(np.quantile(CFR,0.975,axis=0))),
-        'cfr3_l50':list(n2z(np.quantile(CFR,0.25,axis=0))),
-        'cfr3_u50':list(n2z(np.quantile(CFR,0.75,axis=0))),
+        'cfr1_point':list(100*n2z(np.cumsum(deceased)/np.cumsum(confirmed))),
+        'cfr2_point':list(100*n2z(np.cumsum(deceased)/(np.cumsum(deceased)+np.cumsum(recovered)))),
+        'cfr3_point':list(100*n2z(np.mean(CFR,axis=0))),
+        'cfr3_l95':list(100*n2z(np.quantile(CFR,0.025,axis=0))),
+        'cfr3_u95':list(100*n2z(np.quantile(CFR,0.975,axis=0))),
+        'cfr3_l50':list(100*n2z(np.quantile(CFR,0.25,axis=0))),
+        'cfr3_u50':list(100*n2z(np.quantile(CFR,0.75,axis=0))),
         }
 json_data['India'] = india
 cfr = pd.DataFrame()
 cfr['state']=['India']*len(dates)
 cfr['dates']=dates
-cfr['cfr1_point']=list(n2z(np.cumsum(deceased)/np.cumsum(confirmed)))
-cfr['cfr2_point']=list(n2z(np.cumsum(deceased)/(np.cumsum(deceased)+np.cumsum(recovered))))
-cfr['cfr3_point']=list(n2z(np.mean(CFR,axis=0)))
-cfr['cfr3_l95']=list(n2z(np.quantile(CFR,0.025,axis=0)))
-cfr['cfr3_u95']=list(n2z(np.quantile(CFR,0.975,axis=0)))
-cfr['cfr3_l50']=list(n2z(np.quantile(CFR,0.25,axis=0)))
-cfr['cfr3_u50']=list(n2z(np.quantile(CFR,0.75,axis=0)))
+cfr['cfr1_point']=list(100*n2z(np.cumsum(deceased)/np.cumsum(confirmed)))
+cfr['cfr2_point']=list(100*n2z(np.cumsum(deceased)/(np.cumsum(deceased)+np.cumsum(recovered))))
+cfr['cfr3_point']=list(100*n2z(np.mean(CFR,axis=0)))
+cfr['cfr3_l95']=list(100*n2z(np.quantile(CFR,0.025,axis=0)))
+cfr['cfr3_u95']=list(100*n2z(np.quantile(CFR,0.975,axis=0)))
+cfr['cfr3_l50']=list(100*n2z(np.quantile(CFR,0.25,axis=0)))
+cfr['cfr3_u50']=list(100*n2z(np.quantile(CFR,0.75,axis=0)))
 cfr
 
 
-# In[ ]:
+# In[13]:
 
 
 states = list(filter(lambda v:len(v)<3,list(json.load(open('states.json',))['states_daily'][0].keys())))
 
 
-# In[ ]:
+# In[14]:
 
 
 dates = np.array([pd.to_datetime(i['date']) for i in filter(lambda v: v['status'] == 'Confirmed',json.load(open('states.json',))['states_daily'])])
@@ -204,7 +210,7 @@ for st in states:
     data_recovered[st] = np.array([i[st] for i in filter(lambda v: v['status'] == 'Recovered',json.load(open('states.json',))['states_daily'])])
 
 
-# In[ ]:
+# In[15]:
 
 
 data_recovered = data_recovered.replace(r'^\s*$', np.NaN, regex=True).fillna(0)
@@ -218,44 +224,47 @@ data_recovered['date'] = dates
 data_confirmed['date'] = dates
 
 
-# In[15]:
+# In[16]:
 
 
 final=pd.DataFrame
 plt.figure(1, figsize=(15, 7))
 state_id = {
-  "kl":"Kerala",
   "mh":"Maharashtra",
-  "gj":"Gujarat",
-  "dl":"Delhi",
-  "rj":"Rajasthan",
   "tn":"Tamil Nadu",
-  "mp":"Madhya Pradesh",
+  "dl":"Delhi",
+  "gj":"Gujarat",
+  "rj":"Rajasthan",
   "up":"Uttar Pradesh",
-  "tg":"Telangana",
-  "ap":"Andhra Pradesh",
-  "ka":"Karnataka",
+  "mp":"Madhya Pradesh",
   "wb":"West Bengal",
-  "jk":"Jammu and Kashmir",
-  "hr":"Haryana",
-  "pb":"Punjab",
+  "ka":"Karnataka",
   "br":"Bihar",
+  "ap":"Andhra Pradesh",
+  "hr":"Haryana",
+  "tg":"Telangana",
+  "jk":"Jammu and Kashmir",
   "or":"Odisha",
-  "jh":"Jharkand",
-  "ut":"Uttarakhand",
-  "hp":"Himachal Pradesh",
-  "ct":"Chhattisgarh",
+  "pb":"Punjab",
   "as":"Assam",
+  "kl":"Kerala",
+  "ut":"Uttarakhand",
+  "jh":"Jharkand",
+  "ct":"Chhattisgarh",
+  "tr":"Tripura",
+  "hp":"Himachal Pradesh",
   "ch":"Chandigarh",
+  "ga":"Goa",
+  "mn":"Manipur",
+  "nl":"Nagaland",
+  "py":"Puducherry",
   "la":"Ladakh",
+  "ar":"Arunachal Pradesh",
   "an":"Andaman and Nicobar Islands",
   "ml":"Meghalaya",
-  "ga":"Goa",
-  "py":"Puducherry",
-  "mn":"Manipur",
-  "tr":"Tripura",
-  "ar":"Arunachal Pradesh",
-  "mz":"Mizoram" ,
+  "mz":"Mizoram",
+  "dn":"Dadra and Nagar Haveli and Daman and Diu",
+  "sk":"Sikkim",
 }
 
 for state in state_id.keys():
@@ -289,13 +298,13 @@ for state in state_id.keys():
       dates1.append(convert(date))
     temp = {
         'dates':dates1,
-        'cfr1_point':list(n2z(np.cumsum(data_deceased[state].values)/np.cumsum(data_confirmed[state].values))),
-        'cfr2_point':list(n2z(np.cumsum(data_deceased[state].values)/(np.cumsum(data_deceased[state].values)+np.cumsum(data_recovered[state].values)))),
-        'cfr3_point':list(n2z(np.mean(CFR,axis=0))),
-        'cfr3_l95':list(n2z(np.quantile(CFR,0.025,axis=0))),
-        'cfr3_u95':list(n2z(np.quantile(CFR,0.975,axis=0))),
-        'cfr3_l50':list(n2z(np.quantile(CFR,0.25,axis=0))),
-        'cfr3_u50':list(n2z(np.quantile(CFR,0.75,axis=0))),
+        'cfr1_point':list(n2z(100*np.cumsum(data_deceased[state].values)/np.cumsum(data_confirmed[state].values))),
+        'cfr2_point':list(n2z(100*np.cumsum(data_deceased[state].values)/(np.cumsum(data_deceased[state].values)+np.cumsum(data_recovered[state].values)))),
+        'cfr3_point':list(n2z(100*np.mean(CFR,axis=0))),
+        'cfr3_l95':list(n2z(100*np.quantile(CFR,0.025,axis=0))),
+        'cfr3_u95':list(n2z(100*np.quantile(CFR,0.975,axis=0))),
+        'cfr3_l50':list(n2z(100*np.quantile(CFR,0.25,axis=0))),
+        'cfr3_u50':list(n2z(100*np.quantile(CFR,0.75,axis=0))),
         }
     a=state_id[state]
     #print(a)
@@ -303,20 +312,26 @@ for state in state_id.keys():
     cfr_state=pd.DataFrame()
     cfr_state['state']=[str(a)]*len(dates)
     cfr_state['dates']=dates1
-    cfr_state['cfr1_point']=(list(n2z(np.cumsum(data_deceased[state].values)/np.cumsum(data_confirmed[state].values))))
-    cfr_state['cfr2_point']=(list(n2z(np.cumsum(data_deceased[state].values)/(np.cumsum(data_deceased[state].values)+np.cumsum(data_recovered[state].values)))))
-    cfr_state['cfr3_point']=(list(n2z(np.mean(CFR,axis=0))))
-    cfr_state['cfr3_l95']=(list(n2z(np.quantile(CFR,0.025,axis=0))))
-    cfr_state['cfr3_u95']=(list(n2z(np.quantile(CFR,0.975,axis=0))))
-    cfr_state['cfr3_l50']=(list(n2z(np.quantile(CFR,0.25,axis=0))))
-    cfr_state['cfr3_u50']=(list(n2z(np.quantile(CFR,0.75,axis=0))))
+    cfr_state['cfr1_point']=(list(100*n2z(np.cumsum(data_deceased[state].values)/np.cumsum(data_confirmed[state].values))))
+    cfr_state['cfr2_point']=(list(100*n2z(np.cumsum(data_deceased[state].values)/(np.cumsum(data_deceased[state].values)+np.cumsum(data_recovered[state].values)))))
+    cfr_state['cfr3_point']=(list(100*n2z(np.mean(CFR,axis=0))))
+    cfr_state['cfr3_l95']=(list(100*n2z(np.quantile(CFR,0.025,axis=0))))
+    cfr_state['cfr3_u95']=(list(100*n2z(np.quantile(CFR,0.975,axis=0))))
+    cfr_state['cfr3_l50']=(list(100*n2z(np.quantile(CFR,0.25,axis=0))))
+    cfr_state['cfr3_u50']=(list(100*n2z(np.quantile(CFR,0.75,axis=0))))
     cfr=pd.concat([cfr, cfr_state])
       
     #plt.plot(temp['cfr3_point'],label=state)
 #plt.legend()
 
 
-# In[ ]:
+# In[17]:
+
+
+print(list(100*n2z(np.mean(CFR,axis=0))))
+
+
+# In[18]:
 
 
 cfr.to_csv('cfr.csv',index=False)
@@ -324,7 +339,7 @@ from datetime import datetime
 json_data['datetime']=str(datetime.now())
 
 
-# In[ ]:
+# In[19]:
 
 
 with open('cfr.json', 'w') as outfile:
@@ -347,13 +362,13 @@ for i in range(len(datesspace)):
 #print(total_confirmed)
 
 
-# In[19]:
+# In[ ]:
 
 
 datesspace
 
 
-# In[20]:
+# In[ ]:
 
 
 dates_dict = {}
@@ -372,7 +387,7 @@ def convert(dat):
     return  str(dat[:2]) + fn(str(dat[3:5]))
 
 
-# In[22]:
+# In[ ]:
 
 
 population['Population'][36]
@@ -440,13 +455,13 @@ for i in range(len(datestest)):
 ## daily confirmed : [] (7 day moving average)
 
 
-# In[24]:
+# In[ ]:
 
 
 print(len(daily_confirmed_ma))
 
 
-# In[25]:
+# In[ ]:
 
 
 len(daily_pos_rate)
@@ -513,7 +528,7 @@ india_tested_cum = tested_cum
 #     json.dump(nationwide, outfile)
 
 
-# In[28]:
+# In[ ]:
 
 
 print(len(india_total_confirmed ))
@@ -527,7 +542,7 @@ print(len(india_total_confirmed ))
 population=population.set_index('State')
 
 
-# In[30]:
+# In[ ]:
 
 
 testing = {}
