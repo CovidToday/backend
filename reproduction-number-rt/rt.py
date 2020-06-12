@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-get_ipython().system('pip install wget')
+get_ipython().system(u'pip install wget')
 
 
 # In[ ]:
@@ -348,8 +348,9 @@ df.to_csv('rt.csv',index=False)
 # In[ ]:
 
 
-with open('rt.json', 'w') as outfile:
-    json.dump(json_data, outfile)
+json_data_indented =  json.dump(json_data, , indent = 4)
+with open("rt.json", "w") as outfile: 
+    outfile.write(json_data_indented)
 
 
 # In[ ]:
