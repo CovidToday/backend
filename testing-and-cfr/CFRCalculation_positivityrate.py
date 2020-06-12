@@ -4,7 +4,7 @@
 # In[1]:
 
 
-get_ipython().system(u'pip install wget')
+get_ipython().system('pip install wget')
 
 
 # In[2]:
@@ -19,7 +19,7 @@ import json
 import wget
 import os
 import os.path
-import OrderedDict
+from collections import OrderedDict
 # from google.colab import drive
 # os.chdir('/content/gdrive/My Drive')
 # drive.mount('/content/gdrive')
@@ -169,7 +169,7 @@ list(100*n2z(np.quantile(CFR,0.025,axis=0)))
 json_data = {}
 cfr1_point=list(100*n2z(np.cumsum(deceased)/np.cumsum(confirmed))),
 cfr2_point=list(100*n2z(np.cumsum(deceased)/(np.cumsum(deceased)+np.cumsum(recovered)))),
-cfr3_point=list(100*n2z(np.mean(CFR,axis=0))),
+cfr3_point=list(100*n2z(np.median(CFR,axis=0))),
 cfr3_l95=list(100*n2z(np.quantile(CFR,0.025,axis=0))),
 cfr3_u95=list(100*n2z(np.quantile(CFR,0.975,axis=0))),
 cfr3_l50=list(100*n2z(np.quantile(CFR,0.25,axis=0))),
@@ -184,14 +184,14 @@ cfr3_u50=list(100*n2z(np.quantile(CFR,0.75,axis=0))),
 #         'cfr3_l50':list(100*n2z(np.quantile(CFR,0.25,axis=0))),
 #         'cfr3_u50':list(100*n2z(np.quantile(CFR,0.75,axis=0))),
 #         }
-india = OrderedDict.OrderedDict([('dates',dates),('cfr1_point',cfr1_point),('cfr2_point',cfr2_point),('cfr3_point',cfr3_point),('cfr3_l95',cfr3_l95),('cfr3_u95',cfr3_u95),('cfr3_l50',cfr3_l50),('cfr3_u50',cfr3_u50)])
+india = OrderedDict([('dates',dates),('cfr1_point',cfr1_point),('cfr2_point',cfr2_point),('cfr3_point',cfr3_point),('cfr3_l95',cfr3_l95),('cfr3_u95',cfr3_u95),('cfr3_l50',cfr3_l50),('cfr3_u50',cfr3_u50)])
 json_data['India'] = india
 cfr = pd.DataFrame()
 cfr['state']=['India']*len(dates)
 cfr['dates']=dates
 cfr['cfr1_point']=list(100*n2z(np.cumsum(deceased)/np.cumsum(confirmed)))
 cfr['cfr2_point']=list(100*n2z(np.cumsum(deceased)/(np.cumsum(deceased)+np.cumsum(recovered))))
-cfr['cfr3_point']=list(100*n2z(np.mean(CFR,axis=0)))
+cfr['cfr3_point']=list(100*n2z(np.median(CFR,axis=0)))
 cfr['cfr3_l95']=list(100*n2z(np.quantile(CFR,0.025,axis=0)))
 cfr['cfr3_u95']=list(100*n2z(np.quantile(CFR,0.975,axis=0)))
 cfr['cfr3_l50']=list(100*n2z(np.quantile(CFR,0.25,axis=0)))
@@ -309,7 +309,7 @@ for state in state_id.keys():
         'dates':dates1,
         'cfr1_point':list(n2z(100*np.cumsum(data_deceased[state].values)/np.cumsum(data_confirmed[state].values))),
         'cfr2_point':list(n2z(100*np.cumsum(data_deceased[state].values)/(np.cumsum(data_deceased[state].values)+np.cumsum(data_recovered[state].values)))),
-        'cfr3_point':list(n2z(100*np.mean(CFR,axis=0))),
+        'cfr3_point':list(n2z(100*np.median(CFR,axis=0))),
         'cfr3_l95':list(n2z(100*np.quantile(CFR,0.025,axis=0))),
         'cfr3_u95':list(n2z(100*np.quantile(CFR,0.975,axis=0))),
         'cfr3_l50':list(n2z(100*np.quantile(CFR,0.25,axis=0))),
@@ -323,7 +323,7 @@ for state in state_id.keys():
     cfr_state['dates']=dates1
     cfr_state['cfr1_point']=(list(100*n2z(np.cumsum(data_deceased[state].values)/np.cumsum(data_confirmed[state].values))))
     cfr_state['cfr2_point']=(list(100*n2z(np.cumsum(data_deceased[state].values)/(np.cumsum(data_deceased[state].values)+np.cumsum(data_recovered[state].values)))))
-    cfr_state['cfr3_point']=(list(100*n2z(np.mean(CFR,axis=0))))
+    cfr_state['cfr3_point']=(list(100*n2z(np.median(CFR,axis=0))))
     cfr_state['cfr3_l95']=(list(100*n2z(np.quantile(CFR,0.025,axis=0))))
     cfr_state['cfr3_u95']=(list(100*n2z(np.quantile(CFR,0.975,axis=0))))
     cfr_state['cfr3_l50']=(list(100*n2z(np.quantile(CFR,0.25,axis=0))))
@@ -337,18 +337,12 @@ for state in state_id.keys():
 # In[17]:
 
 
-print(list(100*n2z(np.mean(CFR,axis=0))))
-
-
-# In[18]:
-
-
 cfr.to_csv('cfr.csv',index=False)
 from datetime import datetime
 json_data['datetime']=str(datetime.now())
 
 
-# In[19]:
+# In[18]:
 
 
 json_data_indented = json.dumps(json_data, indent = 4)
@@ -356,7 +350,7 @@ with open("cfr.json", "w") as outfile:
     outfile.write(json_data_indented)
 
 
-# In[20]:
+# In[19]:
 
 
 total_confirmed = [x['totalconfirmed'].split(' ')[0] for x in json.load(open('national.json',))['cases_time_series']] ## x_cumulative= 'totalconfirmed'
@@ -372,13 +366,13 @@ for i in range(len(datesspace)):
 #print(total_confirmed)
 
 
-# In[21]:
+# In[20]:
 
 
 datesspace
 
 
-# In[22]:
+# In[21]:
 
 
 dates_dict = {}
@@ -390,20 +384,20 @@ for i in dates:
 print(dates_dict)
 
 
-# In[23]:
+# In[22]:
 
 
 def convert(dat): 
     return  str(dat[:2]) + fn(str(dat[3:5]))
 
 
-# In[24]:
+# In[23]:
 
 
 population['Population'][36]
 
 
-# In[25]:
+# In[24]:
 
 
 datest=[x['updatetimestamp'].split(' ')[0] for x in json.load(open('national.json',))['tested']]
@@ -465,19 +459,19 @@ for i in range(len(datestest)):
 ## daily confirmed : [] (7 day moving average)
 
 
-# In[26]:
+# In[25]:
 
 
 print(len(daily_confirmed_ma))
 
 
-# In[27]:
+# In[26]:
 
 
 len(daily_pos_rate)
 
 
-# In[28]:
+# In[27]:
 
 
 daily_pos_rate_ma=['']*len(dates)
@@ -513,7 +507,7 @@ while i<l:
   i=i+1
 
 
-# In[29]:
+# In[28]:
 
 
 india_dates = dates
@@ -538,7 +532,7 @@ india_tested_cum = tested_cum
 #     json.dump(nationwide, outfile)
 
 
-# In[30]:
+# In[29]:
 
 
 print(len(india_total_confirmed ))
@@ -546,13 +540,13 @@ print(len(india_total_confirmed ))
 
 # ### State Level Data
 
-# In[31]:
+# In[30]:
 
 
 population=population.set_index('State')
 
 
-# In[34]:
+# In[31]:
 
 
 testing = {}
@@ -681,7 +675,7 @@ for i in range (len(dates)):
     csv_cum_tested.append(india_tested_cum[i])
 
 
-# In[35]:
+# In[32]:
 
 
 from datetime import datetime
@@ -690,7 +684,7 @@ with open('positivity_Rate.json', 'w') as outfile:
     json.dump(testing, outfile,indent=4)
 
 
-# In[36]:
+# In[33]:
 
 
 df=pd.DataFrame()
@@ -703,11 +697,11 @@ df['daily_positivity_rate']=csv_daily_positivity_rate
 df['daily_positive_cases_ma']=csv_daily_positive_cases_ma
 df['daily_positivity_rate_ma']=    csv_daily_positivity_rate_ma
 df['test_per_million']=csv_test_per_million
-df['daily_tested']=csv_daily_tested
+df['daily_tests']=csv_daily_tested
 df['cum_tested']=csv_cum_tested
 
 
-# In[37]:
+# In[34]:
 
 
 df.to_csv('positivity_Rate.csv',index=False)
