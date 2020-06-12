@@ -19,6 +19,7 @@ import json
 import wget
 import os
 import os.path
+import OrderedDict
 # from google.colab import drive
 # os.chdir('/content/gdrive/My Drive')
 # drive.mount('/content/gdrive')
@@ -166,16 +167,24 @@ list(100*n2z(np.quantile(CFR,0.025,axis=0)))
 
 
 json_data = {}
-india = {
-        'dates':dates,
-        'cfr1_point':list(100*n2z(np.cumsum(deceased)/np.cumsum(confirmed))),
-        'cfr2_point':list(100*n2z(np.cumsum(deceased)/(np.cumsum(deceased)+np.cumsum(recovered)))),
-        'cfr3_point':list(100*n2z(np.mean(CFR,axis=0))),
-        'cfr3_l95':list(100*n2z(np.quantile(CFR,0.025,axis=0))),
-        'cfr3_u95':list(100*n2z(np.quantile(CFR,0.975,axis=0))),
-        'cfr3_l50':list(100*n2z(np.quantile(CFR,0.25,axis=0))),
-        'cfr3_u50':list(100*n2z(np.quantile(CFR,0.75,axis=0))),
-        }
+cfr1_point=list(100*n2z(np.cumsum(deceased)/np.cumsum(confirmed))),
+cfr2_point=list(100*n2z(np.cumsum(deceased)/(np.cumsum(deceased)+np.cumsum(recovered)))),
+cfr3_point=list(100*n2z(np.mean(CFR,axis=0))),
+cfr3_l95=list(100*n2z(np.quantile(CFR,0.025,axis=0))),
+cfr3_u95=list(100*n2z(np.quantile(CFR,0.975,axis=0))),
+cfr3_l50=list(100*n2z(np.quantile(CFR,0.25,axis=0))),
+cfr3_u50=list(100*n2z(np.quantile(CFR,0.75,axis=0))),
+# india = {
+#         'dates':dates,
+#         'cfr1_point':list(100*n2z(np.cumsum(deceased)/np.cumsum(confirmed))),
+#         'cfr2_point':list(100*n2z(np.cumsum(deceased)/(np.cumsum(deceased)+np.cumsum(recovered)))),
+#         'cfr3_point':list(100*n2z(np.mean(CFR,axis=0))),
+#         'cfr3_l95':list(100*n2z(np.quantile(CFR,0.025,axis=0))),
+#         'cfr3_u95':list(100*n2z(np.quantile(CFR,0.975,axis=0))),
+#         'cfr3_l50':list(100*n2z(np.quantile(CFR,0.25,axis=0))),
+#         'cfr3_u50':list(100*n2z(np.quantile(CFR,0.75,axis=0))),
+#         }
+india = OrderedDict.OrderedDict([('dates',dates),('cfr1_point',cfr1_point),('cfr2_point',cfr2_point),('cfr3_point',cfr3_point),('cfr3_l95',cfr3_l95),('cfr3_u95',cfr3_u95),('cfr3_l50',cfr3_l50),('cfr3_u50',cfr3_u50)])
 json_data['India'] = india
 cfr = pd.DataFrame()
 cfr['state']=['India']*len(dates)
@@ -342,11 +351,12 @@ json_data['datetime']=str(datetime.now())
 # In[19]:
 
 
-with open('cfr.json', 'w') as outfile:
-    json.dump(json_data, outfile)
+json_data_indented = json.dumps(json_data, indent = 4)
+with open("cfr.json", "w") as outfile: 
+    outfile.write(json_data_indented)
 
 
-# In[ ]:
+# In[20]:
 
 
 total_confirmed = [x['totalconfirmed'].split(' ')[0] for x in json.load(open('national.json',))['cases_time_series']] ## x_cumulative= 'totalconfirmed'
@@ -355,20 +365,20 @@ daily_confirmed_ma=['']*7
 dates=[]
 daily_confirmed=list(map(int,daily_confirmed))
 for i in range(7,len(daily_confirmed)):
-  daily_confirmed_ma.append(sum(daily_confirmed[i-7:i])/7)
+    daily_confirmed_ma.append(sum(daily_confirmed[i-7:i])/7)
 datesspace = [x['date'] for x in json.load(open('national.json',))['cases_time_series']]
 for i in range(len(datesspace)):
-  dates.append(datesspace[i][0:-1])
+    dates.append(datesspace[i][0:-1])
 #print(total_confirmed)
 
 
-# In[ ]:
+# In[21]:
 
 
 datesspace
 
 
-# In[ ]:
+# In[22]:
 
 
 dates_dict = {}
@@ -380,20 +390,20 @@ for i in dates:
 print(dates_dict)
 
 
-# In[ ]:
+# In[23]:
 
 
 def convert(dat): 
     return  str(dat[:2]) + fn(str(dat[3:5]))
 
 
-# In[ ]:
+# In[24]:
 
 
 population['Population'][36]
 
 
-# In[ ]:
+# In[25]:
 
 
 datest=[x['updatetimestamp'].split(' ')[0] for x in json.load(open('national.json',))['tested']]
@@ -455,19 +465,19 @@ for i in range(len(datestest)):
 ## daily confirmed : [] (7 day moving average)
 
 
-# In[ ]:
+# In[26]:
 
 
 print(len(daily_confirmed_ma))
 
 
-# In[ ]:
+# In[27]:
 
 
 len(daily_pos_rate)
 
 
-# In[ ]:
+# In[28]:
 
 
 daily_pos_rate_ma=['']*len(dates)
@@ -503,7 +513,7 @@ while i<l:
   i=i+1
 
 
-# In[ ]:
+# In[29]:
 
 
 india_dates = dates
@@ -528,7 +538,7 @@ india_tested_cum = tested_cum
 #     json.dump(nationwide, outfile)
 
 
-# In[ ]:
+# In[30]:
 
 
 print(len(india_total_confirmed ))
@@ -536,13 +546,13 @@ print(len(india_total_confirmed ))
 
 # ### State Level Data
 
-# In[ ]:
+# In[31]:
 
 
 population=population.set_index('State')
 
 
-# In[ ]:
+# In[34]:
 
 
 testing = {}
@@ -560,6 +570,7 @@ csv_test_per_million=[]
 csv_daily_tested=[]
 csv_cum_tested=[]
 for st in states:
+#   print(st)
   state_dates = []
   test_per_million=['']*len(dates)
   pos_cum=['']*len(dates)
@@ -604,7 +615,8 @@ for st in states:
           for k in range(0,7):
             if (len(str(daily_pos[i-k]))!=0):
               count+=1
-              sum+=daily_pos[i-k]
+              sum+=int(daily_pos[i-k])
+#               print(sum)
           if (count!=0):
             daily_pos_ma[i]=sum/count
           if(len(str(daily_tested[i]))!=0 and daily_tested[i]!=0 and len(str(daily_pos[i]))!=0 ):
@@ -613,7 +625,8 @@ for st in states:
           for k in range(0,7):
             if (len(str(daily_pos_rate[i-k]))!=0):
               count1+=1
-              sum1+=daily_pos_rate[i-k]
+              sum1+=int(daily_pos_rate[i-k])
+#               print(sum1)
             if (count1!=0):
              daily_pos_rate_ma[i]=sum1/count1
   if(st=="Maharashtra"):
@@ -668,7 +681,7 @@ for i in range (len(dates)):
     csv_cum_tested.append(india_tested_cum[i])
 
 
-# In[ ]:
+# In[35]:
 
 
 from datetime import datetime
@@ -677,7 +690,7 @@ with open('positivity_Rate.json', 'w') as outfile:
     json.dump(testing, outfile,indent=4)
 
 
-# In[ ]:
+# In[36]:
 
 
 df=pd.DataFrame()
@@ -694,14 +707,8 @@ df['daily_tested']=csv_daily_tested
 df['cum_tested']=csv_cum_tested
 
 
-# In[ ]:
+# In[37]:
 
 
 df.to_csv('positivity_Rate.csv',index=False)
-
-
-# In[ ]:
-
-
-
 
