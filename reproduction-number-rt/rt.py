@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
-get_ipython().system(u'pip install wget')
+#!pip install wget
 
 
-# In[ ]:
+# In[2]:
 
 
 import numpy as np
@@ -19,12 +19,13 @@ import json
 import wget
 import os
 import os.path
-from google.colab import drive
-drive.mount('/content/gdrive')
-os.chdir('/content/gdrive/My Drive/minimal')
+import sys
+#from google.colab import drive
+#drive.mount('/content/gdrive')
+#os.chdir('/content/gdrive/My Drive/minimal')
 
 
-# In[ ]:
+# In[3]:
 
 
 if os.path.exists(os.getcwd()+"\\national.json"):
@@ -34,22 +35,23 @@ wget.download('https://api.covid19india.org/data.json', os.getcwd()+"//national.
 if os.path.exists(os.getcwd()+"\\states.json"):
     os.remove(os.getcwd()+"\\states.json")
 wget.download('https://api.covid19india.org/states_daily.json', os.getcwd()+"//states.json")
+sys.path
 
 
-# In[ ]:
+# In[4]:
 
 
 def pooled_SD(sds,means):
     return np.sqrt((np.sum(sds**2,axis=0)+np.sum(means-np.mean(means,axis=0)))/sds.shape[0])
 
 
-# In[ ]:
+# In[5]:
 
 
 json_data = {}
 
 
-# In[ ]:
+# In[6]:
 
 
 def fn(mon):
@@ -83,7 +85,7 @@ def convert(dat):
 
 # ### Calculation for Rt (India - No Import Adjustment)
 
-# In[ ]:
+# In[7]:
 
 
 dates = np.array([pd.to_datetime(i['date']+"2020") for i in json.load(open('national.json',))['cases_time_series']])
@@ -96,7 +98,7 @@ real_data = confirmed
 
 rt = []
 dats = []
-for n in range(100):
+for n in range(10):
     print("Iteration: ",n+1,end='\r')
     dataset = np.copy(real_data)
     G = gamma(3.325+0.616*np.random.normal(),0.979+0.195*np.random.normal())
@@ -119,7 +121,7 @@ means = np.array([x["Mean(R)"].values for x in rt])
 sds = np.array([x["Std(R)"].values for x in rt])
 
 
-# In[ ]:
+# In[8]:
 
 
 stindex = 2+5-1
@@ -129,7 +131,7 @@ for i in unchanged:
   changed.append(convert(i))
 
 
-# In[ ]:
+# In[9]:
 
 
 import pandas as pd
@@ -181,7 +183,7 @@ df['cases_sd']=csv_cases_sd
 df['cases_dates']=csv_cases_dates
 
 
-# In[ ]:
+# In[10]:
 
 
 json_data['IN'] = india
@@ -189,13 +191,13 @@ json_data['IN'] = india
 
 # ### State Level Data
 
-# In[ ]:
+# In[11]:
 
 
 states = list(filter(lambda v:len(v)<3,list(json.load(open('states.json',))['states_daily'][0].keys())))
 
 
-# In[ ]:
+# In[12]:
 
 
 dates = np.array([pd.to_datetime(i['date']) for i in filter(lambda v: v['status'] == 'Confirmed',json.load(open('states.json',))['states_daily'])])
@@ -204,7 +206,7 @@ for st in states:
     data[st] = np.array([i[st] for i in filter(lambda v: v['status'] == 'Confirmed',json.load(open('states.json',))['states_daily'])])
 
 
-# In[ ]:
+# In[13]:
 
 
 data = data.replace(r'^\s*$', np.NaN, regex=True).fillna(0)
@@ -264,7 +266,7 @@ for state in state_id.keys():
     csv_cases_sd=[]
     csv_cases_dates=[]
     print("\n",state)
-    boots = 100
+    boots = 10
     real_data = data[state].values
     active = pd.DataFrame()
     active['active'] = real_data
@@ -348,7 +350,7 @@ df.to_csv('rt.csv',index=False)
 # In[ ]:
 
 
-json_data_indented =  json.dump(json_data, , indent = 4)
+json_data_indented =  json.dump(json_data, indent = 4)
 with open("rt.json", "w") as outfile: 
     outfile.write(json_data_indented)
 
