@@ -1207,24 +1207,24 @@
 			"totalrecovered": "146972"
 		},
 		{
-			"dailyconfirmed": "11113",
+			"dailyconfirmed": "11119",
 			"dailydeceased": "388",
 			"dailyrecovered": "7159",
 			"date": "12 June ",
-			"totalconfirmed": "309406",
+			"totalconfirmed": "309412",
 			"totaldeceased": "8889",
 			"totalrecovered": "154131"
 		}
 	],
 	"statewise": [
 		{
-			"active": "146362",
-			"confirmed": "309405",
+			"active": "146365",
+			"confirmed": "309408",
 			"deaths": "8890",
-			"deltaconfirmed": "11113",
+			"deltaconfirmed": "11119",
 			"deltadeaths": "388",
 			"deltarecovered": "7159",
-			"lastupdatedtime": "12/06/2020 23:44:46",
+			"lastupdatedtime": "13/06/2020 00:22:57",
 			"migratedother": "22",
 			"recovered": "154131",
 			"state": "Total",
@@ -1666,13 +1666,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "76",
-			"confirmed": "80",
+			"active": "79",
+			"confirmed": "83",
 			"deaths": "0",
-			"deltaconfirmed": "13",
+			"deltaconfirmed": "19",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/06/2020 20:35:32",
+			"lastupdatedtime": "13/06/2020 00:23:02",
 			"migratedother": "0",
 			"recovered": "4",
 			"state": "Arunachal Pradesh",
