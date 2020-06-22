@@ -1295,6 +1295,15 @@
 			"totalconfirmed": "426903",
 			"totaldeceased": "13704",
 			"totalrecovered": "237259"
+		},
+		{
+			"dailyconfirmed": "13548",
+			"dailydeceased": "312",
+			"dailyrecovered": "10879",
+			"date": "22 June ",
+			"totalconfirmed": "440451",
+			"totaldeceased": "14016",
+			"totalrecovered": "248138"
 		}
 	],
 	"statewise": [
@@ -1305,7 +1314,7 @@
 			"deltaconfirmed": "13548",
 			"deltadeaths": "312",
 			"deltarecovered": "10879",
-			"lastupdatedtime": "23/06/2020 00:03:13",
+			"lastupdatedtime": "23/06/2020 00:11:17",
 			"migratedother": "51",
 			"recovered": "248137",
 			"state": "Total",
@@ -1529,7 +1538,7 @@
 			"deltaconfirmed": "267",
 			"deltadeaths": "0",
 			"deltarecovered": "161",
-			"lastupdatedtime": "23/06/2020 00:03:16",
+			"lastupdatedtime": "23/06/2020 00:11:27",
 			"migratedother": "3",
 			"recovered": "3566",
 			"state": "Assam",
@@ -1767,7 +1776,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "4",
-			"lastupdatedtime": "23/06/2020 00:03:19",
+			"lastupdatedtime": "23/06/2020 00:11:38",
 			"migratedother": "0",
 			"recovered": "29",
 			"state": "Sikkim",
