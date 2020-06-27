@@ -1,5 +1,5 @@
 # Covid Today | www.covidtoday.in 
-## Tracking India's progress through the coronavirus epidemic. <br/>Every state. Every day. 
+### Tracking India's progress through the coronavirus epidemic. Every state. Every day. 
 
 *As I write this, there is an eerie feeling that tells me that there are enough dashboards tracking COVID-19 in India. But none, like this one. Read me and join in if you find this worth something.*
 <br/>
@@ -54,7 +54,6 @@ Do read [CONTRIBUTING.md](CONTRIBUTING.md) to know how to collaborate on Github.
 <br/><br/>
 Please follow the Code of Conduct this project abides to: [CODE-OF-CONDUCT-.md](CODE-OF-CONDUCT-.md).
 
-## 
 
 ## Raw data sources 
 
@@ -74,6 +73,9 @@ Limitations of the method are listed under each indicator. If you have an idea t
 ## inspired by
 Multiple projects around the globe that have used data and technology in the war against COVID-19. 
 Some of them: www.covidexitstrategy.org, www.covidtracking.com, www.covid19india.org, www.rt.live, www.covid19-projections.com
+
+## Project Admins
+Mohak (AIIMS Delhi), Rishi (IISER Pune), Pratik (IIT Hyd; Microsoft), Aditya (VIT Vellore; Barclays), Siddharth (IIT Gwalior), Apurva (BFCET Bathinda), Abhinav.
 
 ## initiative by iCART
 
