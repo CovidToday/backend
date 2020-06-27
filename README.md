@@ -1,9 +1,12 @@
 # Covid Today | www.covidtoday.in 
 ### Tracking India's progress through the coronavirus epidemic. Every state. Every day. 
-
+Backend repo: https://github.com/CovidToday/backend<br/>
+Frontend repo: https://github.com/CovidToday/FrontEnd<br/>
+Dataset and API: https://github.com/CovidToday/indicator-dataset
+<br/>
+<br/>
+<br/>
 *As I write this, there is an eerie feeling that tells me that there are enough dashboards tracking COVID-19 in India. But none, like this one. Read me and join in if you find this worth something.*
-<br/>
-<br/>
 <br/>
 ## The Concept 
 It is beyond doubt that reckless relaxation of public health measures and social distancing can have a devastating effect in the form of a rapid rise in COVID-19 cases and deaths. **Relaxation of control measures and return to normal social life must happen in a phased manner, based on continous tracking of public health metrics.** [(WHO,](https://www.who.int/publications/i/item/public-health-criteria-to-adjust-public-health-and-social-measures-in-the-context-of-covid-19)[ CDC)](https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/CDC-Activities-Initiatives-for-COVID-19-Response.pdf) These metrics tell us if our hospitals are equipped enough to handle the patient load, whether our testing system is adequate to catch cases, and whether the rate of spread is under control so that public health measures can be optimally adjusted, both spatially and temporally.
@@ -70,9 +73,6 @@ Limitations of the method are listed under each indicator. If you have an idea t
 
 
 
-## inspired by
-Multiple projects around the globe that have used data and technology in the war against COVID-19. 
-Some of them: www.covidexitstrategy.org, www.covidtracking.com, www.covid19india.org, www.rt.live, www.covid19-projections.com
 
 ## Project Admins
 Mohak (AIIMS Delhi), Rishi (IISER Pune), Pratik (IIT Hyd; Microsoft), Aditya (VIT Vellore; Barclays), Siddharth (IIT Gwalior), Apurva (BFCET Bathinda), Abhinav.
@@ -85,3 +85,11 @@ Our team is engaged in clinical and epidemiological research at some of the best
 You may follow us on Twitter [@icart_india](https://twitter.com/icart_india) where we try to engage in meaningful discussions regarding the COVID-19 epidemic with fellow citizens, experts and journalists.
 
 
+## inspired by
+Multiple projects around the globe that have used data and technology in the war against COVID-19. 
+Some of them: www.covidexitstrategy.org, www.covidtracking.com, www.covid19india.org, www.rt.live, www.covid19-projections.com
+
+# Github repositories for the Covid Today project
+Backend repo:https://github.com/CovidToday/backend<br/>
+Frontend repo:https://github.com/CovidToday/FrontEnd<br/>
+Dataset and API:https://github.com/CovidToday/indicator-dataset
