@@ -55,7 +55,7 @@ Do read [CONTRIBUTING.md](CONTRIBUTING.md) to know how to collaborate on Github.
 <br/>
 **If you want to collaborate on other stuff-** Fill a short form [here](https://forms.gle/HDCDVYApfRi319k58) (You can report a bug, suggest an improvement, ask a question, or join as a collaborator). You can also get in touch at covidindiatoday@gmail.com
 <br/><br/>
-Please follow the Code of Conduct this project abides to: [CODE-OF-CONDUCT-.md](CODE-OF-CONDUCT-.md).
+Please follow the Code of Conduct this project abides to: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT-.md).
 
 
 ## Raw data sources 
