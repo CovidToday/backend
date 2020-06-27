@@ -75,7 +75,7 @@ Limitations of the method are listed under each indicator. If you have an idea t
 
 
 ## Project Admins
-Mohak (AIIMS Delhi), Rishi (IISER Pune), Pratik (IIT Hyd; Microsoft), Aditya (VIT Vellore; Barclays), Siddharth (IIT Gwalior), Apurva (BFCET Bathinda), Abhinav.
+Mohak (AIIMS Delhi), Rishi (IISER Pune), Pratik (IIIT Hyd; Microsoft), Aditya (VIT Vellore; Barclays), Siddharth (IIIT Gwalior), Apurva (BFCET Bathinda), Abhinav.
 
 ## initiative by iCART
 
