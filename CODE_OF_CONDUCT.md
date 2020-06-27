@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct at Covid Today
 
 ## Our Pledge
 
