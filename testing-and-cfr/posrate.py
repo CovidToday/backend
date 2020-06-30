@@ -17,6 +17,8 @@ import json
 import wget
 import os
 import os.path
+from datetime import datetime
+import pytz 
 from collections import OrderedDict
 from google.colab import drive
 #os.chdir('/content/gdrive/My Drive')
@@ -99,8 +101,8 @@ state_id = {
   "SK":"Sikkim",
 }
 
-from datetime import datetime
-x=datetime.today()
+start=datetime.now()
+x=datetime.now(pytz.timezone('Asia/Kolkata')).date()
 dd=pd.date_range(start="2020-01-30",end=x)
 dates=[]
 for i in range(len(dd)):
@@ -217,7 +219,7 @@ for j in state_id.keys():
     csv_daily_tested.append(daily_tested[i])
     csv_cum_tested.append(tested_cum[i])
     csv_test_per_million.append(test_per_million[i])
-
+  #print(st)
   states[st]={
                     'dates':dates1,
                     'cum_positive_cases':pos_cum,
@@ -234,9 +236,10 @@ for j in state_id.keys():
                     'cum_tests': tested_cum,
                     'test_per_million':test_per_million[:-1],    
               }
+end=datetime.now()
+print(end-start)
 
-from datetime import datetime
-states['datetime']=str(datetime.now())
+states['datetime']=str(datetime.now(pytz.timezone('Asia/Kolkata')))
 with open('positivity_Rate.json', 'w') as outfile:
     json.dump(states, outfile,indent=4)
 
@@ -257,3 +260,4 @@ df['daily_tests']=csv_daily_tested
 df['cum_tested']=csv_cum_tested
 df['test_per_million']=csv_test_per_million
 df.to_csv('positivity_Rate.csv',index=False)
+
