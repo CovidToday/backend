@@ -32,7 +32,7 @@ Once you have been assigned an issue as above, you may proceed to work on it:
 
 ### Pull Request: conventions to follow
 
-- Name your PR as: `[type]:[description of change]`
+- Name your PR as: `[type]:[description of change]`. Types are
   - `[add]` = add a new feature
   - `[try]` = experimental feature, "tentatively add"
   - `[fix]` = fix and update an existing feature
