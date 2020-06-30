@@ -1,8 +1,11 @@
 # Covid Today | www.covidtoday.in 
 ### Tracking India's progress through the coronavirus epidemic. Every state. Every day. 
+<p align="center"><img src="https://github.com/CovidToday/backend/blob/master/poster.png?raw=true" width='80%'></p>
+
+**Latest datasets and API: https://github.com/CovidToday/indicator-dataset<br/>
 Backend repo: https://github.com/CovidToday/backend<br/>
 Frontend repo: https://github.com/CovidToday/FrontEnd<br/>
-Dataset and API: https://github.com/CovidToday/indicator-dataset
+How to start contributing: [CONTRIBUTING.md](CONTRIBUTING.md)**
 <br/>
 <br/>
 <br/>
@@ -89,7 +92,3 @@ You may follow us on Twitter [@icart_india](https://twitter.com/icart_india) whe
 Multiple projects around the globe that have used data and technology in the war against COVID-19. 
 Some of them: www.covidexitstrategy.org, www.covidtracking.com, www.covid19india.org, www.rt.live, www.covid19-projections.com
 
-# Github repositories for the Covid Today project
-Backend repo:https://github.com/CovidToday/backend<br/>
-Frontend repo:https://github.com/CovidToday/FrontEnd<br/>
-Dataset and API:https://github.com/CovidToday/indicator-dataset
