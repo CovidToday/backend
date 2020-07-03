@@ -1,4 +1,4 @@
-State_Code,State,District_Key,District,Confirmed,Notes
+﻿State_Code,State,District_Key,District,Confirmed,Notes
 MH,Maharashtra,MH_Mumbai,Mumbai,12442373,mumbai city+mumbai suburban
 TN,Tamil Nadu,TN_Chennai,Chennai,4646732,
 MH,Maharashtra,MH_Thane,Thane,8070032,thane after bifurcation
@@ -12,3 +12,8 @@ TN,Tamil Nadu,TN_Chengalpattu,Chengalpattu,2556423,new district from kanchipuram
 WB,West Bengal,WB_Kolkata,Kolkata,4496694,
 GJ,Gujarat,GJ_Surat,Surat,6081322,
 HR,Haryana,HR_Gurugram,Gurugram,1514432,
+,,,,,
+,,,,,
+,,,,,
+source: https://censusindia.gov.in/2011census/population_enumeration.html,,,,,
+http://censusindia.gov.in/pca/DDW_PCA0000_2011_Indiastatedist.xlsx,,,,,
