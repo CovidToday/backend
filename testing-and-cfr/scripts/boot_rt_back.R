@@ -5,7 +5,7 @@ setwd(".")
 df = read.csv("confirmed.csv")
 epid.count = as.numeric(unlist(c(df['active'])))[1:(length(unlist(c(df['active']))))]
 
-boot_unit = 10
+boot_unit = 1
 
 #epid.count = rollmean(rollmean(epid.count,7),7)
 
