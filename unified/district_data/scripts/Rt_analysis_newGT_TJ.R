@@ -9,4 +9,4 @@ res.R = estimate_R(epid.count,method = "uncertain_si",config = make_config(list(
                                                                                 std_si = 1.51, std_std_si = 0.5575,
                                                                                 min_std_si = 0.74, max_std_si = 2.97,
                                                                                 n1 = 114, n2 = 114,mean_prior=2.6,std_prior=2)))
-write.csv(res.R$R,'rtoutput.csv',row.names = TRUE)
+write.csv(res.R$R,'rt_temp/rtoutput.csv',row.names = TRUE)
