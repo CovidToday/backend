@@ -11,9 +11,13 @@ Frontend repo: https://github.com/CovidToday/FrontEnd<br/>
 How to start contributing: [CONTRIBUTING.md](CONTRIBUTING.md)**
 <br/>
 <br/>
+<p align="center"><img src="https://raw.githubusercontent.com/CovidToday/frontend/master/src/images/featured.png?raw=true" width='80%'></p>
 <br/>
+
 *As I write this, there is an eerie feeling that tells me that there are enough dashboards tracking COVID-19 in India. But none, like this one. Read me and join in if you find this worth something.*
+
 <br/>
+
 ## The Concept 
 It is beyond doubt that reckless relaxation of public health measures and social distancing can have a devastating effect in the form of a rapid rise in COVID-19 cases and deaths. **Relaxation of control measures and return to normal social life must happen in a phased manner, based on continous tracking of public health metrics.** [(WHO,](https://www.who.int/publications/i/item/public-health-criteria-to-adjust-public-health-and-social-measures-in-the-context-of-covid-19)[ CDC)](https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/CDC-Activities-Initiatives-for-COVID-19-Response.pdf) These metrics tell us if our hospitals are equipped enough to handle the patient load, whether our testing system is adequate to catch cases, and whether the rate of spread is under control so that public health measures can be optimally adjusted, both spatially and temporally.
 
