@@ -1,0 +1,37 @@
+﻿SlNo,State_Code,State,District_Key,District,Population
+157,GJ,Gujarat,GJ_Ahmedabad,Ahmedabad,7214225
+4,AP,Andhra Pradesh,AP_Anantapur,Anantapur,4081148
+372,MH,Maharashtra,MH_Aurangabad,Aurangabad,3701282
+273,KA,Karnataka,KA_Bengaluru Urban,Bengaluru Urban,9621551
+732,TN,Tamil Nadu,TN_Chengalpattu,Chengalpattu,2556423
+545,TN,Tamil Nadu,TN_Chennai,Chennai,4646732
+5,AP,Andhra Pradesh,AP_Chittoor,Chittoor,4174064
+6,AP,Andhra Pradesh,AP_East Godavari,East Godavari,5154296
+193,HR,Haryana,HR_Faridabad,Faridabad,1809733
+461,OR,Odisha,OR_Ganjam,Ganjam,3529031
+645,UP,Uttar Pradesh,UP_Gautam Buddha Nagar,Gautam Buddha Nagar,1648115
+646,UP,Uttar Pradesh,UP_Ghaziabad,Ghaziabad,4681645
+7,AP,Andhra Pradesh,AP_Guntur,Guntur,4887813
+195,HR,Haryana,HR_Gurugram,Gurugram,1514432
+578,TG,Telangana,TG_Hyderabad,Hyderabad,3943323
+381,MH,Maharashtra,MH_Jalgaon,Jalgaon,4229917
+60,AS,Assam,AS_Kamrup Metropolitan,Kamrup Metropolitan,1253938
+551,TN,Tamil Nadu,TN_Kancheepuram,Kancheepuram,3998252
+716,WB,West Bengal,WB_Kolkata,Kolkata,4496694
+9,AP,Andhra Pradesh,AP_Kurnool,Kurnool,4053463
+555,TN,Tamil Nadu,TN_Madurai,Madurai,3038252
+591,TG,Telangana,TG_Medchal Malkajgiri,Medchal Malkajgiri,2440073
+385,MH,Maharashtra,MH_Mumbai,Mumbai,12442373
+390,MH,Maharashtra,MH_Nashik,Nashik,6107187
+721,WB,West Bengal,WB_North 24 Parganas,North 24 Parganas,10009781
+392,MH,Maharashtra,MH_Palghar,Palghar,2990116
+394,MH,Maharashtra,MH_Pune,Pune,9429408
+395,MH,Maharashtra,MH_Raigad,Raigad,2634200
+600,TG,Telangana,TG_Ranga Reddy,Ranga Reddy,2446265
+400,MH,Maharashtra,MH_Solapur,Solapur,4317756
+184,GJ,Gujarat,GJ_Surat,Surat,6081322
+401,MH,Maharashtra,MH_Thane,Thane,8070032
+566,TN,Tamil Nadu,TN_Thiruvallur,Thiruvallur,3728104
+572,TN,Tamil Nadu,TN_Tiruvannamalai,Tiruvannamalai,2464875
+573,TN,Tamil Nadu,TN_Vellore,Vellore,3936331
+15,AP,Andhra Pradesh,AP_West Godavari,West Godavari,3936966
