@@ -1,37 +1,55 @@
-﻿SlNo,State_Code,State,District_Key,District,Population
-157,GJ,Gujarat,GJ_Ahmedabad,Ahmedabad,7214225
-4,AP,Andhra Pradesh,AP_Anantapur,Anantapur,4081148
-372,MH,Maharashtra,MH_Aurangabad,Aurangabad,3701282
-273,KA,Karnataka,KA_Bengaluru Urban,Bengaluru Urban,9621551
-732,TN,Tamil Nadu,TN_Chengalpattu,Chengalpattu,2556423
-545,TN,Tamil Nadu,TN_Chennai,Chennai,4646732
-5,AP,Andhra Pradesh,AP_Chittoor,Chittoor,4174064
-6,AP,Andhra Pradesh,AP_East Godavari,East Godavari,5154296
-193,HR,Haryana,HR_Faridabad,Faridabad,1809733
-461,OR,Odisha,OR_Ganjam,Ganjam,3529031
-645,UP,Uttar Pradesh,UP_Gautam Buddha Nagar,Gautam Buddha Nagar,1648115
-646,UP,Uttar Pradesh,UP_Ghaziabad,Ghaziabad,4681645
-7,AP,Andhra Pradesh,AP_Guntur,Guntur,4887813
-195,HR,Haryana,HR_Gurugram,Gurugram,1514432
-578,TG,Telangana,TG_Hyderabad,Hyderabad,3943323
-381,MH,Maharashtra,MH_Jalgaon,Jalgaon,4229917
-60,AS,Assam,AS_Kamrup Metropolitan,Kamrup Metropolitan,1253938
-551,TN,Tamil Nadu,TN_Kancheepuram,Kancheepuram,3998252
-716,WB,West Bengal,WB_Kolkata,Kolkata,4496694
-9,AP,Andhra Pradesh,AP_Kurnool,Kurnool,4053463
-555,TN,Tamil Nadu,TN_Madurai,Madurai,3038252
-591,TG,Telangana,TG_Medchal Malkajgiri,Medchal Malkajgiri,2440073
-385,MH,Maharashtra,MH_Mumbai,Mumbai,12442373
-390,MH,Maharashtra,MH_Nashik,Nashik,6107187
-721,WB,West Bengal,WB_North 24 Parganas,North 24 Parganas,10009781
-392,MH,Maharashtra,MH_Palghar,Palghar,2990116
-394,MH,Maharashtra,MH_Pune,Pune,9429408
-395,MH,Maharashtra,MH_Raigad,Raigad,2634200
-600,TG,Telangana,TG_Ranga Reddy,Ranga Reddy,2446265
-400,MH,Maharashtra,MH_Solapur,Solapur,4317756
-184,GJ,Gujarat,GJ_Surat,Surat,6081322
-401,MH,Maharashtra,MH_Thane,Thane,8070032
-566,TN,Tamil Nadu,TN_Thiruvallur,Thiruvallur,3728104
-572,TN,Tamil Nadu,TN_Tiruvannamalai,Tiruvannamalai,2464875
-573,TN,Tamil Nadu,TN_Vellore,Vellore,3936331
-15,AP,Andhra Pradesh,AP_West Godavari,West Godavari,3936966
+﻿State_Code,District,Population
+AP,Anantapur,4081148
+AP,Chittoor,4174064
+AP,East Godavari,5154296
+AP,Guntur,4887813
+AP,Kurnool,4053463
+AP,Prakasam,3397448
+AP,Srikakulam,2703114
+AP,Visakhapatnam,4290589
+AP,Vizianagaram,2344474
+AP,West Godavari,3936966
+AS,Kamrup Metropolitan,1253938
+BR,Begusarai,2970541
+BR,Patna,5838465
+GJ,Ahmedabad,7214225
+GJ,Rajkot,3804558
+GJ,Surat,6081322
+GJ,Vadodara,4165626
+HR,Faridabad,1809733
+HR,Gurugram,1514432
+KA,Bengaluru Urban,9621551
+MH,Aurangabad,3701282
+MH,Jalgaon,4229917
+MH,Kolhapur,3876001
+MH,Mumbai,12442373
+MH,Nagpur,4653570
+MH,Nashik,6107187
+MH,Palghar,2990116
+MH,Pune,9429408
+MH,Raigad,2634200
+MH,Solapur,4317756
+MH,Thane,8070032
+MP,Bhopal,2371061
+MP,Indore,3276697
+OR,Ganjam,3529031
+PB,Ludhiana,3498739
+TG,Hyderabad,3943323
+TG,Medchal Malkajgiri,2440073
+TG,Ranga Reddy,2446265
+TN,Chengalpattu,2556423
+TN,Chennai,4646732
+TN,Kancheepuram,3998252
+TN,Madurai,3038252
+TN,Thiruvallur,3728104
+TN,Tiruvannamalai,2464875
+TN,Vellore,3936331
+UP,Aligarh,3673889
+UP,Bareilly,4448359
+UP,Gautam Buddha Nagar,1648115
+UP,Ghaziabad,4681645
+UP,Kanpur Nagar,4581268
+UP,Lucknow,4589838
+UP,Varanasi,3676841
+WB,Kolkata,4496694
+WB,North 24 Parganas,10009781
