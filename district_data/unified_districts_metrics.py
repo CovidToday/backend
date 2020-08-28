@@ -16,12 +16,12 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from subprocess import call
 from scipy.stats.distributions import gamma,lognorm
-import json 
+import json
 import wget
 import os
 import os.path
 from datetime import datetime
-import pytz 
+import pytz
 from collections import OrderedDict
 #from google.colab import drive
 import math
@@ -51,7 +51,7 @@ wget.download('https://api.covid19india.org/v4/data-all.json', os.path.join(os.g
 # In[ ]:
 
 
-def convert(dat): 
+def convert(dat):
     return datetime.strptime(dat, '%Y-%m-%d').strftime('%d %B')
 
 
@@ -168,7 +168,7 @@ test=json.load(open('test.json'))
 
 
 for j in state_id.keys():
-  for k in state_id[j]:   
+  for k in state_id[j]:
     test_per_million = ['']*len(dates)
     pos_cum = ['']*len(dates)
     pos_rate_cum = ['']*len(dates)
@@ -189,33 +189,33 @@ for j in state_id.keys():
     daily_test_per_million = ['']*len(dates)
     daily_test_ma = ['']*len(dates)
     daily_deceased_ma = ['']*len(dates)
-    
+
     for i in range(len(dates)):
-      
+
       if dates[i] in test.keys():
-          temp=test[dates[i]] 
+          temp=test[dates[i]]
           if j in temp.keys():
-            
+
             if 'districts' in temp[j].keys():
-          
+
               if k in temp[j]['districts']:
-               
+
                 if 'total' in temp[j]['districts'][k].keys():
-                  
+
                   if 'confirmed' in temp[j]['districts'][k]['total'].keys():
-                  
+
                     pos_cum[i]=temp[j]['districts'][k]['total']['confirmed']
 
                   if 'tested' in temp[j]['districts'][k]['total'].keys():
                     tested_cum[i]=abs(temp[j]['districts'][k]['total']['tested'])
                     test_per_million[i]=temp[j]['districts'][k]['total']['tested']*1000000/int(population["Population"][k])
-                      
+
                   if 'deceased' in temp[j]['districts'][k]['total'].keys():
                     deceased_cum[i]=temp[j]['districts'][k]['total']['deceased']
-                  
+
                   if 'recovered' in temp[j]['districts'][k]['total'].keys():
                     recovered_cum[i]=temp[j]['districts'][k]['total']['recovered']
-                  
+
                   if len(str(pos_cum[i])) and len(str(tested_cum[i])):
                     pos_rate_cum[i]= pos_cum[i]*100/tested_cum[i]
 
@@ -235,14 +235,14 @@ for j in state_id.keys():
                       daily_test_per_million[i] = ''
                   if 'deceased' in temp[j]['districts'][k]['delta'].keys():
                     daily_deceased[i]=temp[j]['districts'][k]['delta']['deceased']
-                  
+
                   if 'recovered' in temp[j]['districts'][k]['delta'].keys():
                     daily_recovered[i]=temp[j]['districts'][k]['delta']['recovered']
-                  
+
                   if len(str(daily_pos[i])) and len(str(daily_tested[i])):
                     daily_pos_rate[i]=int(daily_pos[i])*100/int(daily_tested[i])
 
-      
+
 
     for w in range(7,len(daily_pos)):
                   sum1=0
@@ -253,7 +253,7 @@ for j in state_id.keys():
                       sum2+=int(daily_tested[w-s])
                   if (sum2!=0):
                     daily_pos_rate_ma[w]=sum1*100/abs(sum2)
-                
+
     for w in range(7,len(daily_pos)):
                   sum1=0
                   count=0
@@ -264,18 +264,18 @@ for j in state_id.keys():
                   if count!=0:
                     daily_pos_ma[w]=sum1/count
 
- 
+
     for w in range(7,len(daily_tested)):
       sum1=0
       count=0
       for s in range(7):
         if (len(str(daily_tested[w-s]))!=0):
           sum1+=int(daily_tested[w-s])
-        
+
           count+=1
       if count!=0:
         daily_test_ma[w]=sum1/count
-        
+
 
     for w in range(7,len(daily_deceased)):
       sum1=0
@@ -308,12 +308,12 @@ for j in state_id.keys():
                   csv_cum_tested.append(tested_cum[i])
                   csv_test_per_million.append(test_per_million[i])
 
-                 
+
                   csv_daily_case_per_million.append(daily_case_per_million[i])
                   csv_daily_test_per_million.append(daily_test_per_million[i])
                   csv_daily_test_ma.append(daily_test_ma[i])
                   csv_daily_deceased_ma.append(daily_deceased_ma[i])
-      
+
     states[k]={
                                   'dates':dates1[:-1],
                                   'cum_positive_cases':pos_cum[:-1],
@@ -325,7 +325,7 @@ for j in state_id.keys():
                                   'daily_deceased':daily_deceased[:-1],
                                   'daily_positivity_rate':daily_pos_rate[:-1],
                                   'daily_positive_cases_ma': daily_pos_ma[:-1],
-                                  'daily_positivity_rate_ma':daily_pos_rate_ma[:-1] , 
+                                  'daily_positivity_rate_ma':daily_pos_rate_ma[:-1] ,
                                   'daily_tests': daily_tested[:-1],
                                   'cum_tests': tested_cum[:-1],
                                   'test_per_million':test_per_million[:-1],
@@ -381,11 +381,11 @@ test= test_json
 
 for x in t:
   temp = test[x]
-  
+
   states={}
   for j in state_id.keys():
     for k in state_id[j]:
-    
+
       test_per_million = temp1[k]['test_per_million']
       pos_cum = temp1[k]['cum_positive_cases']
       pos_rate_cum = temp1[k]['cum_positivity_rate']
@@ -398,14 +398,14 @@ for x in t:
       deceased_cum = temp1[k]['cum_deceased']
       daily_deceased = temp1[k]['daily_deceased']
       recovered_cum = temp1[k]['cum_recovered']
-      daily_recovered = temp1[k]['daily_recovered'] 
+      daily_recovered = temp1[k]['daily_recovered']
 
       #New added
       daily_case_per_million  = temp1[k]['daily_cases_per_million']
       daily_test_per_million  = temp1[k]['daily_tests_per_million']
       daily_test_ma  = temp1[k]['daily_tests_ma']
       daily_deceased_ma  = temp1[k]['daily_deceased_ma']
-      
+
       dates=temp1[k]['dates']
       if convert(x) not in dates :
         print(1)
@@ -429,7 +429,7 @@ for x in t:
         if convert(x)==dates[l]:
           i=l
           break
-      
+
       if dates[i] in test.keys():
           temp=test[dates[i]] #New
           # Previoustemp=json.load(open('test.json'))[dates[i]]
@@ -443,13 +443,13 @@ for x in t:
                     if 'tested' in temp[j]['districts'][k]['total'].keys():
                       tested_cum[i]=abs(temp[j]['districts'][k]['total']['tested'])
                       test_per_million[i]=temp[j]['districts'][k]['total']['tested']*1000000/int(population["Population"][k])
-                        
+
                     if 'deceased' in temp[j]['districts'][k]['total'].keys():
                       deceased_cum[i]=temp[j]['districts'][k]['total']['deceased']
-                    
+
                     if 'recovered' in temp[j]['districts'][k]['total'].keys():
                       recovered_cum[i]=temp[j]['districts'][k]['total']['recovered']
-                    
+
                     if len(str(pos_cum[i])) and len(str(tested_cum[i])):
                       pos_rate_cum[i]= pos_cum[i]*100/tested_cum[i]
 
@@ -470,10 +470,10 @@ for x in t:
 
                     if 'deceased' in temp[j]['districts'][k]['delta'].keys():
                       daily_deceased[i]=temp[j]['districts'][k]['delta']['deceased']
-                    
+
                     if 'recovered' in temp[j]['districts'][k]['delta'].keys():
                       daily_recovered[i]=temp[j]['districts'][k]['delta']['recovered']
-                    
+
                     if len(str(daily_pos[i])) and len(str(daily_tested[i])):
                       daily_pos_rate[i]=int(daily_pos[i])*100/int(daily_tested[i])
 
@@ -486,7 +486,7 @@ for x in t:
             sum2+=int(daily_tested[w-s])
         if (sum2!=0):
           daily_pos_rate_ma[w]=sum1*100/abs(sum2)
-      
+
       for w in range(7,len(daily_pos)):
         sum1=0
         count=0
@@ -504,11 +504,11 @@ for x in t:
         for s in range(7):
           if (len(str(daily_tested[w-s]))!=0):
             sum1+=int(daily_tested[w-s])
-          
+
             count+=1
         if count!=0:
           daily_test_ma[w]=sum1/count
-          
+
       #New
       for w in range(7,len(daily_deceased)):
         sum1=0
@@ -523,7 +523,7 @@ for x in t:
 
       st=k
       for i in range(len(dates)):
-          
+
           csv_dates.append(dates[i])
           csv_states.append(st)
           csv_total_cases.append(pos_cum[i])
@@ -539,14 +539,14 @@ for x in t:
           csv_daily_tested.append(daily_tested[i])
           csv_cum_tested.append(tested_cum[i])
           csv_test_per_million.append(test_per_million[i])
-          
+
           #New
           csv_daily_case_per_million.append(daily_case_per_million[i])
           csv_daily_test_per_million.append(daily_test_per_million[i])
           csv_daily_test_ma.append(daily_test_ma[i])
           csv_daily_deceased_ma.append(daily_deceased_ma[i])
       #print(st)
-      
+
       states[st]={
                       'dates':dates,
                       'cum_positive_cases':pos_cum,
@@ -558,19 +558,19 @@ for x in t:
                       'daily_deceased':daily_deceased,
                       'daily_positivity_rate':daily_pos_rate,
                       'daily_positive_cases_ma': daily_pos_ma,
-                      'daily_positivity_rate_ma':daily_pos_rate_ma , 
+                      'daily_positivity_rate_ma':daily_pos_rate_ma ,
                       'daily_tests': daily_tested,
                       'cum_tests': tested_cum,
-                      'test_per_million':test_per_million,   
+                      'test_per_million':test_per_million,
 
                       #New
                       'daily_cases_per_million':daily_case_per_million,
                       'daily_tests_per_million':daily_test_per_million,
                       'daily_tests_ma':daily_test_ma,
-                      'daily_deceased_ma':daily_deceased_ma 
+                      'daily_deceased_ma':daily_deceased_ma
                 }
 
-    
+
 
 states['datetime']=str(datetime.now(pytz.timezone('Asia/Kolkata')))
 with open('positivity_Rate_dist.json', 'w') as outfile:
@@ -699,10 +699,9 @@ data_confirmed['date'] = dates[:-1]
 json_data={}
 cfr = pd.DataFrame()
 final=pd.DataFrame()
-plt.figure(1, figsize=(15, 7))
 for st in districts:
     print("cfr() -- Working : ",st)
-    
+
     state=st
     boots = 100
     conf = []
@@ -713,7 +712,7 @@ for st in districts:
         if n  == boots//2:
           print("Progress : 50%")
         if n  == (boots*3)//4:
-          print("Progress : 75%")  
+          print("Progress : 75%")
         if n  == boots-1:
           print("Progress : 100%")
 
@@ -763,10 +762,7 @@ for st in districts:
     cfr_state['cfr3_l50']=(list(100*n2z(np.quantile(CFR,0.25,axis=0))))
     cfr_state['cfr3_u50']=(list(100*n2z(np.quantile(CFR,0.75,axis=0))))
     cfr=pd.concat([cfr, cfr_state])
-      
-    plt.plot(temp['cfr3_point'],label=state)
-    plt.legend()
-    plt.ylim(0,10)
+
 
 
 # In[ ]:
@@ -781,7 +777,7 @@ json_data['datetime']=str(datetime.now())
 
 
 json_data_indented = json.dumps(json_data, indent = 4)
-with open("cfr_district.json", "w") as outfile: 
+with open("cfr_district.json", "w") as outfile:
     outfile.write(json_data_indented)
 
 
@@ -844,7 +840,7 @@ for j in state_id.keys():
 
 
 json_data_indented = json.dumps(json_data, indent = 4)
-with open("doubling_rate_dist.json", "w") as outfile: 
+with open("doubling_rate_dist.json", "w") as outfile:
     outfile.write(json_data_indented)
 
 
@@ -856,19 +852,18 @@ with open("doubling_rate_dist.json", "w") as outfile:
 rt_json = {}
 
 rt = pd.DataFrame()
-# plt.figure(1, figsize=(15, 7))
 for j in state_id.keys():
   for st in state_id[j]:
     state=st
     print("Working : ",state)
-    
+
     temp = pd.DataFrame()
     #temp["active"] = data_confirmed[state]
     temp["active"] = np.array(data_confirmed[state]).clip(0).tolist()
 
     temp.to_csv('confirmed.csv')
     call(['RScript.exe','scripts/Rt_analysis_newGT_TJ.R'])
-    
+
     values = {
             'rt_point':[],
             'rt_sd':[],
@@ -894,20 +889,15 @@ for j in state_id.keys():
     rt_state['state']=[str(state)]*len(values['dates'])
     rt_state['dates']= values['dates']
     rt_state['rt_point'] = values['rt_point']
-    rt_state['rt_sd'] = values['rt_sd']    
-    rt_state['rt_l95'] = values['rt_l95']    
-    rt_state['rt_u95'] = values['rt_u95']    
+    rt_state['rt_sd'] = values['rt_sd']
+    rt_state['rt_l95'] = values['rt_l95']
+    rt_state['rt_u95'] = values['rt_u95']
     rt_state['rt_l50'] = values['rt_l50']
     rt_state['rt_u50'] = values['rt_u50']
     rt=pd.concat([rt, rt_state])
-  
+
     rt_json[st] = values
-    
-    plt.plot(range(len(values['rt_point'])),values['rt_point'],label=state)
-    plt.fill_between(range(len(values['rt_point'])),values['rt_l95'],values['rt_u95'],alpha=0.5)
-    plt.ylim(0,4)
-    plt.legend()
-    plt.show()
+
 
 
 # In[ ]:
@@ -937,12 +927,12 @@ def shift_rt_metrics(dict,key,days):
   new_val = list(values_shifted)
 
   size = len(dict['dates'])
-  
+
   for i in range(days):
     new_val[size-1-i]=''
 
   return new_val
- 
+
 
 
 # In[ ]:
@@ -958,7 +948,7 @@ for sta in state_id.keys():
         rt_json_shifted[st]['rt_u95'] = shift_rt_metrics(rt_json[st],'rt_u95',days)
         rt_json_shifted[st]['rt_l50'] = shift_rt_metrics(rt_json[st],'rt_l50',days)
         rt_json_shifted[st]['rt_u50'] = shift_rt_metrics(rt_json[st],'rt_u50',days)
-        rt_json_shifted[st]['t_end'] = shift_rt_metrics(rt_json[st],'t_end',days) 
+        rt_json_shifted[st]['t_end'] = shift_rt_metrics(rt_json[st],'t_end',days)
 
 
 # In[ ]:
@@ -967,13 +957,13 @@ for sta in state_id.keys():
 for st in state_id.keys():
     dist = state_id[st]
     leng = len(dates[:-1])
-    
+
     #states[state]['dates'] =  temp1['India']['dates']
     for state in dist:
         for keys in list(rt_json_shifted[state].keys())[:-1]:
             if len(rt_json_shifted[state][keys])<leng:
-                rt_json_shifted[state][keys].extend(['' for i in range(leng-len(rt_json_shifted[state][keys]))]) 
-                
+                rt_json_shifted[state][keys].extend(['' for i in range(leng-len(rt_json_shifted[state][keys]))])
+
         rt_json_shifted[state]['dates'] = dates[:-1]
 
 
@@ -1016,14 +1006,14 @@ for sta in state_id.keys():
 
 for st in state_id.keys():
     dist = state_id[st]
-        
+
     leng = len(dates[:-1])
 
         #states[state]['dates'] =  temp1['India']['dates']
     for state in dist:
         for keys in list(states[state].keys())[1:]:
             if len(states[state][keys])<leng:
-                states[state][keys].extend(['' for i in range(leng-len(states[state][keys]))]) 
+                states[state][keys].extend(['' for i in range(leng-len(states[state][keys]))])
 
 
 # In[ ]:
@@ -1032,12 +1022,12 @@ for st in state_id.keys():
 for st in state_id.keys():
     dist = state_id[st]
     leng = len(dates[:-1])
-    
+
     #states[state]['dates'] =  temp1['India']['dates']
     for state in dist:
          for keys in list(states_shifted[state].keys())[1:]:
             if len(states_shifted[state][keys])<leng:
-                states_shifted[state][keys].extend(['' for i in range(leng-len(states_shifted[state][keys]))]) 
+                states_shifted[state][keys].extend(['' for i in range(leng-len(states_shifted[state][keys]))])
 
 
 # In[ ]:
@@ -1120,7 +1110,7 @@ for i in keys:
   d=len(states['Mumbai']['dates'])
 
   temp['state']=[str(i)]*d
-  
+
   for j in cols:
     print(i,j)
     temp[j]=list(states[i][j])[:d]
@@ -1141,11 +1131,11 @@ for i in keys:
   temp=pd.DataFrame()
   d=len(states_shifted['Mumbai']['dates'])
   temp['state']=[str(i)]*d
-  
+
   for j in cols:
     print(i,j)
     temp[j]=list(states_shifted[i][j])
-  
+
   complete_shifted = pd.concat([complete_shifted,temp])
 
 
@@ -1171,7 +1161,7 @@ complete_shifted.to_csv('allmetrics_districts.csv',index=False)
 
 
 states_indented = json.dumps(states, indent = 4)
-with open("covidtoday_dist.json", "w") as outfile: 
+with open("covidtoday_dist.json", "w") as outfile:
     outfile.write(states_indented)
 
 
@@ -1179,7 +1169,7 @@ with open("covidtoday_dist.json", "w") as outfile:
 
 
 states_indented = json.dumps(states_shifted, indent = 4)
-with open("allmetrics_districts.json", "w") as outfile: 
+with open("allmetrics_districts.json", "w") as outfile:
     outfile.write(states_indented)
 
 
@@ -1190,7 +1180,3 @@ with open("allmetrics_districts.json", "w") as outfile:
 
 
 # In[ ]:
-
-
-
-
