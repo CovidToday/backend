@@ -9,8 +9,8 @@ AP,Srikakulam,2703114
 AP,Visakhapatnam,4290589
 AP,Vizianagaram,2344474
 AP,West Godavari,3936966
-AP,SPS Nellore,2966082
-AP,YSR Kadapa,2884524
+AP,S.P.S. Nellore,2966082
+AP,Y.S.R. Kadapa,2884524
 AS,Kamrup Metropolitan,1253938
 BR,Begusarai,2970541
 BR,Patna,5838465
@@ -39,9 +39,6 @@ MP,Bhopal,2371061
 MP,Indore,3276697
 OR,Ganjam,3529031
 PB,Ludhiana,3498739
-TG,Hyderabad,3943323
-TG,Medchal Malkajgiri,2440073
-TG,Ranga Reddy,2446265
 TN,Chengalpattu,2556423
 TN,Chennai,4646732
 TN,Kancheepuram,3998252
@@ -59,3 +56,5 @@ UP,Varanasi,3676841
 UP,Prayagraj,5954391
 WB,Kolkata,4496694
 WB,North 24 Parganas,10009781
+PB,S.A.S. Nagar,994628
+PB,Jalandhar,2193590
