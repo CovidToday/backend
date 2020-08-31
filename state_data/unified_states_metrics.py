@@ -809,7 +809,7 @@ for st in state_id.keys():
     print("cfr() -- Working : ",state_id[st])
 
     state=state_id[st]
-    boots = 100
+    boots = 1
     conf = []
     for n in range(boots):
         if n  == boots//4:
