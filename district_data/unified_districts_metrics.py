@@ -703,7 +703,7 @@ for st in districts:
     print("cfr() -- Working : ",st)
 
     state=st
-    boots = 100
+    boots = 1
     conf = []
     for n in range(boots):
         #print("Iteration: ",n+1,end='\r')
