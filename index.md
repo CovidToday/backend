@@ -5,7 +5,7 @@
 <a href="state_data/allmetrics_states.csv" download>CSV</a>
 <br/>
 ## Latest district-wise data
-<a href="district_data/allmetrics_districts.json" download>JSON</a>
+<a href="tree/master/district_data/allmetrics_districts.json" download>JSON</a>
 <a href="district_data/allmetrics_districts.csv" download>CSV</a>
 
 
