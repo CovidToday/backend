@@ -1,4 +1,4 @@
----
+﻿---
 ---
 .
 ### Download latest *state-wise* data
@@ -12,7 +12,7 @@
 <br/>
 
 ## Abbreviations used in datasets
-* `dbt_` : Doubling time in days
+* `dbt_` : Doubling time (in days)
 * `rt_` : Reproduction number 
 * `cfr1_` : Crude case fatality rate or Naïve CFR [Deaths/Total Cases]
 * `cfr2_` : Outcome adjusted fatality rate [Deaths/(Recov+Deaths)] - maybe more meaningful because it excludes active cases with yet unknown outcome
