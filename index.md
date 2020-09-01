@@ -1,6 +1,6 @@
 ---
 ---
-
+.
 ### Download latest *state-wise* data
 **<a href="state_data/allmetrics_states.json" download>JSON</a><br/>
 <a href="state_data/allmetrics_states.csv" download>CSV</a>** 
