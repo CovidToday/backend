@@ -16,13 +16,13 @@
 title: Datasets | Covid Today India
 email: "covidtodayindia@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  An open-sourced volunteer initiative by India COVID-19 Apex Research Team (iCART).
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "CovidToday/dataset"
+repository: "CovidToday/backend"
 
 # Build settings
 plugins:
@@ -31,8 +31,8 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
-    - readme.md 
-    - contributing.md
+  - index.md
+  - readme.md
     
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
