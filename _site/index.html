@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+ <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Download | Datasets Covid Today India</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Download" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A Bootstrap 4 start up project for Jekyll and Github Pages" />
+<meta property="og:description" content="A Bootstrap 4 start up project for Jekyll and Github Pages" />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Datasets Covid Today India" />
+<script type="application/ld+json">
+{"@type":"WebSite","url":"http://localhost:4000/","name":"Datasets Covid Today India","headline":"Download","description":"A Bootstrap 4 start up project for Jekyll and Github Pages","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Datasets | Covid Today India" /><script src="/assets/javascript/bootstrap/jquery.min.js"></script>
+  <script src="/assets/javascript/bootstrap/bootstrap.bundle.min.js"></script>
+</head>
+<body><nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container">
+    <a class="navbar-brand" rel="author" href="/">Datasets | Covid Today India</a><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto"><li class="nav-item">
+          <a class="nav-link" href="https://github.com/CovidToday/dataset">Fork me on Github</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<div class="py-5">
+      <div class="container page-content">
+          <div><header>
+    <h1>Download</h1>
+  </header><section>
+    <h1 id="download">Download</h1>
+<p><br /></p>
+<h2 id="latest-state-wise-data">Latest state-wise data</h2>
+<p><a href="state_data/allmetrics_states.json" download="">JSON</a>
+<a href="state_data/allmetrics_states.csv" download="">CSV</a>
+<br /></p>
+<h2 id="latest-district-wise-data">Latest district-wise data</h2>
+<p><a href="district_data/allmetrics_districts.json" download="">JSON</a>
+<a href="district_data/allmetrics_districts.csv" download="">CSV</a></p>
+
+<h1 id="how-to-use-the-datasets-json-and-csv">How to use the datasets (JSON and CSV)</h1>
+
+<p>Dashboard and detailed methods of estimation at www.covidtoday.in <br />
+Contact at covidtodayindia@gmail.com<br />
+Feedback/Contribute at https://forms.gle/HDCDVYApfRi319k58</p>
+
+<p>All dates and times in Indian Standard Time (IST).</p>
+
+<h2 id="getting-the-indicators-you-want">Getting the indicator(s) you want</h2>
+
+<p>The table below is an index of how to find the indicator in our json datsets. 
+<strong>The csv files are similarly named and have the same parameters as the json files.</strong></p>
+
+<p>In all of the datafiles India’s hierarchy is kept same as of other states
+because from the view point of data, the keys for India would be same as any
+other state for all indices. The Structure of Json files is as follows- The
+first layer of keys has the state name (including India) : e.g. ‘Kerala ,
+‘Delhi’, etc. For each state the keys are as follows:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Json file</th>
+      <th>Key name</th>
+      <th>Indicator obtained</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>rt.json</td>
+      <td>dates</td>
+      <td>[DD Month] e.g. ’22 March’</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>rt_point</td>
+      <td>Rt (Effective reproduction number), Pooled mean</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>rt_std</td>
+      <td>Rt, Standard Deviation</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>rt_l95</td>
+      <td>Rt, lower limit of 95% confidence interval</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>rt_u95</td>
+      <td>Rt, upper limit of 95% confidence interval</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>rt_l50</td>
+      <td>Rt, lower limit of 50% confidence interval</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>rt_u50</td>
+      <td>Rt, upper limit of 50% confidence interval</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cases_mean</td>
+      <td>Estimated number of new symptom onsets on that date (used for calculating Rt), Mean</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cases_sd</td>
+      <td>Number of new symptom onsets on that date, Standard Deviation</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>cfr.json</td>
+      <td>dates</td>
+      <td>[DD Month] e.g. ’22 March’</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cfr1_point</td>
+      <td>Crude NFR or Naïve CFR [Deaths/Total Cases]</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cfr2_point</td>
+      <td>Outcome adjusted CFR [Deaths/(Recov+Deaths)]</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cfr3_point</td>
+      <td>Corrected CFR or Lag adjusted CFR [Deaths/Lag adjusted Cases]</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cfr3_l95</td>
+      <td>Corrected CFR, lower limit of 95% confidence interval</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cfr3_u95</td>
+      <td>Corrected CFR, upper limit of 95% confidence interval</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cfr3_l50</td>
+      <td>Corrected CFR, lower limit of 50% confidence interval</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cfr3_u50</td>
+      <td>Corrected CFR, upper limit of 50% confidence interval</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>positivity_rate.json</td>
+      <td>dates</td>
+      <td>[DD Month] e.g. ’22 March’</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>daily_positivity_rate</td>
+      <td>Daily Positivity Rate</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>daily_positivity_rate_ma</td>
+      <td>Daily Positivity Rate, 7-day moving average</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cum_positivity_rate</td>
+      <td>Cumulative Positivity Rate</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>daily_positive_cases</td>
+      <td>Number of daily new confirmed cases *</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>daily_positive_cases_ma</td>
+      <td>Number of daily new confirmed cases, 7-day moving average</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cum_positive_cases</td>
+      <td>Number of cumulative confirmed cases *</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>daily_tests</td>
+      <td>Number of daily tests done *</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>cum_tests</td>
+      <td>Number of cumulative tests done *</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>test_per_million</td>
+      <td>Tests per million population for that state</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>india_mobility_indented.json</td>
+      <td>dates</td>
+      <td>[DD Month name] e.g. ’22 March’</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>retail</td>
+      <td>Retail and Recreation Mobility**</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>grocery</td>
+      <td>Grocery and Pharmacy Mobility**</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>parks</td>
+      <td>Parks Mobility **</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>transit</td>
+      <td>Transit stations Mobility**</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>workplace</td>
+      <td>Workplace Mobility**</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>residential</td>
+      <td>Residential Mobility **</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>average_mobility</td>
+      <td>Average of normalised mobility from Retail, Grocery, Transit, Workplace</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>*unaltered data from www.covid19india.org, formatted for time-series analysis</p>
+
+<p>**mobility data from www.google.com/covid19/mobility, normalised for weekend
+baseline bias
+<br /><br /></p>
+
+<p>To access the data for any of these keys use the following command: <strong>value =
+data[‘state’][‘key name’]</strong></p>
+
+<p>Here data is object where all of the json file is loaded.</p>
+
+<p>eg1. To get daily Rt point estimates for Punjab: <strong>value =
+data[‘Punjab’][‘rt_point’]</strong></p>
+
+<p>eg2. To get daily positivity rate (moving avg) for India: <strong>value =
+data[‘India’][‘daily_positive_cases_ma’]</strong></p>
+
+<h2 id="api-for-datasets">API for datasets</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>API End Points to get the data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>rt.json: <a href="https://github.com/CovidToday/indicator-dataset/raw/master/rt.json">https://github.com/CovidToday/indicator-dataset/raw/master/rt.json</a></td>
+    </tr>
+    <tr>
+      <td>cfr.json: <a href="https://github.com/CovidToday/indicator-dataset/raw/master/cfr.json">https://github.com/CovidToday/indicator-dataset/raw/master/cfr.json</a></td>
+    </tr>
+    <tr>
+      <td>positivity_Rate.json: <a href="https://github.com/CovidToday/indicator-dataset/raw/master/positivity_Rate.json">https://github.com/CovidToday/indicator-dataset/raw/master/positivity_Rate.json</a></td>
+    </tr>
+    <tr>
+      <td>india_mobility_indented.json: <a href="https://github.com/CovidToday/indicator-dataset/raw/master/india_mobility_indented.json">https://github.com/CovidToday/indicator-dataset/raw/master/india_mobility_indented.json</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="district_data/allmetrics_districts.json" download="">Click to Download</a>
+<a href="district_data/allmetrics_districts.csv" download="">Click to Download</a>
+<a href="state_data/allmetrics_states.json" download="">Click to Download</a>
+<a href="state_data/allmetrics_states.csv" download="">Click to Download</a></p>
+
+<h1 id="terms-of-use">Terms of Use</h1>
+<p><a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="License: CC BY-NC 4.0" /></a> CreativeCommnons-Attribution-NonCommercial 4.0 International</p>
+<ol>
+  <li><strong>This license requires that reusers give credit to the creator.</strong> It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format. You are welcome to share the website content and visualisations, and run independent analyses using the datasets from COVID TODAY <strong>for public health, educational, and journalistic uses, including any personal, editorial, academic, or research purposes. We also grant permission for any derivative use of this data and website content that supports healthcare or medical research (including institutional use by public health and for-profit organizations), or journalistic usage (by nonprofit or for-profit organizations). All other commercial uses are not permitted under the Creative Commons license, and will require permission from the COVID TODAY team.</strong></li>
+  <li>If the website or datasets are shared/used, attribution must be provided appropriately. When using Datasets from COVID TODAY, <strong>attribute as “COVID-19 Indicators Dataset by Covid Today”</strong> and provide a link. When using content directly from the Website, attribute as “Covid Today Dashboard” and provide a link.</li>
+  <li>You should not rely on this website for medical advice or guidance. Since we have no control over the publicly available data our analyses are based on, COVID TODAY hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights.</li>
+  <li>These terms and conditions are subject to change. Your use of the Website and Datasets constitutes your acceptance of these terms and conditions and any future modifications thereof.</li>
+</ol>
+
+
+  </section></div>
+
+      </div>
+    </div>
+<div class="py-5 border-top">
+  <div class="container">
+
+    <p class="h5 mb-3">Datasets | Covid Today India</p>
+
+    <div class="row">
+
+      <div class="col-sm">
+        <ul class="list-unstyled">
+          <li>Datasets | Covid Today India</li><li>
+              <a href="mailto:covidtodayindia@gmail.com">
+                covidtodayindia@gmail.com
+              </a>
+            </li></ul>
+      </div>
+
+
+      <div class="col-sm text-right">
+        <p>A Bootstrap 4 start up project for Jekyll and Github Pages</p>
+
+        <p>
+          <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
+        </p>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+</body>
+
+</html>
