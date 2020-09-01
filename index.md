@@ -1,12 +1,12 @@
-# Download data
-### Latest state-wise 
-<a href="state_data/allmetrics_states.json" download>JSON</a><br/>
-<a href="state_data/allmetrics_states.csv" download>CSV</a> 
+
+### Download latest *state-wise* data
+**<a href="state_data/allmetrics_states.json" download>JSON</a><br/>
+<a href="state_data/allmetrics_states.csv" download>CSV</a>** 
 <br/>
 
-### Latest district-wise 
-<a href="district_data/allmetrics_districts.json" download>JSON</a><br/>
-<a href="district_data/allmetrics_districts.csv" download>CSV</a> 
+### Download latest *district-wise* data 
+**<a href="district_data/allmetrics_districts.json" download>JSON</a><br/>
+<a href="district_data/allmetrics_districts.csv" download>CSV</a>** 
 <br/>
 
 ## Abbreviations used in datasets
@@ -22,6 +22,7 @@
 * `_ma` : moving average
 * `_point` : mean/median value 
 * `_u95` `_l95` : upper and lower 95% confidence intervals 
+<br/>
 
 # Relevant links
 
@@ -32,6 +33,7 @@
 Email: [covidtodayindia@gmail.com](mailto:covidtodayindia@gmail.com)<br/>
 Twitter: [@icart_india](https://twitter.com/icart_india)<br/>
 Whatsapp Collaborators group: [Join](https://chat.whatsapp.com/DtxTkQv8LEDD6W64RmItAZ)**, kindly message your skills and interests upon joining the group.
+<br/><br/>
 
 # Terms of Use of data
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) *CreativeCommons-Attribution-NonCommercial 4.0 International* <br/>
