@@ -14,7 +14,9 @@
 * `rt_` : Reproduction number 
 * `cfr1_` : Crude case fatality rate or Naïve CFR [Deaths/Total Cases]
 * `cfr2_` : Outcome adjusted fatality rate [Deaths/(Recov+Deaths)] - maybe more meaningful because it excludes active cases with yet unknown outcome
-* `cfr3_` : Corrected fatality rate or Lag adjusted fatality rate [Deaths/Lag adjusted Cases] - refer to Methods on www.covidtoday.in for method of estimation. Replaced by the Outcome adjusted fatality rate on the dashboard from 31 August 2020, however this metric is still available in the datsets. <br/>
+* `cfr3_` : Corrected fatality rate or Lag adjusted fatality rate [Deaths/Lag adjusted Cases] - refer to Methods on www.covidtoday.in for method of estimation. Replaced by the outcome adjusted fatality rate on the dashboard from 31 August 2020, however this metric is still available in the datasets. 
+<br/>
+
 * `cum_` : cumulative
 * `_ma` : moving average
 * `_point` : mean/median value 
