@@ -12,6 +12,9 @@ jobs:
         issue-message: 'Congratulations on raising your first issue! We thank you for your contribution and welcome you onboard. Please do not hesitate to reach out to the admins for any assistance.'
         pr-message: 'Congratulations on submitting your first pull request! We thank you for your contribution and welcome you onboard. Please do not hesitate to reach out to the admins for any assistance.'
 
+- name: GitGuardian Shield Action
+  uses: GitGuardian/gg-shield-action@v1.1.0
+
 name: GitGuardian scan
 
 on: [push, pull_request]
