@@ -27,7 +27,7 @@
 
 ## Relevant links
 
-#### Main website at [www.covidtoday.in](https://www.covidtoday.in)
+### Main website at [www.covidtoday.in](https://www.covidtoday.in)
 
 **[Intro to contributing on our github](https://github.com/CovidToday/backend/blob/master/CONTRIBUTING.md)<br/> 
 [Feedback/Suggestions](https://docs.google.com/forms/d/e/1FAIpQLSdA4tyNhDa3ngVLNuQ7o4zJfsITd9w8PN3ewsq7Kvju7RbPSQ/viewform)<br/>
@@ -36,7 +36,7 @@ Twitter: [@icart_india](https://twitter.com/icart_india)<br/>
 Whatsapp Collaborators group: [Join](https://chat.whatsapp.com/DtxTkQv8LEDD6W64RmItAZ)**, kindly message your skills and interests upon joining the group.
 <br/><br/>
 
-# Terms of Use 
+## Terms of Use 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) *CreativeCommons-Attribution-NonCommercial 4.0 International* <br/>
 1. **This license requires that reusers give credit to the creator. This allows our volunteer team to gain exposure and traction, enabling us to work better and faster. Please see the next bullet point to know our preffered attribution.** It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format. You are welcome to share the website content and visualisations, and run independent analyses using the datasets from COVID TODAY **for public health, educational, and journalistic uses, including any personal, editorial, academic, or research purposes. We also grant permission for any derivative use of this data and website content that supports healthcare or medical research (including institutional use by public health and for-profit organizations), or journalistic usage (by nonprofit or for-profit organizations). Any other commercial use is not permitted under the license, and will require permission from the COVID TODAY team.**
 2. **Attribute as:** When using Datasets from COVID TODAY, attribute as `COVID-19 Indicators Dataset by www.covidtoday.in`. When using content directly from the Website, attribute as `Covid Today India Dashboard` and provide a link to the website.
