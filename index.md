@@ -1,17 +1,17 @@
 ﻿---
 ---
 .
-### Download latest *state-wise* data
+## Download latest *state-wise* data
 **<a href="state_data/allmetrics_states.json" download>JSON</a><br/>
 <a href="state_data/allmetrics_states.csv" download>CSV</a>** 
 <br/>
 
-### Download latest *district-wise* data 
+## Download latest *district-wise* data 
 **<a href="district_data/allmetrics_districts.json" download>JSON</a><br/>
 <a href="district_data/allmetrics_districts.csv" download>CSV</a>** 
 <br/>
 
-## Abbreviations used in datasets
+### Abbreviations used in datasets
 * `dbt_` : Doubling time (in days)
 * `rt_` : Reproduction number 
 * `cfr1_` : Crude case fatality rate or Naïve CFR [Deaths/Total Cases]
@@ -25,12 +25,12 @@
 * `_u95` `_l95` : upper and lower 95% confidence intervals 
 <br/>
 
-# Relevant links
+## Relevant links
 
-### Main website at [www.covidtoday.in](www.covidtoday.in)
+#### Main website at [www.covidtoday.in](https://www.covidtoday.in)
 
-**[Intro to contributing on our github](https://contribute.covidtoday.in)<br/> 
-[Feedback/Suggestions](https://form.covidtoday.in)<br/>
+**[Intro to contributing on our github](https://github.com/CovidToday/backend/blob/master/CONTRIBUTING.md)<br/> 
+[Feedback/Suggestions](https://docs.google.com/forms/d/e/1FAIpQLSdA4tyNhDa3ngVLNuQ7o4zJfsITd9w8PN3ewsq7Kvju7RbPSQ/viewform)<br/>
 Email: [covidtodayindia@gmail.com](mailto:covidtodayindia@gmail.com)<br/>
 Twitter: [@icart_india](https://twitter.com/icart_india)<br/>
 Whatsapp Collaborators group: [Join](https://chat.whatsapp.com/DtxTkQv8LEDD6W64RmItAZ)**, kindly message your skills and interests upon joining the group.
