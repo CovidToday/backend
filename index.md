@@ -16,17 +16,19 @@
 
 #### What is in the datasets
 ##### Indicators
-  ###### Transmission indicators
+**Transmission indicators**<br/>
   * dbt_
   * rt_
-  * daily_cases_per_million 
-  ###### Testing indicators
+  * daily_cases_per_million <br/>
+  
+**Testing indicators**<br/>
   * daily_positivity_rate_ma (7 day weighted moving average or weekly positivity rate)
   * daily_positivity_rate
   * cum_positivity_rate
   * daily_tests_per_million
-  * test_per_million 
-  ###### Mortality indicators
+  * test_per_million <br/>
+  
+**Mortality indicators**<br/>
   * cfr1_
   * cfr2_
   * cfr3_
