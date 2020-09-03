@@ -1,4 +1,4 @@
-﻿---
+---
 ---
 .
 ### Download latest *state-wise* data
@@ -14,27 +14,25 @@
 <br/>
 
 
-#### What is in the datasets
-##### Indicators
-**Transmission indicators**<br/>
+### What is in the datasets
+#### Indicators
+  ##### Transmission indicators
   * dbt_
   * rt_
-  * daily_cases_per_million <br/>
-  
-**Testing indicators**<br/>
+  * daily_cases_per_million 
+  ##### Testing indicators
   * daily_positivity_rate_ma (7 day weighted moving average or weekly positivity rate)
   * daily_positivity_rate
   * cum_positivity_rate
   * daily_tests_per_million
-  * test_per_million <br/>
-  
-**Mortality indicators**<br/>
+  * test_per_million 
+  ##### Mortality indicators
   * cfr1_
   * cfr2_
   * cfr3_
 <br/>
 
-##### Raw data and moving averages
+#### Raw data and moving averages
   * daily_positive_cases
   * cum_positive_cases
   * daily_positive_cases_ma
@@ -71,7 +69,7 @@
 #### Main website at [www.covidtoday.in](https://www.covidtoday.in)
 
 * [Intro to contributing on our github](https://github.com/CovidToday/backend/blob/master/CONTRIBUTING.md)<br/> 
-* [Feedback/Suggestions](https://docs.google.com/forms/d/e/1FAIpQLSdA4tyNhDa3ngVLNuQ7o4zJfsITd9w8PN3ewsq7Kvju7RbPSQ/viewform)<br/>
+* [Feedback/Suggestions](https://docs.google.com/forms/d/e/1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiQCeadKTrCJ7Kvju7RbPSQ/viewform)<br/>
 * Email: [covidtodayindia@gmail.com](mailto:covidtodayindia@gmail.com)<br/>
 * Twitter: [@icart_india](https://twitter.com/icart_india)<br/>
 * Whatsapp Collaborators group: [Join](https://chat.whatsapp.com/DtxTkQv8LEDD6W64RmItAZ)**, kindly message your skills and interests upon joining the group.
@@ -85,4 +83,3 @@
 * **Attribute as:** When using Datasets from COVID TODAY, attribute as `COVID-19 Indicators Dataset by www.covidtoday.in`. When using content directly from the Website, attribute as `Covid Today India Dashboard` and provide a link to the website.
 * You should not rely on this website for medical advice or guidance. Since we have no control over the publicly available data our analyses are based on, COVID TODAY hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights.
 * These terms and conditions are subject to change. Your use of the Website and Datasets constitutes your acceptance of these terms and conditions and any future modifications thereof.
-
