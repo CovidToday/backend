@@ -51,9 +51,9 @@
 #### Abbreviations used in datasets
 * `dbt_` : Doubling time (in days)
 * `rt_` : Reproduction number 
-* `cfr1_` : Crude case fatality rate or Naïve CFR [Deaths/Total Cases]
-* `cfr2_` : Outcome adjusted fatality rate [Deaths/(Recov+Deaths)] - maybe more meaningful because it excludes active cases with yet unknown outcome
-* `cfr3_` : Corrected fatality rate or Lag adjusted fatality rate [Deaths/Lag adjusted Cases] - refer to Methods on www.covidtoday.in for method of estimation. 
+* `cfr1_` : Crude case fatality rate or Naïve CFR [Deaths/Total Cases] (%)
+* `cfr2_` : Outcome adjusted fatality rate [Deaths/(Recov+Deaths)] - maybe more meaningful because it excludes active cases with yet unknown outcome (%)
+* `cfr3_` : Corrected fatality rate or Lag adjusted fatality rate [Deaths/Lag adjusted Cases] - refer to Methods on www.covidtoday.in for method of estimation (%)
 <br/>
 
 * `cum_` : cumulative
