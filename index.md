@@ -72,7 +72,7 @@
 * [Feedback/Suggestions](https://docs.google.com/forms/d/e/1GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGiQCeadKTrCJ7Kvju7RbPSQ/viewform)<br/>
 * Email: [covidtodayindia@gmail.com](mailto:covidtodayindia@gmail.com)<br/>
 * Twitter: [@icart_india](https://twitter.com/icart_india)<br/>
-* Whatsapp Collaborators group: [Join](https://chat.whatsapp.com/DtxTkQv8LEDD6W64RmItAZ)**, kindly message your skills and interests upon joining the group.
+* Whatsapp Collaborators group: [Join](https://chat.whatsapp.com/DtxTkQv8LEDD6W64RmItAZ), *kindly message your skills and interests upon joining the group.*
 <br/><br/><br/>
 
 
