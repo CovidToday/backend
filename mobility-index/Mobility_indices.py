@@ -7,12 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1bx2ELjbx3c38bWmMklMdfYfMjh1OEMsM
 """
 
-# !pip install wget
+!pip install wget
 
 from __future__ import print_function
 from scipy.io import loadmat
 from tqdm import tqdm
-# from google.colab import drive
+from google.colab import drive
 import numpy as np
 import scipy
 import os
@@ -20,9 +20,9 @@ import matplotlib.pyplot as plt
 import csv
 import pandas as pd
 import wget
-# drive.mount('/content/gdrive/')
+drive.mount('/content/gdrive')
 
-wget.download('https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv', os.getcwd()+"//Global_Mobility_Report.csv")
+wget.download('https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv', os.getcwd()+"/Global_Mobility_Report.csv")
 g_list = pd.read_csv('Global_Mobility_Report.csv')
 
 def normalize(arr):
@@ -60,6 +60,10 @@ def convert(dat):
 def isNaN(num):
     return num != num
 
+# g_listNew = g_list[g_list['country_region'] == 'India']
+# g_listNew = g_listNew.drop_duplicates(subset=['sub_region_1', 'date'])
+# g_listNew
+
 india_dict = {}
 df=pd.DataFrame()
 csv_state = []
@@ -73,13 +77,13 @@ csv_residential = []
 csv_average_mobility = []
 temp=0
 columnDict = {}
+g_list = g_list[g_list['country_region'] == 'India']
+g_list = g_list.drop_duplicates(subset=['sub_region_1', 'date'])
 for index, row in g_list.iterrows():
-  if(row['country_region']=='India'):
     if isNaN(row['sub_region_1']):
       row['sub_region_1']='India'
     if row['sub_region_1'] not in  india_dict.keys():
       india_dict[row['sub_region_1']] = {}
-    # print(row)
     state = row['sub_region_1']
     dates = row['date']
     # print(state," ",dates)
@@ -162,7 +166,10 @@ df['transit']=csv_transit
 df['workplace']=csv_workplace
 df['residential']=csv_residential
 df['average_mobility']=csv_average_mobility
+df.fillna(method='ffill')
 df.to_csv('mobility.csv',index=False)
+
+df
 
 from datetime import datetime
 import json
