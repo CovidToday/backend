@@ -62,6 +62,7 @@ def isNaN(num):
 
 # g_listNew = g_list[g_list['country_region'] == 'India']
 # g_listNew = g_listNew.drop_duplicates(subset=['sub_region_1', 'date'])
+# g_listNew.fillna(method='ffill')
 # g_listNew
 
 india_dict = {}
@@ -79,6 +80,7 @@ temp=0
 columnDict = {}
 g_list = g_list[g_list['country_region'] == 'India']
 g_list = g_list.drop_duplicates(subset=['sub_region_1', 'date'])
+g_list.fillna(method='ffill')
 for index, row in g_list.iterrows():
     if isNaN(row['sub_region_1']):
       row['sub_region_1']='India'
@@ -168,8 +170,6 @@ df['residential']=csv_residential
 df['average_mobility']=csv_average_mobility
 df.fillna(method='ffill')
 df.to_csv('mobility.csv',index=False)
-
-df
 
 from datetime import datetime
 import json
