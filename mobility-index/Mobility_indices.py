@@ -7,14 +7,14 @@ Original file is located at
     https://colab.research.google.com/drive/1bx2ELjbx3c38bWmMklMdfYfMjh1OEMsM
 """
 
-# !pip install wget
+!pip install wget
 
-# !pip install simplejson
+!pip install simplejson
 
 from __future__ import print_function
 from scipy.io import loadmat
 from tqdm import tqdm
-# from google.colab import drive
+from google.colab import drive
 import numpy as np
 import scipy
 import os
@@ -23,7 +23,7 @@ import csv
 import pandas as pd
 import wget
 import simplejson
-#drive.mount('/content/gdrive')
+drive.mount('/content/gdrive')
 
 wget.download('https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv', os.getcwd()+"/Global_Mobility_Report.csv")
 g_list = pd.read_csv('Global_Mobility_Report.csv')
@@ -59,8 +59,6 @@ def fn(mon):
     return " December"
 def convert(dat): 
     return  str(dat[-2:]) + fn(str(dat[5:7]))
-
-np.nan
 
 def isNaN(num):
     return num != num
@@ -135,14 +133,9 @@ for index, row in g_list.iterrows():
       count+=1
     if(len(temp)>0):
         avg=sum/count
-        india_dict[state]['average_mobility'].append(avg)
+        india_dict[state]['average_mobility'].append(round(avg,2))
     else:
         india_dict[state]['average_mobility'].append('')
-#     if(len(india_dict[state]['retail'][-1])>0 and len(india_dict[state]['grocery'][-1])>0 and len(india_dict[state]['transit'][-1])>0 and len(india_dict[state]['workplace'][-1])>0 ):
-#       avg = (int(india_dict[state]['retail'][-1])+int(india_dict[state]['grocery'][-1])+int(india_dict[state]['transit'][-1])+int(india_dict[state]['workplace'][-1]))/4
-#       india_dict[state]['average_mobility'].append(str(avg))  # To change for average
-#     else:
-#       india_dict[state]['average_mobility'].append('')  # To change for average
     india_dict[state]['dates'].append(convert(row['date']))
       
     for i in range(len(india_dict[state]['dates'])):
