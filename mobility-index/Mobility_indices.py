@@ -166,7 +166,7 @@ import json
 india_dict['datetime']=str(datetime.now())
 mobility_json_indented = json.dumps(india_dict, indent = 4)
 mobility_json = json.dumps(india_dict)
-
+print("Complete")
 with open("india_mobility_indented.json", "w") as outfile: 
     outfile.write(simplejson.dumps(india_dict,ignore_nan=True,indent=4))
 
