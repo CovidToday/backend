@@ -18,7 +18,6 @@
 ##### Indicators
 
 **Transmission indicators**
-  * dbt_
   * rt_
   * daily_cases_per_million
   
@@ -33,6 +32,11 @@
   * cfr1_
   * cfr2_
   * cfr3_
+
+**Vaccination indicators (new!)**
+  * pct_population_onedose
+  * pct_population_twodose
+  * daily_doses_per_million
 <br/>
 
 ##### Raw data and moving averages
@@ -47,25 +51,32 @@
   * daily_tests
   * daily_tests_ma
   * cum_tests
+  * daily_doses
+  * daily_doses_ma
+  * cum_doses
 <br/>
 <br/>
 
 
 #### Abbreviations used in datasets
-* `dbt_` : Doubling time (in days)
 * `rt_` : Reproduction number 
-* `cfr1_` : Crude case fatality rate or Naïve CFR [Deaths/Total Cases] (%)
 * `cfr2_` : Outcome adjusted fatality rate [Deaths/(Recov+Deaths)] - maybe more meaningful because it excludes active cases with yet unknown outcome (%)
-* `cfr3_` : Corrected fatality rate or Lag adjusted fatality rate [Deaths/Lag adjusted Cases] - refer to Methods on www.covidtoday.in for method of estimation (%)
+
 <br/>
 
 * `cum_` : cumulative
 * `_ma` : moving average
 * `_point` : mean/median value 
 * `_u95` `_l95` : upper and lower 95% confidence intervals 
+<br/><br/>
+
+#### Deprecated data fields
+The following indicators/metrics are no longer estimated and as such are not available in the latest datasets. 
+<br/>
+* dbt_ (doubling time)
+* cfr_1 (Crude case fatality rate or Naïve CFR [Deaths/Total Cases]) 
+* cfr_2 (Corrected fatality rate or Lag adjusted fatality rate [Deaths/Lag adjusted Cases])
 <br/><br/><br/>
-
-
 
 ### Relevant links
 
