@@ -29,9 +29,7 @@
   * test_per_million 
   
 **Mortality indicators**
-  * cfr1_
-  * cfr2_
-  * cfr3_
+  * cfr2_point
 
 **Vaccination indicators (new!)**
   * pct_population_onedose
