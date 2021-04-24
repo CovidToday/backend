@@ -73,7 +73,7 @@ The following indicators/metrics are no longer estimated and as such are not ava
 <br/>
 * dbt_ (doubling time)
 * cfr_1 (Crude case fatality rate or Naïve CFR [Deaths/Total Cases]) 
-* cfr_2 (Corrected fatality rate or Lag adjusted fatality rate [Deaths/Lag adjusted Cases])
+* cfr_3 (Corrected fatality rate or Lag adjusted fatality rate [Deaths/Lag adjusted Cases])
 <br/><br/><br/>
 
 ### Relevant links
