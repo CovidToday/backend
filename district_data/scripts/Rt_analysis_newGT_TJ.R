@@ -8,5 +8,5 @@ res.R = estimate_R(epid.count,method = "uncertain_si",config = make_config(list(
                                                                                 min_mean_si = 4.58, max_mean_si = 6.53,
                                                                                 std_si = 3.47, std_std_si = 0.417,
                                                                                 min_std_si = 2.59, max_std_si = 4.26,
-                                                                                n1 = 114, n2 = 114,mean_prior=2.6,std_prior=2)))
+                                                                                n1 = 53, n2 = 53,mean_prior=2.6,std_prior=2)))
 write.csv(res.R$R,'rt_temp/rtoutput.csv',row.names = TRUE)
