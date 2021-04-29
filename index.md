@@ -1,6 +1,10 @@
 ---
 ---
 .
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
+In accordance with standard scientific practices, we ask you to kindly cite our work appropriately if you use the data for any purpose. Preferred attribution is `COVID-19 Indicators Dataset by www.covidtoday.in`. Refer to end of this page for more detailed terms of use. 
+
 ### Download latest *state-wise* data
 **<a href="state_data/allmetrics_states.json" download>JSON</a><br/>
 <a href="state_data/allmetrics_states.csv" download>CSV</a>** 
@@ -87,11 +91,10 @@ The following indicators/metrics are no longer estimated and as such are not ava
 * Whatsapp Collaborators group: [Join](https://chat.whatsapp.com/DtxTkQv8LEDD6W64RmItAZ), *kindly message your skills and interests upon joining the group.*
 <br/><br/><br/>
 
-
-
-### Terms of Use 
+### Detailed Terms of Use 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) *CreativeCommons-Attribution-NonCommercial 4.0 International* <br/>
 * **This license requires that reusers give credit to the creator. This allows our volunteer team to gain exposure and traction, enabling us to work better and faster. Please see the next bullet point to know our preffered attribution.** It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format. You are welcome to share the website content and visualisations, and run independent analyses using the datasets from COVID TODAY **for public health, educational, and journalistic uses, including any personal, editorial, academic, or research purposes. We also grant permission for any derivative use of this data and website content that supports healthcare or medical research (including institutional use by public health and for-profit organizations), or journalistic usage (by nonprofit or for-profit organizations). Any other commercial use is not permitted under the license, and will require permission from the COVID TODAY team.**
 * **Attribute as:** When using Datasets from COVID TODAY, attribute as `COVID-19 Indicators Dataset by www.covidtoday.in`. When using content directly from the Website, attribute as `Covid Today India Dashboard` and provide a link to the website.
 * You should not rely on this website for medical advice or guidance. Since we have no control over the publicly available data our analyses are based on, COVID TODAY hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, reliability, completeness, and non-infringement of third party rights.
 * These terms and conditions are subject to change. Your use of the Website and Datasets constitutes your acceptance of these terms and conditions and any future modifications thereof.
+* Some terms of use have been loosely adapted from CovidTracking.com (The Covid Tracking Project). 
