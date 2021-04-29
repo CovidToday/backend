@@ -3,7 +3,7 @@
 .
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) 
-In accordance with standard scientific practices, we ask you to kindly cite our work appropriately if you use the data for any purpose. Preferred attribution is `COVID-19 Indicators Dataset by www.covidtoday.in`. Refer to end of this page for more detailed terms of use. 
+In accordance with standard scientific practices, **we ask you to kindly cite our work appropriately if you use the data for any purpose**. Preferred attribution is `COVID-19 Indicators Dataset by www.covidtoday.in`. Refer to end of this page for more detailed terms of use. 
 
 ### Download latest *state-wise* data
 **<a href="state_data/allmetrics_states.json" download>JSON</a><br/>
