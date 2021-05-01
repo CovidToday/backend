@@ -8,7 +8,7 @@
 <p align="center"><img src="https://github.com/CovidToday/backend/blob/master/poster.png?raw=true" width='80%'></p>
 <br/>
 
-**Latest datasets and API: https://github.com/CovidToday/indicator-dataset<br/>
+**Latest datasets and API: https://covidtoday.github.io/backend/ <br/>
 Backend repo: https://github.com/CovidToday/backend<br/>
 Frontend repo: https://github.com/CovidToday/FrontEnd<br/>
 How to start contributing: [CONTRIBUTING.md](CONTRIBUTING.md)**
