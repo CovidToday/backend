@@ -1,11 +1,8 @@
-name: ExecuteNotebook
+name: Unified_States_Stats
 
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
+  shedule:
+    - cron: '35 0,12 * * *'
 jobs:
   run:
     runs-on: ubuntu-latest
