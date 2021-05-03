@@ -2,7 +2,7 @@ name: Unified_States_Stats
 
 on:
   schedule:
-    - cron: '10 7,20 * * *'
+    - cron: '30 7,20 * * *'
     #- cron: '0 6,18 * * *'
 
 jobs:
