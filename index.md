@@ -7,12 +7,14 @@ In accordance with standard scientific practices, **we ask you to kindly cite ou
 
 ### Download latest *state-wise* data
 **<a href="state_data/allmetrics_states.json" download>JSON</a><br/>
-<a href="state_data/allmetrics_states.csv" download>CSV</a>** 
+<a href="state_data/allmetrics_states.csv" download>CSV</a><br/>
+<a href="state_data/vaccine_data.json" download>Vaccination JSON</a>** 
 <br/>
 
 ### Download latest *district-wise* data 
 **<a href="district_data/allmetrics_districts.json" download>JSON</a><br/>
-<a href="district_data/allmetrics_districts.csv" download>CSV</a>** <br/><br/>
+<a href="district_data/allmetrics_districts.csv" download>CSV</a><br/>
+<a href="district_data/vaccine_data.json" download>Vaccination JSON</a>** <br/><br/>
 *We currently provide data for selected hotspot districts only. However, we update our district list periodically to reflect the epidemic spread. The latest list of districts included in our dataset is available [here](https://github.com/CovidToday/backend/blob/master/district_data/population_districts.csv).*
 <br/>
 <br/>
