@@ -1,0 +1,50 @@
+name: ExecuteNotebook
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        python-version: [3.7]
+        R-version: [ '4.0.5' ]
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }} # Version range or exact version of a Python version to use, using SemVer's version range syntax
+    - name: Install dependencies
+      run: |
+        python3 -m pip install --upgrade pip
+        pip3 install ipython
+        if [ -f state_data/requirements.txt ]; then cd state_data/ && pip install -r requirements.txt; fi
+    - name: Install R Lib
+      run: |
+        R --version
+        zip -s 0 my_r_lib.zip --out unsplit.zip
+        sudo unzip -o unsplit.zip -d /
+        sudo apt-get install libcurl4-openssl-dev r-base
+        R --version
+        sudo Rscript -e "install.packages('curl',dependencies=TRUE)"
+        sudo Rscript -e "library(EpiEstim)"
+    - name: Run unified scripts
+      run: |
+        cd state_data/ && ipython3 colab_unified_states_metrics.py && cd ../
+    - name: Get New Files
+      run: |
+        git status -uno
+    #- uses: EndBug/add-and-commit@v7
+      #with:
+        #add: my_r_lib.*
+        #author_name: Divyansh Singhvi
+        #author_email: divyanshsinghvi@gmail.com
+        #message: 'Lets Commit zip'
+
+
