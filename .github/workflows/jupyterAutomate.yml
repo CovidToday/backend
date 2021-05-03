@@ -1,8 +1,9 @@
 name: Unified_States_Stats
 
 on:
-  shedule:
+  schedule:
     - cron: '0 6,18 * * *'
+
 jobs:
   run:
     runs-on: ubuntu-latest
