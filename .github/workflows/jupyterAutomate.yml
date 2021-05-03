@@ -42,9 +42,9 @@ jobs:
         git status -uno
     #- uses: EndBug/add-and-commit@v7
       #with:
-        #add: my_r_lib.*
-        #author_name: Divyansh Singhvi
-        #author_email: divyanshsinghvi@gmail.com
-        #message: 'Lets Commit zip'
+        #add: allmetrics_states.csv allmetrics_states.json rt_graph.json test.json
+        #author_name: GithubActions States Update
+        #author_email: @gmail.com
+        #message: 'States Data Updated'
 
 
