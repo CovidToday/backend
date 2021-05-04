@@ -1,4 +1,4 @@
-name: Unified_States_Stats
+name: Unified_Data_Update
 
 on:
   schedule:
@@ -43,6 +43,8 @@ jobs:
       run: |
         cd state_data/ && ipython3 colab_unified_states_metrics.py && cd ../
         cd state_data/ && python3 state_vaccine.py && cd ../
+        cd district_data/ && ipython3 colab_unified_districts_metrics.py && cd ../
+        #cd mobility-index/ && python Mobility_indices.py cd ../
     - name: Get New Files
       run: |
         git status -uno
