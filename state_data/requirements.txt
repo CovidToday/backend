@@ -1,7 +1,0 @@
-numpy
-pandas
-ipython
-matplotlib
-scikit-learn
-wget
-pytz
