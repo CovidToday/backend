@@ -41,8 +41,8 @@ jobs:
         sudo Rscript -e "library(EpiEstim)"
     - name: Run unified scripts
       run: |
-        cd district_data/ && ipython3 colab_unified_district_metrics.py && cd ../
-        cd mobility-index && python Mobility_indices.py cd ../
+        cd district_data/ && ipython3 colab_unified_districts_metrics.py && cd ../
+        cd mobility-index/ && python Mobility_indices.py cd ../
     - name: Get New Files
       run: |
         git status -uno
