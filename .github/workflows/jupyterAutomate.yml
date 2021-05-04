@@ -2,7 +2,7 @@ name: Unified_States_Stats
 
 on:
   schedule:
-    - cron: '15 0,12 * * *'
+    - cron: '15 0,12,11,23 * * *'
     #- cron: '0 6,18 * * *'
   workflow_dispatch:
     inputs:
