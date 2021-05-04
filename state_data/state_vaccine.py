@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[40]:
 
 
 import pandas as pd
@@ -13,7 +13,7 @@ import time
 from datetime import datetime
 
 
-# In[ ]:
+# In[41]:
 
 
 api = "https://api.covid19india.org/csv/latest/cowin_vaccine_data_statewise.csv"
@@ -28,7 +28,7 @@ dataset=pd.read_csv('population.csv',index_col='State',usecols=['State','Populat
 population = dataset.T.to_dict()
 
 
-# In[ ]:
+# In[42]:
 
 
 use_cols = [
@@ -41,13 +41,17 @@ use_cols = [
 ]
 
 
-# In[ ]:
+# In[43]:
 
 
 vacc = pd.read_csv("cowin_vaccine_data_statewise.csv")
 vacc = vacc[use_cols]
 
-vacc.loc[306,"State"] = "Andhra Pradesh"
+#vacc.loc[313,"State"] = "Andhra Pradesh"
+
+if len(vacc[vacc['State']=='Updated On'])>0:
+    for idx in vacc[vacc['State']=='Updated On'].index:
+        vacc.loc[idx,'State'] = vacc.loc[idx-1,'State']
 
 
 # Updated On
@@ -79,7 +83,7 @@ vacc.loc[306,"State"] = "Andhra Pradesh"
 # 7. “Pct_covishield” = “cum_covishield”/ “cum_covaxin”
 # 8. “Pct_female” = female/ (female+male+trans)
 
-# In[ ]:
+# In[44]:
 
 
 def convert_vacc(dat): 
@@ -99,7 +103,7 @@ def moving_avg(data, window_size=7):
     return moving_averages_list[window_size - 1:]
 
 
-# In[ ]:
+# In[45]:
 
 
 def to_json(df):
@@ -169,7 +173,7 @@ def to_json(df):
     return json
 
 
-# In[ ]:
+# In[46]:
 
 
 state_vacc = to_json(vacc)
