@@ -7,7 +7,8 @@ In accordance with standard scientific practices, **we ask you to kindly cite ou
 
 ### Download latest *state-wise* data
 **<a href="state_data/allmetrics_states.json" download>JSON</a><br/>
-<a href="state_data/allmetrics_states.csv" download>CSV</a>** 
+<a href="state_data/allmetrics_states.csv" download>CSV</a><br/>
+<a href="state_data/state_vaccine.json" download>Vaccination JSON</a>** 
 <br/>
 
 ### Download latest *district-wise* data 
