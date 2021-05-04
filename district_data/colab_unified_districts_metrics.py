@@ -39,10 +39,6 @@ import copy
 #os.chdir('/content/gdrive/My Drive')
 #drive.mount('/content/gdrive')
 
-
-# In[4]:
-
-
 if os.path.exists("test.json"):
   os.remove("test.json")
 wget.download('https://raw.githubusercontent.com/covid19india/api/gh-pages/v4/min/data-all.min.json', os.path.join(os.getcwd(),"test.json"))
@@ -132,13 +128,6 @@ def dates_gen(periods=7):
 
 
 t = dates_gen(73)
-
-
-# In[12]:
-
-
-test=json.load(open('test.json'))
-test['2021-04-05']['AN'].keys()
 
 
 # In[13]:
@@ -989,35 +978,39 @@ for sta in state_id.keys():
 # In[41]:
 
 
-states_shifted = copy.deepcopy(states)
-
 for st in state_id.keys():
-    state = state_id[st]
-    states_shifted[state].update(rt_json_shifted[st])
+    dist = state_id[st]
+        
+    leng = len(dates[:-1])
+
+        #states[state]['dates'] =  temp1['India']['dates']
+    for state in dist:
+        for keys in list(states[state].keys())[1:]:
+            if len(states[state][keys])<leng:
+                states[state][keys].extend(['' for i in range(leng-len(states[state][keys]))]) 
 
 
 # In[42]:
 
 
-for sta in state_id.keys():
-    for state in state_id[sta]:
-        for key in rt_json[state].keys():
-          try:
-            rt_json[state][key]=rt_json[state][key].tolist()
-          except:
-            pass
+for st in state_id.keys():
+    dist = state_id[st]
+    leng = len(dates[:-1])
+    
+    #states[state]['dates'] =  temp1['India']['dates']
+    for state in dist:
+         for keys in list(states_shifted[state].keys())[1:]:
+            if len(states_shifted[state][keys])<leng:
+                states_shifted[state][keys].extend(['' for i in range(leng-len(states_shifted[state][keys]))]) 
 
 
 # In[43]:
 
 
 for sta in state_id.keys():
-    for state in state_id[sta]:
-        for key in states[state].keys():
-          try:
-            states[state][key]=states[state][key].tolist()
-          except:
-            pass
+    for st in state_id[sta]:
+        states[st]['dates'] = dates[:-1]
+        states_shifted[st]['dates'] = dates[:-1]
 
 
 # In[44]:
@@ -1038,29 +1031,6 @@ for st in state_id.keys():
 # In[45]:
 
 
-for st in state_id.keys():
-    dist = state_id[st]
-    leng = len(dates[:-1])
-    
-    #states[state]['dates'] =  temp1['India']['dates']
-    for state in dist:
-         for keys in list(states_shifted[state].keys())[1:]:
-            if len(states_shifted[state][keys])<leng:
-                states_shifted[state][keys].extend(['' for i in range(leng-len(states_shifted[state][keys]))]) 
-
-
-# In[46]:
-
-
-for sta in state_id.keys():
-    for st in state_id[sta]:
-        states[st]['dates'] = dates[:-1]
-        states_shifted[st]['dates'] = dates[:-1]
-
-
-# In[47]:
-
-
 rt_graph = copy.deepcopy(rt_json_shifted)
 
 de =10
@@ -1071,14 +1041,14 @@ for s in state_id.keys():
             rt_graph[st][k] = rt_json_shifted[st][k][:-10]
 
 
-# In[48]:
+# In[46]:
 
 
 with open('rt_graph.json', 'w') as outfile:
   json.dump(rt_graph, outfile)
 
 
-# In[49]:
+# In[47]:
 
 
 cols=list(states['Mumbai'].keys())
@@ -1097,7 +1067,7 @@ for i in keys:
   complete = pd.concat([complete,temp])
 
 
-# In[50]:
+# In[48]:
 
 
 cols=list(states_shifted['Mumbai'].keys())
@@ -1119,13 +1089,13 @@ for i in keys:
   complete_shifted = pd.concat([complete_shifted,temp])
 
 
-# In[51]:
+# In[49]:
 
 
 complete_shifted.to_csv('allmetrics_districts.csv',index=False)
 
 
-# In[52]:
+# In[50]:
 
 
 states_indented = json.dumps(states, indent = 4)
@@ -1133,24 +1103,12 @@ states_indented = json.dumps(states, indent = 4)
 #    outfile.write(states_indented)
 
 
-# In[53]:
+# In[51]:
 
 
 states_indented = json.dumps(states_shifted)
 with open("allmetrics_districts.json", "w") as outfile: 
     outfile.write(states_indented)
-
-
-# In[54]:
-
-
-get_ipython().magic(u'cd /content/backend/mobility-index')
-
-
-# In[55]:
-
-
-get_ipython().system(u'python Mobility_indices.py')
 
 
 # In[ ]:
