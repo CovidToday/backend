@@ -54,6 +54,7 @@ jobs:
     - name: Run unified scripts
       run: |
         cd district_data/ && ipython3 colab_unified_districts_metrics.py && cd ../
+    - name: Get New Files
       run: |
         git status -uno
     - uses: EndBug/add-and-commit@v7
