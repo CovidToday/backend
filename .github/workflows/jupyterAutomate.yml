@@ -5,11 +5,11 @@ on:
     - cron: '15 0,12 * * *'
     #- cron: '0 6,18 * * *'
   workflow_dispatch:
-    - inputs:
-        name:
-          required: false
-          default: "No"
-          description: 'name'
+    inputs:
+      name:
+        required: false
+        default: "No"
+        description: 'name'
 
 jobs:
   run:
