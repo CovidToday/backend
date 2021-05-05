@@ -45,20 +45,19 @@ jobs:
     - name: Get New Files
       run: |
         git status -uno
-    - uses: actions/checkout@v2
     - uses: EndBug/add-and-commit@v7
       with:
-        add: state_data/allmetrics_states.csv state_data/allmetrics_states.json state_data/rt_graph.json state_data/test.json
+        add: state_data/allmetrics_states.csv state_data/allmetrics_states.json state_data/rt_graph.json state_data/test.json state_data/rt_temp/rtoutput.csv
         author_name: GithubActions States Update
         author_email: covidtodayindia@gmail.com
         message: 'States Data Updated'
+    - uses: actions/checkout@v2
     - name: Run unified scripts
       run: |
         cd district_data/ && ipython3 colab_unified_districts_metrics.py && cd ../
     - name: Get New Files
       run: |
         git status -uno
-    - uses: actions/checkout@v2
     - uses: EndBug/add-and-commit@v7
       with:
         add: district_data/test.json district_data/rt_temp/rtoutput.csv district_data/rt_graph.json district_data/allmetrics_districts.json district_data/allmetrics_districts.csv
