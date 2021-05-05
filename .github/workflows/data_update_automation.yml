@@ -64,6 +64,7 @@ jobs:
         author_name: GithubActions States Update
         author_email: covidtodayindia@gmail.com
         message: 'District Data Updated'
+    - uses: actions/checkout@v2
     - name: Run unified scripts
       run: |
         cd state_data/ && python3 state_vaccine.py && cd ../
@@ -71,7 +72,6 @@ jobs:
     - name: Get New Files
       run: |
         git status -uno
-    - uses: actions/checkout@v2
     - uses: EndBug/add-and-commit@v7
       with:
         add: state_data/rt_temp/rtoutput.csv state_data/state_vaccine.json
