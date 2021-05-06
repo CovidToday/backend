@@ -3,13 +3,17 @@
 
 # Covid Today | www.covidtoday.in 
 ## Tracking India's progress through the coronavirus epidemic. 
+
+[![Unified_Data_Update](https://github.com/CovidToday/backend/actions/workflows/data_update_automation.yml/badge.svg)](https://github.com/CovidToday/backend/actions/workflows/data_update_automation.yml)
+
 <br/>
 <br/>
 <p align="center"><img src="https://github.com/CovidToday/backend/blob/master/poster.png?raw=true" width='80%'></p>
 <br/>
 
 
-[![Unified_Data_Update](https://github.com/divyanshsinghvi/backend/actions/workflows/data_update_automation.yml/badge.svg)](https://github.com/divyanshsinghvi/backend/actions/workflows/data_update_automation.yml)
+
+
 
 **Latest datasets and API: https://covidtoday.github.io/backend/ <br/>
 Backend repo: https://github.com/CovidToday/backend<br/>
