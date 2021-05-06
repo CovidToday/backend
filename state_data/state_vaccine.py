@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[40]:
+# In[1]:
 
 
 import pandas as pd
@@ -13,7 +13,7 @@ import time
 from datetime import datetime
 
 
-# In[41]:
+# In[2]:
 
 
 api = "https://api.covid19india.org/csv/latest/cowin_vaccine_data_statewise.csv"
@@ -28,7 +28,7 @@ dataset=pd.read_csv('population.csv',index_col='State',usecols=['State','Populat
 population = dataset.T.to_dict()
 
 
-# In[42]:
+# In[3]:
 
 
 use_cols = [
@@ -41,7 +41,7 @@ use_cols = [
 ]
 
 
-# In[43]:
+# In[4]:
 
 
 vacc = pd.read_csv("cowin_vaccine_data_statewise.csv")
@@ -83,7 +83,7 @@ if len(vacc[vacc['State']=='Updated On'])>0:
 # 7. “Pct_covishield” = “cum_covishield”/ “cum_covaxin”
 # 8. “Pct_female” = female/ (female+male+trans)
 
-# In[44]:
+# In[5]:
 
 
 def convert_vacc(dat): 
@@ -103,7 +103,7 @@ def moving_avg(data, window_size=7):
     return moving_averages_list[window_size - 1:]
 
 
-# In[45]:
+# In[6]:
 
 
 def to_json(df):
@@ -117,7 +117,7 @@ def to_json(df):
         
         # From raw data
         json[state]['dates'] = sub_df['Updated On'].apply(convert_vacc).to_list()
-        json[state]['cum_reg'] = list(sub_df['Total Individuals Vaccinated'])
+        json[state]['cum_reg'] = list(sub_df['Total Individuals Vaccinated'].iloc[:,0])
         json[state]['sessions'] = list(sub_df['Total Sessions Conducted'])
         json[state]['daily_firstdose'] = list(sub_df['First Dose Administered'])
         json[state]['daily_seconddose'] = list(sub_df['Second Dose Administered'])
@@ -155,10 +155,10 @@ def to_json(df):
         
         json[state]['pct_population_twodose'] = seconddose
         
-        json[state]['pct_population_reg'] = list(sub_df['Total Individuals Vaccinated']*100/population[state]['Population'])
+        json[state]['pct_population_reg'] = list(sub_df['Total Individuals Vaccinated'].iloc[:,0]*100/population[state]['Population'])
         
-        covishield_prop = list(sub_df['Total CoviShield Administered']/(sub_df['Total CoviShield Administered']+sub_df['Total Covaxin Administered']))
-        json[state]['pct_covishield'] = covishield_prop*100
+        covishield_prop = list(sub_df['Total CoviShield Administered']*100/(sub_df['Total CoviShield Administered']+sub_df['Total Covaxin Administered']))
+        json[state]['pct_covishield'] = covishield_prop
         
         #covaxine_prop = list(sub_df['Total Covaxin Administered']/population[state]['Population'])
         #json[state]['pct_covaxine'] = covishield_prop*100
@@ -173,11 +173,17 @@ def to_json(df):
     return json
 
 
-# In[46]:
+# In[7]:
 
 
 state_vacc = to_json(vacc)
 
 with open("state_vaccine.json","w") as file:
     json.dump(state_vacc,file)
+
+
+# In[ ]:
+
+
+
 
